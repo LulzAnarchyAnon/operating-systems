@@ -1,6 +1,6 @@
 # Mirror & Archive of Operating Systems
 
-![Bild](img/MF.png) *by Markus Fleschutz* 📅 *updated May 12, 2021*
+*by Markus Fleschutz* 📅 *updated May 12, 2021*
 
 **Need to reinstall your operating system (OS)? Or want to try a newer, a former, a historic, or even a different OS? All downloads below are checksum verified and provided through the IPFS gateway. For installation instructions visit the OS manufacturers Website (🏠).** 
 
