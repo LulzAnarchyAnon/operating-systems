@@ -1,15 +1,15 @@
 # Mirror & Archive of Operating Systems
 
-*by Markus Fleschutz* 📅 *updated June 06, 2021*
+*by Markus Fleschutz* 📅 *updated June 27, 2021*
 
 **Need to reinstall your operating system (OS)? Or want to try a newer, a former, a historic, or even a different OS? All downloads below are checksum verified and provided through the IPFS gateway. For installation instructions visit the OS manufacturers Website (🏠).** 
 
 ## 👍 Active Operating Systems
 
-- **Android-x86** [⬇ downloads](https://cloudflare-ipfs.com/ipfs/QmWG6iBfucV4mPLyDP5zzu9jLwnFwkKLizqrRYnUfhjzcd) (v5.1 → 9.0 for x86) [🏠](https://www.android-x86.org) 
+- **Android-x86** [⬇ downloads](https://cloudflare-ipfs.com/ipfs/QmdQrao7eUjcZ1GbR8rG21PnAw1vs5VWrvUFCvsDFGaMk8) (v5.1 → 9.0 for x86) [🏠](https://www.android-x86.org) 
 - **Arch Linux** [⬇ downloads](https://cloudflare-ipfs.com/ipfs/QmPhGydGwxbMbvNuLSw72H36USdt8QfyT4w4mk2j7VLCKW) (v2017.09 → 2021.06 for x86) [🏠](https://archlinux.org) 
 - **Chromium OS** [⬇ downloads](https://cloudflare-ipfs.com/ipfs/QmZF34ExoBB1a5cforj7n1fM9KpryNSvjGdLSFSV6vrzFb ) (v80 → 85 for amd/x86) [🏠](https://www.chromium.org/chromium-os) 
-- **Debian** [⬇ downloads](https://cloudflare-ipfs.com/ipfs/QmNfYb7DW21ZP6E5ADSZGWZu6p4HYdxMSvzbWME9Tp5aiT) (v8.11 → 10.9 for arm/mips/ppc64/s390/x86) [🏠](https://www.debian.org) 
+- **Debian** [⬇ downloads](https://cloudflare-ipfs.com/ipfs/QmWRwZ3gyxWKJqFMzxkmgtgBhfLsXBjPgEo1pRXYTqBmdq) (v8.11 → 10.10 for arm/mips/ppc64/s390/x86) [🏠](https://www.debian.org) 
 - **elementary OS** [⬇ downloads](https://cloudflare-ipfs.com/ipfs/QmZXR4CKWcYZQtS8hzqxHQKVE6roCHFdgnFxpbqjeoWwiz ) (v0.4.1 → 5.1 for x86) [🏠](https://elementary.io) 
 - **Fedora** [⬇ downloads](https://cloudflare-ipfs.com/ipfs/QmaGVcmqcwBrHPkR7CWeWhf7jesyCSKSYf5sspHj4YXgpe ) (v26 → 34 for aarch64/x86) [🏠](https://getfedora.org) 
 - **FreeBSD** [⬇ downloads](https://cloudflare-ipfs.com/ipfs/QmRt7gh2qxFyMLZjUtK1D6eN2pdtMPeiPitNZY4ckAhMGd ) (v11.4 → 13.0 for arm64/powerpc/sparc64/x86) [🏠](https://www.freebsd.org)
@@ -26,9 +26,9 @@
 - **SystemRescue** [⬇ downloads](https://cloudflare-ipfs.com/ipfs/QmP3fjAgJZeBsaWV9zubzuZwacimRXty2PkV8RGknUpCu7) (v6.1 → 8.03 for x86) [🏠](http://www.system-rescue-cd.org/) 
 - **Tails** [⬇ downloads](https://cloudflare-ipfs.com/ipfs/QmRf7hrpqTG8WYr9WUkWAZTVGY4nHwizRFNWfP8VC2K13e) (v3.16 → 4.19 for x86) [🏠](https://tails.boum.org/) 
 - **TrueNAS** [⬇ downloads](https://cloudflare-ipfs.com/ipfs/Qma3n1u5J3hmiTGu3nz3u5Ln7BQh9Eyodwd1sfV2mJoynW ) (v11.0 → 12.0 for x86) [🏠](https://www.truenas.org)
-- **Ubuntu** [⬇ downloads](https://cloudflare-ipfs.com/ipfs/QmNt5ZU2SGmKKZ5ZzNBFVD6U7adnbfXzVE2jxgP663rVgL) (v04.10 → 21.04 for arm64/pi2/pi3/pi4/ppc64/s390/x86) [🏠](https://www.ubuntu.com/) 
+- **Ubuntu** [⬇ downloads](https://cloudflare-ipfs.com/ipfs/QmNt5ZU2SGmKKZ5ZzNBFVD6U7adnbfXzVE2jxgP663rVgL) (v4.10 → 21.04 for arm64/pi2/pi3/pi4/ppc64/s390/x86) [🏠](https://www.ubuntu.com/) 
 - **Ubuntu Core** [⬇ downloads](https://cloudflare-ipfs.com/ipfs/QmdZRfLgQrh71X3ng1avdrbVyrLz2tECEY3AAaT3bRZ5wE) (v16 → 20 for pi2/pi3/pi4) [🏠](https://www.ubuntu.com/core)
-- **Windows** [⬇ downloads](https://cloudflare-ipfs.com/ipfs/Qmbsdi5CoHne5RTxUupjzpu2tXwbcsqwE3sZsewnqrFoeN) (Win 95 → 10 21H1 for x86) [🏠](https://www.microsoft.com) 
+- **Windows** [⬇ downloads](https://cloudflare-ipfs.com/ipfs/QmQod2GVUTTptjCbccv8vAwbphNEQNztue4Zr36tN1HLWX) (Win 95 → 10 21H1 for x86) [🏠](https://www.microsoft.com) 
 - **Xubuntu** [⬇ downloads](https://cloudflare-ipfs.com/ipfs/QmQWrz3MFHFCcmyLQG9nj4b9s6c24bnAs8gganWG7oifG1 ) (v10.04 → 21.04 for x86) [🏠](https://www.xubuntu.org) 
 
 ## Discontinued Operating Systems 
@@ -61,7 +61,7 @@ ipfs pin add /ipns/k51qzi5uqu5dj55giu6gxr1zr53f63ola5owh8g5wf7hlcx90em0gpg9c553r
 - **What's the differences between: Live? Installer? NetInstaller?**
 - *Live* is for running the OS without installing it first. *Installer* is to install the OS without the need of a network connection. *NetInstaller* is a very small image and the rest is downloaded during installation.
 - **How can I verify my downloaded file?**
-- Compare the checksum of your file against [our checksum list (MD5+SHA1+SHA256 in XML format)](/Downloads/checksum_list.xml) or against the OS manufacturers checksum.
+- Compare the checksum of your file against our [Checksum list (MD5+SHA1+SHA256 in XML format)](/Downloads/checksum_list.xml) or against the OS manufacturers checksum.
 - **How do I copy the downloaded .ISO or .IMG file to my USB stick or SD card?**
 - You need a software to create a bootable Live USB system. We recommend [Rufus](https://rufus.ie) for Windows ISO's, otherwise [UNetbootin](https://unetbootin.github.io) - both are available for free on Linux, Mac OS and Windows.
 - **How can I boot the OS via network?**
@@ -76,8 +76,8 @@ ipfs pin add /ipns/k51qzi5uqu5dj55giu6gxr1zr53f63ola5owh8g5wf7hlcx90em0gpg9c553r
 
 ##  🔎 Statistics
 
-- **Archived** 30 operating systems with 209 releases
-- **Hosting** 718 GB with 652 files in 402 folders by go-ipfs 0.8.0
+- **Archived** 30 operating systems with 210 releases
+- **Hosting** 725 GB with 663 files in 404 folders by go-ipfs 0.8.0
 - **Backed up** multiple times and distributed world-wide
 - **Seeding** 24/7 since January 7, 2017
 
