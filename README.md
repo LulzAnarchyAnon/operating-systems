@@ -43,30 +43,39 @@
 ## Frequently Asked Questions (FAQ)
 
 **What do the various abbreviations stand for?**
+
 **amd64** = **x64** = **x86-64** = AMD/Intel x86 64-bit processor · **i386** = **x32** = **x86-32** = AMD/Intel x86 32-bit processor  ·  **arm64** = **aarch64** = ARM 64-bit processor · **armel** = older ARM 32-bit processor · **armv7** = **armhf** = newer ARM 32-bit processor · **hyperV** = Microsoft Windows VM · **pi2/pi3/pi4** = Raspberry Pi 2/3/4 · **ppc64** = **macppc** = **powerpc** = PowerPC 64-bit processor · **s390** = IBM System/390 · **sparc64** = Oracle SPARC 64-bit processor · **LTS** = long-term support · **VM** = virtual machine
 
 **What's the differences between: Live? Installer? NetInstaller?**
+
 *Live* is for running the OS without installing it first. *Installer* is to install the OS without the need of a network connection. *NetInstaller* is a very small image and the rest is downloaded during installation.
 
 **How can I verify my downloaded file?**
+
 Compare the checksum of your file against our [file checksums (MD5+SHA1+SHA256 in XML format)](/Downloads/file_checksums.xml) and/or against the OS manufacturers checksum.
 
 **How do I copy the downloaded .ISO or .IMG file to my USB stick or SD card?**
+
 You need a software to create a bootable Live USB system. For Windows ISO's we recommend [Rufus](https://rufus.ie), otherwise [UNetbootin](https://unetbootin.github.io) - both are available for free on Linux, Mac OS and Windows.
 
 **How can I boot the OS via network?**
+
 You need a *Preboot eXecution Environment* (PXE). See [Wikipedia:PXE](https://en.wikipedia.org/wiki/Preboot_Execution_Environment) for details.
 
 **What kind of OS's get archived by *OSMA*?**
+
 Release versions of established OS's only. No alpha or beta versions, no release candidates, no flavor editions.
 
 **What's *IPFS*?**
+
 *IPFS* is a peer-to-peer hypermedia protocol to make the internet faster, safer, and more open. IPFS provides fast and reliable downloads by hash-based addressing, distributed infrastructure and no single point of failure. See [ipfs.io](https://ipfs.io) for more information.
 
 **How to download directly with IPFS?**
+
 Install IPFS, select the .ISO or .IMG file in the [IPFS hash list](https://github.com/fleschutz/OSMA/blob/main/Downloads/IPFS_hashes.txt) and use the corresponding hash value to enter: `ipfs get <HASHVALUE>` (advantage: distributed download and no need for verification, also perfect for automation and command-line usage). To pin the full archive check your free disk space, then execute: `ipfs pin add /ipns/k51qzi5uqu5dj55giu6gxr1zr53f63ola5owh8g5wf7hlcx90em0gpg9c553r3`
 
 **I ❤️ *OSMA*. How can I support it?**
+
 Donate to [PayPal.me](https://www.paypal.me/Fleschutz) 👏 or install IPFS and pin the full archive or any part of it. This will improve download speeds and reliability for all of us.
 
 ##  🔎 Statistics
