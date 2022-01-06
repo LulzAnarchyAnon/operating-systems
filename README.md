@@ -10,12 +10,12 @@ Operating Systems - Mirror & Archive
 | **Chromium OS**       | [80 ... 85](https://cf-ipfs.com/ipfs/QmZF34ExoBB1a5cforj7n1fM9KpryNSvjGdLSFSV6vrzFb)           | arm/x86 | [🏠](https://www.chromium.org/chromium-os) |
 | **Debian**            | [8.11 ... 11.0](https://cf-ipfs.com/ipfs/QmQcR2BKHJ8KhG5UUKWTep9ncQ8fF3fxM5qGW9ZBBoQdXN)       | arm/mips/ppc64/s390/x86 | [🏠](https://www.debian.org) | 
 | **elementary OS**     | [0.4.1 ... 6.0](https://cf-ipfs.com/ipfs/QmVU3nySUnUaL6Z7EQK6bKv7YxAj6Mksjgr99jBWNKaUhx)       | x86   | [🏠](https://elementary.io) |
-- **Fedora** [26 ... 34 ⬇ downloads](https://cf-ipfs.com/ipfs/QmaGVcmqcwBrHPkR7CWeWhf7jesyCSKSYf5sspHj4YXgpe ) for aarch64/x86 [🏠](https://getfedora.org) 
-- **FreeBSD** [11.4 ... 13.0 ⬇ downloads](https://cf-ipfs.com/ipfs/QmRt7gh2qxFyMLZjUtK1D6eN2pdtMPeiPitNZY4ckAhMGd ) for arm64/powerpc/sparc64/x86 [🏠](https://www.freebsd.org)
-- **HypriotOS** [1.0 ... 1.12.3 ⬇ downloads](https://cf-ipfs.com/ipfs/QmVaauqYstcdrtz4XhmYAtBamyQKCjTZyH6NViQHXiV1r9 ) for pi3 [🏠](https://blog.hypriot.com)
-- **Kali Linux** [2020.1 ... 2021.2 ⬇ downloads](https://cf-ipfs.com/ipfs/QmSYgmTUSxwTGUc6YDRPMBNt2t5vCkWiuXizEAbmJu1bTs) for armel/armhf/x86 [🏠](https://www.kali.org) 
-- **Knoppix** [6.0 ... 9.1 ⬇ downloads](https://cf-ipfs.com/ipfs/QmS9ZHoBcM6Q98UUiqhhvUAi7hbj39Yuy2bRNxhhVpr3QN) for x86 [🏠](http://www.knoppix.org/) 
-- **LibreELEC** [7 ... 10 ⬇ downloads](https://cf-ipfs.com/ipfs/QmRDuKVswsckkZs1wXSqGa8Dy1nvcE73dR9PHN3bmjpKcj) for arm/x86 [🏠](https://libreelec.tv)
+| **Fedora**            | [26 ... 34](https://cf-ipfs.com/ipfs/QmaGVcmqcwBrHPkR7CWeWhf7jesyCSKSYf5sspHj4YXgpe)           | aarch64/x86 | [🏠](https://getfedora.org) |
+| **FreeBSD**           | [11.4 ... 13.0](https://cf-ipfs.com/ipfs/QmRt7gh2qxFyMLZjUtK1D6eN2pdtMPeiPitNZY4ckAhMGd)       | arm64/powerpc/sparc64/x86 | [🏠](https://www.freebsd.org) |
+| **HypriotOS**         | [1.0 ... 1.12.3](https://cf-ipfs.com/ipfs/QmVaauqYstcdrtz4XhmYAtBamyQKCjTZyH6NViQHXiV1r9)      | pi3     | [🏠](https://blog.hypriot.com) |
+| **Kali Linux**        | [2020.1 ... 2021.2](https://cf-ipfs.com/ipfs/QmSYgmTUSxwTGUc6YDRPMBNt2t5vCkWiuXizEAbmJu1bTs)   | armel/armhf/x86 | [🏠](https://www.kali.org) | 
+| **Knoppix**           | [6.0 ... 9.1](https://cf-ipfs.com/ipfs/QmS9ZHoBcM6Q98UUiqhhvUAi7hbj39Yuy2bRNxhhVpr3QN)         | x86 | [🏠](http://www.knoppix.org/) |
+| **LibreELEC**         | [7 ... 10](https://cf-ipfs.com/ipfs/QmRDuKVswsckkZs1wXSqGa8Dy1nvcE73dR9PHN3bmjpKcj)            | arm/x86 | [🏠](https://libreelec.tv) |
 - **Linux Mint** [18.2 ... 20.2 ⬇ downloads](https://cf-ipfs.com/ipfs/Qmf7r8dCUsh5iB1ca3eRxkkcQyaR8WjJpHZsx7eQP4eiQv) for x86 [🏠](https://linuxmint.com) 
 - **OpenBSD** [6.2 ... 6.9 ⬇ downloads](https://cf-ipfs.com/ipfs/QmPwHKjo5KMYCNDTPpBTeCv7KS7mc4vWHZbfxvCpi4VAuv) for alpha/amd64/arm64/armv7/ i386/octeon/powerpc64/sparc64 [🏠](http://www.openbsd.org)
 - **openSUSE** [15.0 ... 15.3 ⬇ downloads](https://cf-ipfs.com/ipfs/QmNcvhQWgzv946PAT1dBEN5FHJphB6W9kyEcZeDECNYMGM ) for x86  [🏠](https://www.opensuse.org)
