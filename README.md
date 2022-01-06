@@ -32,12 +32,14 @@ Operating Systems - Mirror & Archive (736 GB)
 
 ## Discontinued Operating Systems 
 
-- **CentOS** [6.10 ... 8.4 ⬇ downloads](https://cf-ipfs.com/ipfs/QmcPZjqBqYxcpspDj8bZ6tMHoaz1yWYhMXUo6UMbdjAkfB) for x86 [🏠](https://www.centos.org)
-- **CoreOS** [⬇ downloads](https://cf-ipfs.com/ipfs/QmZq9a53v9cepjhVsPN6S3sd12tntnxJiECtZFkcH8KBX9 ) for x86 [🏠](https://coreos.com/) 
-- **INSERT** [1.3.9b ⬇ downloads](https://cf-ipfs.com/ipfs/QmVpmV9bSigEbC4MTaw9G7x3USgeCEfPeTtERc3VFYEymx) for x86 [🏠](https://www.inside-security.de/insert.html)
-- **Kaspersky Rescue Disk** [10 ... 18 ⬇ downloads](https://cf-ipfs.com/ipfs/QmVMeBhS7K3DMXxuF3Q1MbSdANT1b4mkwXCp7nqLV6n4Lt ) for x86 [🏠](https://support.kaspersky.com/viruses/rescuedisk)
-- **OpenSolaris** [2009.06 ⬇ downloads](https://cf-ipfs.com/ipfs/QmdRpuTZTyKsQSXPt3dyv6WdTY7ZyaRkkU5S3Z9tkPriPv ) for x86 [🏠](https://www.oracle.com/technetwork/server-storage/solaris/index-135144.html) 
-- **Remix OS** [2016.11 ⬇ downloads](https://cf-ipfs.com/ipfs/QmPhohZB29FNYqjBmxvPeXB1Jbd1anSq9tfXDE2xhZM54u ) for x86 [🏠](http://cn.jide.com/remixos) 
+| Name & Website                                   | Available Downloads                                                                            | Supported Processors |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------- | -------------------- |
+| **[CentOS](https://www.centos.org)**             | [6.10 ... 8.4](https://cf-ipfs.com/ipfs/QmcPZjqBqYxcpspDj8bZ6tMHoaz1yWYhMXUo6UMbdjAkfB)        | x86                  |
+| **[CoreOS](https://coreos.com/)**                | [1.0](https://cf-ipfs.com/ipfs/QmZq9a53v9cepjhVsPN6S3sd12tntnxJiECtZFkcH8KBX9)                 | x86                  |
+| **[INSERT](https://www.inside-security.de/insert.html)** | [1.3.9b](https://cf-ipfs.com/ipfs/QmVpmV9bSigEbC4MTaw9G7x3USgeCEfPeTtERc3VFYEymx)      | x86                  |
+| **[Kaspersky Rescue Disk](https://support.kaspersky.com/viruses/rescuedisk)** | [10 ... 18](https://cf-ipfs.com/ipfs/QmVMeBhS7K3DMXxuF3Q1MbSdANT1b4mkwXCp7nqLV6n4Lt) | x86 |
+| **[OpenSolaris](https://www.oracle.com/technetwork/server-storage/solaris/index-135144.html)** | [2009.06](https://cf-ipfs.com/ipfs/QmdRpuTZTyKsQSXPt3dyv6WdTY7ZyaRkkU5S3Z9tkPriPv) | x86    |
+| **[Remix OS](http://cn.jide.com/remixos)**       | [2016.11](https://cf-ipfs.com/ipfs/QmPhohZB29FNYqjBmxvPeXB1Jbd1anSq9tfXDE2xhZM54u)             | x86                  |
 
 ## Frequently Asked Questions (FAQ)
 
