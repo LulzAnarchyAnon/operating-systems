@@ -6,8 +6,12 @@
 
 ## 👍 Active Operating Systems
 
-- **Android-x86** [5.1 ... 9.0 ⬇ downloads](https://cf-ipfs.com/ipfs/QmdQrao7eUjcZ1GbR8rG21PnAw1vs5VWrvUFCvsDFGaMk8) for x86 [🏠](https://www.android-x86.org) 
-- **Arch Linux** [2017.09 ... 2021.08 ⬇ downloads](https://cf-ipfs.com/ipfs/QmRQzGHjXxR7ZBGtn95BjiJj5poi9upA83pJAv7qgL73HQ) for x86 [🏠](https://archlinux.org) 
+| Name                    | Downloads                                                                                      | CPU   | Website                           |
+| ----------------------- | ---------------------------------------------------------------------------------------------- | ----- | --------------------------------- |
+| **Android-x86**         | [5.1 ... 9.0](https://cf-ipfs.com/ipfs/QmdQrao7eUjcZ1GbR8rG21PnAw1vs5VWrvUFCvsDFGaMk8)         | x86   | [🏠](https://www.android-x86.org) |
+| **Arch Linux**          | [2017.09 ... 2021.08](https://cf-ipfs.com/ipfs/QmRQzGHjXxR7ZBGtn95BjiJj5poi9upA83pJAv7qgL73HQ) | x86   | [🏠](https://archlinux.org)       |
+
+
 - **Chromium OS** [80 ... 85 ⬇ downloads](https://cf-ipfs.com/ipfs/QmZF34ExoBB1a5cforj7n1fM9KpryNSvjGdLSFSV6vrzFb ) for amd/x86 [🏠](https://www.chromium.org/chromium-os) 
 - **Debian** [8.11 ... 11.0 ⬇ downloads](https://cf-ipfs.com/ipfs/QmQcR2BKHJ8KhG5UUKWTep9ncQ8fF3fxM5qGW9ZBBoQdXN) for arm/mips/ppc64/s390/x86 [🏠](https://www.debian.org) 
 - **elementary OS** [0.4.1 ... 6.0 ⬇ downloads](https://cf-ipfs.com/ipfs/QmVU3nySUnUaL6Z7EQK6bKv7YxAj6Mksjgr99jBWNKaUhx) for x86 [🏠](https://elementary.io) 
