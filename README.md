@@ -53,7 +53,7 @@ Mirror & Archive of Operating Systems
 
 **How can I verify my downloaded file?**
 
-Compare the checksum of your file against our [file checksums (MD5+SHA1+SHA256 in XML format)](/Downloads/file_checksums.xml) and/or against the OS manufacturers checksum.
+Compare the checksum of your file against our [file checksums (MD5+SHA1+SHA256 in XML format)](file_checksums.xml) and/or against the OS manufacturers checksum.
 
 **How do I copy the downloaded .ISO or .IMG file to my USB stick or SD card?**
 
@@ -73,7 +73,7 @@ Release versions of established OS's only. No alpha or beta versions, no release
 
 **How to download directly with IPFS?**
 
-Install IPFS, select the .ISO or .IMG file in the [IPFS hash list](https://github.com/fleschutz/OSMA/blob/main/Downloads/IPFS_hashes.txt) and use the corresponding hash value to enter: `ipfs get <HASHVALUE>` (advantage: distributed download and no need for verification, also perfect for automation and command-line usage). To pin the full archive check your free disk space, then execute: `ipfs pin add /ipns/k51qzi5uqu5dj55giu6gxr1zr53f63ola5owh8g5wf7hlcx90em0gpg9c553r3`
+Install IPFS, select the .ISO or .IMG file in the [IPFS hash list](IPFS_hashes.txt) and use the corresponding hash value to enter: `ipfs get <HASHVALUE>` (advantage: distributed download and no need for verification, also perfect for automation and command-line usage). To pin the full archive check your free disk space, then execute: `ipfs pin add /ipns/k51qzi5uqu5dj55giu6gxr1zr53f63ola5owh8g5wf7hlcx90em0gpg9c553r3`
 
 **I ❤️ *OSMA*. How can I support it?**
 
@@ -89,7 +89,7 @@ Donate to [PayPal.me](https://www.paypal.me/Fleschutz) 👏 or install IPFS and 
 See also
 -----
 
-* [The complete OSMA archive](https://cf-ipfs.com/ipns/k51qzi5uqu5dj55giu6gxr1zr53f63ola5owh8g5wf7hlcx90em0gpg9c553r3) - all OSMA downloads available through the IPFS gateway 
+* [The complete OSMA archive](https://storry.tv/ipns/k51qzi5uqu5dj55giu6gxr1zr53f63ola5owh8g5wf7hlcx90em0gpg9c553r3) - all OSMA downloads available through the IPFS gateway 
 * [ipfs.io](https://ipfs.io) - IPFS explained, docs, blog and more
 * [docs.ipfs.io/install/ipfs-desktop](https://docs.ipfs.io/install/ipfs-desktop/) - installation instructions for IPFS
 * [ipfs.github.io/public-gateway-checker](https://ipfs.github.io/public-gateway-checker/) - list of public gateways to IPFS
