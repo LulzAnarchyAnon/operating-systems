@@ -39,7 +39,7 @@ Mirror & Archive of Operating Systems
 | **[INSERT](https://www.inside-security.de/insert.html)** | [1.3.9b](https://cloudflare-ipfs.com/ipfs/QmVpmV9bSigEbC4MTaw9G7x3USgeCEfPeTtERc3VFYEymx)      | x86                  |
 | **[Kaspersky Rescue Disk](https://support.kaspersky.com/viruses/rescuedisk)** | [10 ... 18](https://cloudflare-ipfs.com/ipfs/QmVMeBhS7K3DMXxuF3Q1MbSdANT1b4mkwXCp7nqLV6n4Lt) | x86|
 | **[OpenSolaris](https://www.oracle.com/technetwork/server-storage/solaris/index-135144.html)** | [2009.06](https://cloudflare-ipfs.com/ipfs/QmdRpuTZTyKsQSXPt3dyv6WdTY7ZyaRkkU5S3Z9tkPriPv) | x86    |
-| **[Remix OS](http://cn.jide.com/remixos)**       | [2016.11](https://cloudflare-ipfs.com/ipfs/QmPhohZB29FNYqjBmxvPeXB1Jbd1anSq9tfXDE2xhZM54u)             | x86                  |
+| **[Remix OS](http://cn.jide.com/remixos)**       | [2016.11](https://greyh.at/ipfs/QmPhohZB29FNYqjBmxvPeXB1Jbd1anSq9tfXDE2xhZM54u)             | x86                  |
 
 ## Frequently Asked Questions (FAQ)
 
