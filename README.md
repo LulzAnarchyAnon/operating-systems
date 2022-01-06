@@ -3,7 +3,7 @@ Operating Systems - Mirror & Archive (736 GB)
 
 **Need to reinstall your operating system (OS)? Or want to try a newer, a former, a historic, or even a different OS? All downloads below are checksum verified and provided through the IPFS gateway. For system requirements and installation instructions visit the OS manufacturers website, please.** 📅 *updated August 31, 2021*
 
-| Name & Website                                   | Available Downloads                                                                            | Supported Processors |
+| Name & Link                                      | Available Downloads                                                                            | Supported Processors |
 | ------------------------------------------------ | ---------------------------------------------------------------------------------------------- | ----------------- |
 | **[Android-x86](https://www.android-x86.org)**   | [5.1 ... 9.0](https://cf-ipfs.com/ipfs/QmdQrao7eUjcZ1GbR8rG21PnAw1vs5VWrvUFCvsDFGaMk8)         | x86               |
 | **[Arch Linux](https://archlinux.org)**          | [2017.09 ... 2021.08](https://cf-ipfs.com/ipfs/QmRQzGHjXxR7ZBGtn95BjiJj5poi9upA83pJAv7qgL73HQ) | x86               |
