@@ -1,7 +1,7 @@
 Operating Systems - Mirror & Archive
 ====================================
 
-**Need to reinstall your operating system (OS)? Or want to try a newer, a former, a historic, or even a different OS? All downloads below are checksum verified and provided through the IPFS gateway. For system requirements and installation instructions visit the OS manufacturers website (🏠), please.** *by Markus Fleschutz* 📅 *updated August 31, 2021*
+**Need to reinstall your operating system (OS)? Or want to try a newer, a former, a historic, or even a different OS? All downloads below are checksum verified and provided through the IPFS gateway. For system requirements and installation instructions visit the OS manufacturers website (🏠), please.** 📅 *updated August 31, 2021*
 
 | Name                  | Downloads                                                                                      | CPU   | Website                           |
 | --------------------- | ---------------------------------------------------------------------------------------------- | ----- | --------------------------------- |
@@ -16,19 +16,19 @@ Operating Systems - Mirror & Archive
 | **Kali Linux**        | [2020.1 ... 2021.2](https://cf-ipfs.com/ipfs/QmSYgmTUSxwTGUc6YDRPMBNt2t5vCkWiuXizEAbmJu1bTs)   | armel/armhf/x86 | [🏠](https://www.kali.org) | 
 | **Knoppix**           | [6.0 ... 9.1](https://cf-ipfs.com/ipfs/QmS9ZHoBcM6Q98UUiqhhvUAi7hbj39Yuy2bRNxhhVpr3QN)         | x86 | [🏠](http://www.knoppix.org/) |
 | **LibreELEC**         | [7 ... 10](https://cf-ipfs.com/ipfs/QmRDuKVswsckkZs1wXSqGa8Dy1nvcE73dR9PHN3bmjpKcj)            | arm/x86 | [🏠](https://libreelec.tv) |
-- **Linux Mint** [18.2 ... 20.2 ⬇ downloads](https://cf-ipfs.com/ipfs/Qmf7r8dCUsh5iB1ca3eRxkkcQyaR8WjJpHZsx7eQP4eiQv) for x86 [🏠](https://linuxmint.com) 
-- **OpenBSD** [6.2 ... 6.9 ⬇ downloads](https://cf-ipfs.com/ipfs/QmPwHKjo5KMYCNDTPpBTeCv7KS7mc4vWHZbfxvCpi4VAuv) for alpha/amd64/arm64/armv7/ i386/octeon/powerpc64/sparc64 [🏠](http://www.openbsd.org)
-- **openSUSE** [15.0 ... 15.3 ⬇ downloads](https://cf-ipfs.com/ipfs/QmNcvhQWgzv946PAT1dBEN5FHJphB6W9kyEcZeDECNYMGM ) for x86  [🏠](https://www.opensuse.org)
-- **Qubes OS** [1.0 ... 4.0.4 ⬇ downloads](https://cf-ipfs.com/ipfs/QmR433KbGHuXSZvukNNahyy61QFw4zD8e1nRuGzgtzbFYk) for x86 [🏠](https://www.qubes-os.org/) 
-- **RancherOS** [1.0.3 ... 1.5.6 ⬇ downloads](https://cf-ipfs.com/ipfs/QmT4NQYJU6mMmpJ9moooPgJpJDVoNP9rL7H3yumqpUqgb4 ) for hyperV/VMware/x86 [🏠](http://rancher.com/rancher-os/)  
-- **ReactOS** [0.4.7 ... 0.4.13 ⬇ downloads](https://cf-ipfs.com/ipfs/QmQQDixrDpCRTY7VtvAfPUYGievsaoCF3VFyzkD158ZQ2E) for x86 [🏠](https://www.reactos.org) 
-- **SystemRescue** [6.1.8 ... 8.04 ⬇ downloads](https://cf-ipfs.com/ipfs/QmbAo1LEw1hjpiseBDgNMAJ81mudJk8zjRbrP6sp2YyGcG) for x86 [🏠](http://www.system-rescue-cd.org/) 
-- **Tails** [3.16 ... 4.21 ⬇ downloads](https://cf-ipfs.com/ipfs/QmdCkTqikX6bGBU8FMRgufnRL98KhwXALa6KGRkzN43KiZ) for x86 [🏠](https://tails.boum.org/) 
-- **TrueNAS** [11.0 ... 12.0 ⬇ downloads](https://cf-ipfs.com/ipfs/Qma3n1u5J3hmiTGu3nz3u5Ln7BQh9Eyodwd1sfV2mJoynW ) for x86 [🏠](https://www.truenas.org)
-- **Ubuntu** [4.10 ... 21.04 ⬇ downloads](https://cf-ipfs.com/ipfs/QmQD7zBkoDehQRV46bfGXHLVF5TxJXkpxkaPwvXy8pxKJX) for arm64/pi2/pi3/pi4/ppc64/s390/x86 [🏠](https://www.ubuntu.com/) 
-- **Ubuntu Core** [16 ... 20 ⬇ downloads](https://cf-ipfs.com/ipfs/QmdZRfLgQrh71X3ng1avdrbVyrLz2tECEY3AAaT3bRZ5wE) for pi2/pi3/pi4 [🏠](https://www.ubuntu.com/core)
-- **Windows** [95 ... 10 21H1 ⬇ downloads](https://cf-ipfs.com/ipfs/QmQdcFHgbzNctXmHPhEwRK2evMxypSrkQ9ppnKyBcxkwwy) for x86 [🏠](https://www.microsoft.com) 
-- **Xubuntu** [10.04 ... 21.04 ⬇ downloads](https://cf-ipfs.com/ipfs/QmaTB2Ugp7UtBa85krU8M1rHBoiX8VubodtRni3p5Vzpgo) for x86 [🏠](https://www.xubuntu.org) 
+| **Linux Mint**        | [18.2 ... 20.2](https://cf-ipfs.com/ipfs/Qmf7r8dCUsh5iB1ca3eRxkkcQyaR8WjJpHZsx7eQP4eiQv)       | x86 | [🏠](https://linuxmint.com) | 
+| **OpenBSD**           | [6.2 ... 6.9](https://cf-ipfs.com/ipfs/QmPwHKjo5KMYCNDTPpBTeCv7KS7mc4vWHZbfxvCpi4VAuv)         | alpha/amd64/arm64/armv7/i386/octeon/powerpc64/sparc64 | [🏠](http://www.openbsd.org) |
+| **openSUSE**          | [15.0 ... 15.3](https://cf-ipfs.com/ipfs/QmNcvhQWgzv946PAT1dBEN5FHJphB6W9kyEcZeDECNYMGM )      | x86 | [🏠](https://www.opensuse.org) |
+| **Qubes OS**          | [1.0 ... 4.0.4](https://cf-ipfs.com/ipfs/QmR433KbGHuXSZvukNNahyy61QFw4zD8e1nRuGzgtzbFYk)       | x86 | [🏠](https://www.qubes-os.org/) |
+| **RancherOS**         | [1.0.3 ... 1.5.6](https://cf-ipfs.com/ipfs/QmT4NQYJU6mMmpJ9moooPgJpJDVoNP9rL7H3yumqpUqgb4)     | hyperV/VMware/x86 | [🏠](http://rancher.com/rancher-os/) | 
+| **ReactOS**           | [0.4.7 ... 0.4.13](https://cf-ipfs.com/ipfs/QmQQDixrDpCRTY7VtvAfPUYGievsaoCF3VFyzkD158ZQ2E)    | x86    | [🏠](https://www.reactos.org) | 
+| **SystemRescue**      | [6.1.8 ... 8.04](https://cf-ipfs.com/ipfs/QmbAo1LEw1hjpiseBDgNMAJ81mudJk8zjRbrP6sp2YyGcG)      | x86    | [🏠](http://www.system-rescue-cd.org/) |
+| **Tails**             | [3.16 ... 4.21](https://cf-ipfs.com/ipfs/QmdCkTqikX6bGBU8FMRgufnRL98KhwXALa6KGRkzN43KiZ)       | x86    | [🏠](https://tails.boum.org/) |
+| **TrueNAS**           | [11.0 ... 12.0](https://cf-ipfs.com/ipfs/Qma3n1u5J3hmiTGu3nz3u5Ln7BQh9Eyodwd1sfV2mJoynW)       | x86    | [🏠](https://www.truenas.org) |
+| **Ubuntu**            | [4.10 ... 21.04](https://cf-ipfs.com/ipfs/QmQD7zBkoDehQRV46bfGXHLVF5TxJXkpxkaPwvXy8pxKJX)      | arm64/pi2/pi3/pi4/ppc64/s390/x86 | [🏠](https://www.ubuntu.com/) |
+| **Ubuntu Core**       | [16 ... 20](https://cf-ipfs.com/ipfs/QmdZRfLgQrh71X3ng1avdrbVyrLz2tECEY3AAaT3bRZ5wE)           | pi2/pi3/pi4 | [🏠](https://www.ubuntu.com/core) |
+| **Windows**           | [95 ... 10 21H1](https://cf-ipfs.com/ipfs/QmQdcFHgbzNctXmHPhEwRK2evMxypSrkQ9ppnKyBcxkwwy)      | x86 | [🏠](https://www.microsoft.com) |
+| **Xubuntu**           | [10.04 ... 21.04](https://cf-ipfs.com/ipfs/QmaTB2Ugp7UtBa85krU8M1rHBoiX8VubodtRni3p5Vzpgo)     | x86 | [🏠](https://www.xubuntu.org) |
 
 ## Discontinued Operating Systems 
 
