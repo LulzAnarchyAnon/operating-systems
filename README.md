@@ -1,5 +1,5 @@
-Operating Systems - Mirror & Archive (736 GB)
-=============================================
+Mirror & Archive of Operating Systems
+=====================================
 
 **Need to reinstall your operating system (OS)? Or want to try a newer, a former, a historic, or even a different OS? All downloads below are checksum verified and provided through the IPFS gateway. For system requirements and installation instructions visit the OS manufacturers website, please.** 📅 *updated August 31, 2021*
 
