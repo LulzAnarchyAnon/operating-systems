@@ -4,40 +4,40 @@ Operating Systems - Mirror & Archive (736 GB)
 **Need to reinstall your operating system (OS)? Or want to try a newer, a former, a historic, or even a different OS? All downloads below are checksum verified and provided through the IPFS gateway. For system requirements and installation instructions visit the OS manufacturers website, please.** 📅 *updated August 31, 2021*
 
 | Name & Link                                      | Available Downloads                                                                            | Supported Processors |
-| ------------------------------------------------ | ---------------------------------------------------------------------------------------------- | ----------------- |
-| **[Android-x86](https://www.android-x86.org)**   | [5.1 ... 9.0](https://cf-ipfs.com/ipfs/QmdQrao7eUjcZ1GbR8rG21PnAw1vs5VWrvUFCvsDFGaMk8)         | x86               |
-| **[Arch Linux](https://archlinux.org)**          | [2017.09 ... 2021.08](https://cf-ipfs.com/ipfs/QmRQzGHjXxR7ZBGtn95BjiJj5poi9upA83pJAv7qgL73HQ) | x86               |
-| **[Chromium OS](https://www.chromium.org/chromium-os)** | [80 ... 85](https://cf-ipfs.com/ipfs/QmZF34ExoBB1a5cforj7n1fM9KpryNSvjGdLSFSV6vrzFb)    | arm,x86           |
+| :----------------------------------------------- | :--------------------------------------------------------------------------------------------- | :------------------- |
+| **[Android-x86](https://www.android-x86.org)**   | [5.1 ... 9.0](https://cf-ipfs.com/ipfs/QmdQrao7eUjcZ1GbR8rG21PnAw1vs5VWrvUFCvsDFGaMk8)         | x86                  |
+| **[Arch Linux](https://archlinux.org)**          | [2017.09 ... 2021.08](https://cf-ipfs.com/ipfs/QmRQzGHjXxR7ZBGtn95BjiJj5poi9upA83pJAv7qgL73HQ) | x86                  |
+| **[Chromium OS](https://www.chromium.org/chromium-os)** | [80 ... 85](https://cf-ipfs.com/ipfs/QmZF34ExoBB1a5cforj7n1fM9KpryNSvjGdLSFSV6vrzFb)    | arm,x86              |
 | **[Debian](https://www.debian.org)**             | [8.11 ... 11.0](https://cf-ipfs.com/ipfs/QmQcR2BKHJ8KhG5UUKWTep9ncQ8fF3fxM5qGW9ZBBoQdXN)       | arm,mips,ppc64,s390,x86 | 
-| **[elementary OS](https://elementary.io)**       | [0.4.1 ... 6.0](https://cf-ipfs.com/ipfs/QmVU3nySUnUaL6Z7EQK6bKv7YxAj6Mksjgr99jBWNKaUhx)       | x86               |
-| **[Fedora](https://getfedora.org)**              | [26 ... 34](https://cf-ipfs.com/ipfs/QmaGVcmqcwBrHPkR7CWeWhf7jesyCSKSYf5sspHj4YXgpe)           | aarch64,x86       |
+| **[elementary OS](https://elementary.io)**       | [0.4.1 ... 6.0](https://cf-ipfs.com/ipfs/QmVU3nySUnUaL6Z7EQK6bKv7YxAj6Mksjgr99jBWNKaUhx)       | x86                  |
+| **[Fedora](https://getfedora.org)**              | [26 ... 34](https://cf-ipfs.com/ipfs/QmaGVcmqcwBrHPkR7CWeWhf7jesyCSKSYf5sspHj4YXgpe)           | aarch64,x86          |
 | **[FreeBSD](https://www.freebsd.org)**           | [11.4 ... 13.0](https://cf-ipfs.com/ipfs/QmRt7gh2qxFyMLZjUtK1D6eN2pdtMPeiPitNZY4ckAhMGd)       | arm64,powerpc,sparc64,x86 |
-| **[HypriotOS](https://blog.hypriot.com)**        | [1.0 ... 1.12.3](https://cf-ipfs.com/ipfs/QmVaauqYstcdrtz4XhmYAtBamyQKCjTZyH6NViQHXiV1r9)      | pi3               |
-| **[Kali Linux](https://www.kali.org)**           | [2020.1 ... 2021.2](https://cf-ipfs.com/ipfs/QmSYgmTUSxwTGUc6YDRPMBNt2t5vCkWiuXizEAbmJu1bTs)   | armel,armhf,x86   |
-| **[Knoppix](http://www.knoppix.org/)**           | [6.0 ... 9.1](https://cf-ipfs.com/ipfs/QmS9ZHoBcM6Q98UUiqhhvUAi7hbj39Yuy2bRNxhhVpr3QN)         | x86               |
-| **[LibreELEC](https://libreelec.tv)**            | [7 ... 10](https://cf-ipfs.com/ipfs/QmRDuKVswsckkZs1wXSqGa8Dy1nvcE73dR9PHN3bmjpKcj)            | arm,x86           |
-| **[Linux Mint](https://linuxmint.com)**          | [18.2 ... 20.2](https://cf-ipfs.com/ipfs/Qmf7r8dCUsh5iB1ca3eRxkkcQyaR8WjJpHZsx7eQP4eiQv)       | x86               |
+| **[HypriotOS](https://blog.hypriot.com)**        | [1.0 ... 1.12.3](https://cf-ipfs.com/ipfs/QmVaauqYstcdrtz4XhmYAtBamyQKCjTZyH6NViQHXiV1r9)      | pi3                  |
+| **[Kali Linux](https://www.kali.org)**           | [2020.1 ... 2021.2](https://cf-ipfs.com/ipfs/QmSYgmTUSxwTGUc6YDRPMBNt2t5vCkWiuXizEAbmJu1bTs)   | armel,armhf,x86      |
+| **[Knoppix](http://www.knoppix.org/)**           | [6.0 ... 9.1](https://cf-ipfs.com/ipfs/QmS9ZHoBcM6Q98UUiqhhvUAi7hbj39Yuy2bRNxhhVpr3QN)         | x86                  |
+| **[LibreELEC](https://libreelec.tv)**            | [7 ... 10](https://cf-ipfs.com/ipfs/QmRDuKVswsckkZs1wXSqGa8Dy1nvcE73dR9PHN3bmjpKcj)            | arm,x86              |
+| **[Linux Mint](https://linuxmint.com)**          | [18.2 ... 20.2](https://cf-ipfs.com/ipfs/Qmf7r8dCUsh5iB1ca3eRxkkcQyaR8WjJpHZsx7eQP4eiQv)       | x86                  |
 | **[OpenBSD](http://www.openbsd.org)**            | [6.2 ... 6.9](https://cf-ipfs.com/ipfs/QmPwHKjo5KMYCNDTPpBTeCv7KS7mc4vWHZbfxvCpi4VAuv)         | alpha,amd64,arm64,armv7,i386,octeon,powerpc64,sparc64 |
-| **[openSUSE](https://www.opensuse.org)**         | [15.0 ... 15.3](https://cf-ipfs.com/ipfs/QmNcvhQWgzv946PAT1dBEN5FHJphB6W9kyEcZeDECNYMGM )      | x86               | 
-| **[Qubes OS](https://www.qubes-os.org/)**        | [1.0 ... 4.0.4](https://cf-ipfs.com/ipfs/QmR433KbGHuXSZvukNNahyy61QFw4zD8e1nRuGzgtzbFYk)       | x86               |
-| **[RancherOS](http://rancher.com/rancher-os/)**  | [1.0.3 ... 1.5.6](https://cf-ipfs.com/ipfs/QmT4NQYJU6mMmpJ9moooPgJpJDVoNP9rL7H3yumqpUqgb4)     | hyperV,VMware,x86 |
-| **[ReactOS](https://www.reactos.org)**           | [0.4.7 ... 0.4.13](https://cf-ipfs.com/ipfs/QmQQDixrDpCRTY7VtvAfPUYGievsaoCF3VFyzkD158ZQ2E)    | x86               |
-| **[SystemRescue](http://www.system-rescue-cd.org/)**| [6.1.8 ... 8.04](https://cf-ipfs.com/ipfs/QmbAo1LEw1hjpiseBDgNMAJ81mudJk8zjRbrP6sp2YyGcG)   | x86               |
-| **[Tails](https://tails.boum.org/)**             | [3.16 ... 4.21](https://cf-ipfs.com/ipfs/QmdCkTqikX6bGBU8FMRgufnRL98KhwXALa6KGRkzN43KiZ)       | x86               |
-| **[TrueNAS](https://www.truenas.org)**           | [11.0 ... 12.0](https://cf-ipfs.com/ipfs/Qma3n1u5J3hmiTGu3nz3u5Ln7BQh9Eyodwd1sfV2mJoynW)       | x86               |
+| **[openSUSE](https://www.opensuse.org)**         | [15.0 ... 15.3](https://cf-ipfs.com/ipfs/QmNcvhQWgzv946PAT1dBEN5FHJphB6W9kyEcZeDECNYMGM )      | x86                  | 
+| **[Qubes OS](https://www.qubes-os.org/)**        | [1.0 ... 4.0.4](https://cf-ipfs.com/ipfs/QmR433KbGHuXSZvukNNahyy61QFw4zD8e1nRuGzgtzbFYk)       | x86                  |
+| **[RancherOS](http://rancher.com/rancher-os/)**  | [1.0.3 ... 1.5.6](https://cf-ipfs.com/ipfs/QmT4NQYJU6mMmpJ9moooPgJpJDVoNP9rL7H3yumqpUqgb4)     | hyperV,VMware,x86    |
+| **[ReactOS](https://www.reactos.org)**           | [0.4.7 ... 0.4.13](https://cf-ipfs.com/ipfs/QmQQDixrDpCRTY7VtvAfPUYGievsaoCF3VFyzkD158ZQ2E)    | x86                  |
+| **[SystemRescue](http://www.system-rescue-cd.org/)**| [6.1.8 ... 8.04](https://cf-ipfs.com/ipfs/QmbAo1LEw1hjpiseBDgNMAJ81mudJk8zjRbrP6sp2YyGcG)   | x86                  |
+| **[Tails](https://tails.boum.org/)**             | [3.16 ... 4.21](https://cf-ipfs.com/ipfs/QmdCkTqikX6bGBU8FMRgufnRL98KhwXALa6KGRkzN43KiZ)       | x86                  |
+| **[TrueNAS](https://www.truenas.org)**           | [11.0 ... 12.0](https://cf-ipfs.com/ipfs/Qma3n1u5J3hmiTGu3nz3u5Ln7BQh9Eyodwd1sfV2mJoynW)       | x86                  |
 | **[Ubuntu](https://www.ubuntu.com/)**            | [4.10 ... 21.04](https://cf-ipfs.com/ipfs/QmQD7zBkoDehQRV46bfGXHLVF5TxJXkpxkaPwvXy8pxKJX)      | arm64,pi2,pi3,pi4,ppc64,s390,x86 |
-| **[Ubuntu Core](https://www.ubuntu.com/core)**   | [16 ... 20](https://cf-ipfs.com/ipfs/QmdZRfLgQrh71X3ng1avdrbVyrLz2tECEY3AAaT3bRZ5wE)           | pi2,pi3,pi4       |
-| **[Windows](https://www.microsoft.com)**         | [95 ... 10 21H1](https://cf-ipfs.com/ipfs/QmQdcFHgbzNctXmHPhEwRK2evMxypSrkQ9ppnKyBcxkwwy)      | x86               |
-| **[Xubuntu](https://www.xubuntu.org)**           | [10.04 ... 21.04](https://cf-ipfs.com/ipfs/QmaTB2Ugp7UtBa85krU8M1rHBoiX8VubodtRni3p5Vzpgo)     | x86               |
+| **[Ubuntu Core](https://www.ubuntu.com/core)**   | [16 ... 20](https://cf-ipfs.com/ipfs/QmdZRfLgQrh71X3ng1avdrbVyrLz2tECEY3AAaT3bRZ5wE)           | pi2,pi3,pi4          |
+| **[Windows](https://www.microsoft.com)**         | [95 ... 10 21H1](https://cf-ipfs.com/ipfs/QmQdcFHgbzNctXmHPhEwRK2evMxypSrkQ9ppnKyBcxkwwy)      | x86                  |
+| **[Xubuntu](https://www.xubuntu.org)**           | [10.04 ... 21.04](https://cf-ipfs.com/ipfs/QmaTB2Ugp7UtBa85krU8M1rHBoiX8VubodtRni3p5Vzpgo)     | x86                  |
 
 ## Discontinued Operating Systems 
 
-| Name & Website                                   | Available Downloads                                                                            | Supported Processors |
-| ------------------------------------------------ | ---------------------------------------------------------------------------------------------- | -------------------- |
+| Name & Link                                      | Available Downloads                                                                            | Supported Processors |
+| :----------------------------------------------- | :--------------------------------------------------------------------------------------------- | :------------------- |
 | **[CentOS](https://www.centos.org)**             | [6.10 ... 8.4](https://cf-ipfs.com/ipfs/QmcPZjqBqYxcpspDj8bZ6tMHoaz1yWYhMXUo6UMbdjAkfB)        | x86                  |
 | **[CoreOS](https://coreos.com/)**                | [1.0](https://cf-ipfs.com/ipfs/QmZq9a53v9cepjhVsPN6S3sd12tntnxJiECtZFkcH8KBX9)                 | x86                  |
 | **[INSERT](https://www.inside-security.de/insert.html)** | [1.3.9b](https://cf-ipfs.com/ipfs/QmVpmV9bSigEbC4MTaw9G7x3USgeCEfPeTtERc3VFYEymx)      | x86                  |
-| **[Kaspersky Rescue Disk](https://support.kaspersky.com/viruses/rescuedisk)** | [10 ... 18](https://cf-ipfs.com/ipfs/QmVMeBhS7K3DMXxuF3Q1MbSdANT1b4mkwXCp7nqLV6n4Lt) | x86 |
+| **[Kaspersky Rescue Disk](https://support.kaspersky.com/viruses/rescuedisk)** | [10 ... 18](https://cf-ipfs.com/ipfs/QmVMeBhS7K3DMXxuF3Q1MbSdANT1b4mkwXCp7nqLV6n4Lt) | x86|
 | **[OpenSolaris](https://www.oracle.com/technetwork/server-storage/solaris/index-135144.html)** | [2009.06](https://cf-ipfs.com/ipfs/QmdRpuTZTyKsQSXPt3dyv6WdTY7ZyaRkkU5S3Z9tkPriPv) | x86    |
 | **[Remix OS](http://cn.jide.com/remixos)**       | [2016.11](https://cf-ipfs.com/ipfs/QmPhohZB29FNYqjBmxvPeXB1Jbd1anSq9tfXDE2xhZM54u)             | x86                  |
 
