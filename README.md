@@ -9,15 +9,15 @@ Operating Systems - Mirror & Archive
 | **[Arch Linux](https://archlinux.org)**          | [2017.09 ... 2021.08](https://cf-ipfs.com/ipfs/QmRQzGHjXxR7ZBGtn95BjiJj5poi9upA83pJAv7qgL73HQ) | x86               |
 | **[Chromium OS](https://www.chromium.org/chromium-os)** | [80 ... 85](https://cf-ipfs.com/ipfs/QmZF34ExoBB1a5cforj7n1fM9KpryNSvjGdLSFSV6vrzFb)    | arm,x86           |
 | **[Debian](https://www.debian.org)**             | [8.11 ... 11.0](https://cf-ipfs.com/ipfs/QmQcR2BKHJ8KhG5UUKWTep9ncQ8fF3fxM5qGW9ZBBoQdXN)       | arm,mips,ppc64,s390,x86 | 
-| **elementary OS**     | [0.4.1 ... 6.0](https://cf-ipfs.com/ipfs/QmVU3nySUnUaL6Z7EQK6bKv7YxAj6Mksjgr99jBWNKaUhx)       | x86   | [🏠](https://elementary.io) |
-| **Fedora**            | [26 ... 34](https://cf-ipfs.com/ipfs/QmaGVcmqcwBrHPkR7CWeWhf7jesyCSKSYf5sspHj4YXgpe)           | aarch64/x86 | [🏠](https://getfedora.org) |
-| **FreeBSD**           | [11.4 ... 13.0](https://cf-ipfs.com/ipfs/QmRt7gh2qxFyMLZjUtK1D6eN2pdtMPeiPitNZY4ckAhMGd)       | arm64/powerpc/sparc64/x86 | [🏠](https://www.freebsd.org) |
-| **HypriotOS**         | [1.0 ... 1.12.3](https://cf-ipfs.com/ipfs/QmVaauqYstcdrtz4XhmYAtBamyQKCjTZyH6NViQHXiV1r9)      | pi3     | [🏠](https://blog.hypriot.com) |
-| **Kali Linux**        | [2020.1 ... 2021.2](https://cf-ipfs.com/ipfs/QmSYgmTUSxwTGUc6YDRPMBNt2t5vCkWiuXizEAbmJu1bTs)   | armel/armhf/x86 | [🏠](https://www.kali.org) | 
-| **Knoppix**           | [6.0 ... 9.1](https://cf-ipfs.com/ipfs/QmS9ZHoBcM6Q98UUiqhhvUAi7hbj39Yuy2bRNxhhVpr3QN)         | x86 | [🏠](http://www.knoppix.org/) |
-| **LibreELEC**         | [7 ... 10](https://cf-ipfs.com/ipfs/QmRDuKVswsckkZs1wXSqGa8Dy1nvcE73dR9PHN3bmjpKcj)            | arm/x86 | [🏠](https://libreelec.tv) |
-| **Linux Mint**        | [18.2 ... 20.2](https://cf-ipfs.com/ipfs/Qmf7r8dCUsh5iB1ca3eRxkkcQyaR8WjJpHZsx7eQP4eiQv)       | x86 | [🏠](https://linuxmint.com) | 
-| **OpenBSD**           | [6.2 ... 6.9](https://cf-ipfs.com/ipfs/QmPwHKjo5KMYCNDTPpBTeCv7KS7mc4vWHZbfxvCpi4VAuv)         | alpha/amd64/arm64/armv7/i386/octeon/powerpc64/sparc64 | [🏠](http://www.openbsd.org) |
+| **[elementary OS](https://elementary.io)**       | [0.4.1 ... 6.0](https://cf-ipfs.com/ipfs/QmVU3nySUnUaL6Z7EQK6bKv7YxAj6Mksjgr99jBWNKaUhx)       | x86               |
+| **[Fedora](https://getfedora.org)**              | [26 ... 34](https://cf-ipfs.com/ipfs/QmaGVcmqcwBrHPkR7CWeWhf7jesyCSKSYf5sspHj4YXgpe)           | aarch64,x86       |
+| **[FreeBSD](https://www.freebsd.org)**           | [11.4 ... 13.0](https://cf-ipfs.com/ipfs/QmRt7gh2qxFyMLZjUtK1D6eN2pdtMPeiPitNZY4ckAhMGd)       | arm64,powerpc,sparc64,x86 |
+| **[HypriotOS](https://blog.hypriot.com)**        | [1.0 ... 1.12.3](https://cf-ipfs.com/ipfs/QmVaauqYstcdrtz4XhmYAtBamyQKCjTZyH6NViQHXiV1r9)      | pi3               |
+| **[Kali Linux](https://www.kali.org)**           | [2020.1 ... 2021.2](https://cf-ipfs.com/ipfs/QmSYgmTUSxwTGUc6YDRPMBNt2t5vCkWiuXizEAbmJu1bTs)   | armel,armhf,x86   |
+| **[Knoppix](http://www.knoppix.org/)**           | [6.0 ... 9.1](https://cf-ipfs.com/ipfs/QmS9ZHoBcM6Q98UUiqhhvUAi7hbj39Yuy2bRNxhhVpr3QN)         | x86               |
+| **[LibreELEC](https://libreelec.tv)**            | [7 ... 10](https://cf-ipfs.com/ipfs/QmRDuKVswsckkZs1wXSqGa8Dy1nvcE73dR9PHN3bmjpKcj)            | arm,x86           |
+| **[Linux Mint](https://linuxmint.com)**          | [18.2 ... 20.2](https://cf-ipfs.com/ipfs/Qmf7r8dCUsh5iB1ca3eRxkkcQyaR8WjJpHZsx7eQP4eiQv)       | x86               |
+| **[OpenBSD](http://www.openbsd.org)**            | [6.2 ... 6.9](https://cf-ipfs.com/ipfs/QmPwHKjo5KMYCNDTPpBTeCv7KS7mc4vWHZbfxvCpi4VAuv)         | alpha,amd64,arm64,armv7,i386,octeon,powerpc64,sparc64 |
 | **openSUSE**          | [15.0 ... 15.3](https://cf-ipfs.com/ipfs/QmNcvhQWgzv946PAT1dBEN5FHJphB6W9kyEcZeDECNYMGM )      | x86 | [🏠](https://www.opensuse.org) |
 | **Qubes OS**          | [1.0 ... 4.0.4](https://cf-ipfs.com/ipfs/QmR433KbGHuXSZvukNNahyy61QFw4zD8e1nRuGzgtzbFYk)       | x86 | [🏠](https://www.qubes-os.org/) |
 | **RancherOS**         | [1.0.3 ... 1.5.6](https://cf-ipfs.com/ipfs/QmT4NQYJU6mMmpJ9moooPgJpJDVoNP9rL7H3yumqpUqgb4)     | hyperV/VMware/x86 | [🏠](http://rancher.com/rancher-os/) | 
