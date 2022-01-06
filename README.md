@@ -1,11 +1,11 @@
 Operating Systems - Mirror & Archive
 ====================================
 
-**Need to reinstall your operating system (OS)? Or want to try a newer, a former, a historic, or even a different OS? All downloads below are checksum verified and provided through the IPFS gateway. For system requirements and installation instructions visit the OS manufacturers website (🏠), please.** 📅 *updated August 31, 2021*
+**Need to reinstall your operating system (OS)? Or want to try a newer, a former, a historic, or even a different OS? All downloads below are checksum verified and provided through the IPFS gateway. For system requirements and installation instructions visit the OS manufacturers website, please.** 📅 *updated August 31, 2021*
 
-| Name                  | Downloads                                                                                      | CPU   | Website                           |
+| Name & Link                 | Downloads                                                                                      | CPU   | Website                           |
 | --------------------- | ---------------------------------------------------------------------------------------------- | ----- | --------------------------------- |
-| **Android-x86**       | [5.1 ... 9.0](https://cf-ipfs.com/ipfs/QmdQrao7eUjcZ1GbR8rG21PnAw1vs5VWrvUFCvsDFGaMk8)         | x86   | [🏠](https://www.android-x86.org) |
+| **[Android-x86](https://www.android-x86.org)**       | [5.1 ... 9.0](https://cf-ipfs.com/ipfs/QmdQrao7eUjcZ1GbR8rG21PnAw1vs5VWrvUFCvsDFGaMk8)         | x86   | [🏠](https://www.android-x86.org) |
 | **Arch Linux**        | [2017.09 ... 2021.08](https://cf-ipfs.com/ipfs/QmRQzGHjXxR7ZBGtn95BjiJj5poi9upA83pJAv7qgL73HQ) | x86   | [🏠](https://archlinux.org)       |
 | **Chromium OS**       | [80 ... 85](https://cf-ipfs.com/ipfs/QmZF34ExoBB1a5cforj7n1fM9KpryNSvjGdLSFSV6vrzFb)           | arm/x86 | [🏠](https://www.chromium.org/chromium-os) |
 | **Debian**            | [8.11 ... 11.0](https://cf-ipfs.com/ipfs/QmQcR2BKHJ8KhG5UUKWTep9ncQ8fF3fxM5qGW9ZBBoQdXN)       | arm/mips/ppc64/s390/x86 | [🏠](https://www.debian.org) | 
