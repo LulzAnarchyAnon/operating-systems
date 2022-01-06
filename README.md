@@ -7,21 +7,27 @@ Mirror & Archive of Operating Systems
 | :---------------------------------------------- | :--------------------------------------------------------------------------------------------- | :------------------- |
 | **[Android-x86](https://www.android-x86.org)**  | [5.1 ... 9.0](https://storry.tv/ipfs/QmdQrao7eUjcZ1GbR8rG21PnAw1vs5VWrvUFCvsDFGaMk8)           | x86                  |
 | **[Arch Linux](https://archlinux.org)**         | [2017.09 ... 2021.12](https://storry.tv/ipfs/QmerGm4cXRKLD68huovhn1MDLtzdAEAVQnZcn1xWQMtFAy)   | x86                  |
-| **[Chromium OS](https://www.chromium.org/chromium-os)** | [80 ... 85](https://storry.tv/ipfs/QmZF34ExoBB1a5cforj7n1fM9KpryNSvjGdLSFSV6vrzFb)      | arm,x86              |
+| **[CentOS](https://www.centos.org)** (discontinued)| [6.10 ... 8.5](https://storry.tv/ipfs/QmaC9xT1AEz5BwRsAvz15ND5vCp6Jz76BJoiKN2o4emQFs)       | x86                  |
+| **[Chromium OS](https://www.chromium.org/chromium-os)** | [80 ... 85](https://storry.tv/ipfs/QmZF34ExoBB1a5cforj7n1fM9KpryNSvjGdLSFSV6vrzFb)     | arm,x86              |
+| **[CoreOS](https://coreos.com/)** (discontinued)| [1.0](https://storry.tv/ipfs/QmZq9a53v9cepjhVsPN6S3sd12tntnxJiECtZFkcH8KBX9)                   | x86                  |
 | **[Debian](https://www.debian.org)**            | [8.11 ... 11.2](https://storry.tv/ipfs/Qmd3Ae2keQ5ER2UAVYCaG6TriS8YjDHycs5XXcbjhR78Zc)         | arm,mips,ppc64,s390,x86 | 
 | **[elementary OS](https://elementary.io)**      | [0.4.1 ... 6.1](https://storry.tv/ipfs/QmSCM4gJE11P1eYi5J2CihkZJ3q3tcgx4DiKXAhw9ULcfQ)         | x86                  |
 | **[Fedora](https://getfedora.org)**             | [26 ... 35](https://storry.tv/ipfs/QmXJnxmSoFKbkpjBnd3DPKMeKjFzGGjuU4rrkTVZxwayYb)             | aarch64,x86          |
 | **[FreeBSD](https://www.freebsd.org)**          | [11.4 ... 13.0](https://storry.tv/ipfs/QmSqaz3ctfHx24NREV8M6ogZrj4XCKnwa78xUD1vmof14Z)         | arm64,powerpc,sparc64,x86 |
 | **[HypriotOS](https://blog.hypriot.com)**       | [1.0 ... 1.12.3](https://storry.tv/ipfs/QmVaauqYstcdrtz4XhmYAtBamyQKCjTZyH6NViQHXiV1r9)        | pi3                  |
+| **[INSERT](https://www.inside-security.de/insert.html)** (discontinued)| [1.3.9b](https://storry.tv/ipfs/QmVpmV9bSigEbC4MTaw9G7x3USgeCEfPeTtERc3VFYEymx)| x86           |
 | **[Kali Linux](https://www.kali.org)**          | [2020.1 ... 2021.4](https://storry.tv/ipfs/QmQYEfKPWNXjCB2XWUTbqJ1i8oBuQ3fHEtY6NbtTbUXN3F)     | armel,armhf,x86      |
+| **[Kaspersky Rescue Disk](https://support.kaspersky.com/viruses/rescuedisk)** (discontinued) | [10 ... 18](https://storry.tv/ipfs/QmVMeBhS7K3DMXxuF3Q1MbSdANT1b4mkwXCp7nqLV6n4Lt) | x86|
 | **[Knoppix](http://www.knoppix.org/)**          | [6.0 ... 9.1](https://storry.tv/ipfs/QmS9ZHoBcM6Q98UUiqhhvUAi7hbj39Yuy2bRNxhhVpr3QN)           | x86                  |
 | **[LibreELEC](https://libreelec.tv)**           | [7 ... 10](https://storry.tv/ipfs/QmNizFB7pAcs84kAcWyew4p31bJv6KMxUeD15YxLnsGMQ7)              | arm,x86              |
 | **[Linux Mint](https://linuxmint.com)**         | [18.2 ... 20.2](https://storry.tv/ipfs/Qmf7r8dCUsh5iB1ca3eRxkkcQyaR8WjJpHZsx7eQP4eiQv)         | x86                  |
 | **[OpenBSD](http://www.openbsd.org)**           | [6.2 ... 7.0](https://storry.tv/ipfs/Qmb46A7rddwpdb2399uxU4h1d7mNwBxZYwmFioNCz7WXRC)           | alpha,amd64,arm64,armv7,i386,octeon,powerpc64,sparc64 |
+| **[OpenSolaris](https://www.oracle.com/technetwork/server-storage/solaris/index-135144.html)** (discontinued) | [2009.06](https://storry.tv/ipfs/QmdRpuTZTyKsQSXPt3dyv6WdTY7ZyaRkkU5S3Z9tkPriPv) | x86    |
 | **[openSUSE](https://www.opensuse.org)**        | [15.0 ... 15.3](https://storry.tv/ipfs/QmNcvhQWgzv946PAT1dBEN5FHJphB6W9kyEcZeDECNYMGM)         | x86                  | 
 | **[Qubes OS](https://www.qubes-os.org/)**       | [1.0 ... 4.0.4](https://storry.tv/ipfs/QmR433KbGHuXSZvukNNahyy61QFw4zD8e1nRuGzgtzbFYk)         | x86                  |
 | **[RancherOS](http://rancher.com/rancher-os/)** | [1.0.3 ... 1.5.6](https://storry.tv/ipfs/QmT4NQYJU6mMmpJ9moooPgJpJDVoNP9rL7H3yumqpUqgb4)       | hyperV,VMware,x86    |
-| **[ReactOS](https://www.reactos.org)**          | [0.4.7 ... 0.4.14](https://storry.tv/ipfs/QmeLeyuUsFJJx96HvEAsneJpG6PsZZLupkbLms8AvzHUY1 )      | x86                  |
+| **[ReactOS](https://www.reactos.org)**          | [0.4.7 ... 0.4.14](https://storry.tv/ipfs/QmeLeyuUsFJJx96HvEAsneJpG6PsZZLupkbLms8AvzHUY1 )     | x86                  |
+| **[Remix OS](http://cn.jide.com/remixos)** (discontinued) | [2016.11](https://storry.tv/ipfs/QmPhohZB29FNYqjBmxvPeXB1Jbd1anSq9tfXDE2xhZM54u)     | x86                  |
 | **[SystemRescue](http://www.system-rescue-cd.org/)**| [6.1.8 ... 8.07](https://storry.tv/ipfs/QmWDfkmHLsdDeZg2WRmu1JGctHrtCDxuThXpYHp9FqbepZ)    | x86                  |
 | **[Tails](https://tails.boum.org/)**            | [3.16 ... 4.25](https://storry.tv/ipfs/QmUNtXtHq5M47kySzx3DkJU1ktF2kZDNVs8HL3NMRvbbbV)         | x86                  |
 | **[TrueNAS](https://www.truenas.org)**          | [11.0 ... 12.0](https://storry.tv/ipfs/Qma3n1u5J3hmiTGu3nz3u5Ln7BQh9Eyodwd1sfV2mJoynW)         | x86                  |
@@ -30,16 +36,6 @@ Mirror & Archive of Operating Systems
 | **[Windows](https://www.microsoft.com)**        | [95 ... 11](https://storry.tv/ipfs/QmcLU6YPRes87qzZHcVjKbh9jZrCwJvBjXz9Y1dqVcytAf)             | x86                  |
 | **[Xubuntu](https://www.xubuntu.org)**          | [10.04 ... 21.10](https://storry.tv/ipfs/QmXrc8bCtFtcr31iskFe2ayRyMs5vxY4es3bSAftR9M6tg)       | x86                  |
 
-## Discontinued Operating Systems 
-
-| Name & Link                                     | Available Downloads                                                                            | Supported Processors |
-| :---------------------------------------------- | :--------------------------------------------------------------------------------------------- | :------------------- |
-| **[CentOS](https://www.centos.org)**            | [6.10 ... 8.5](https://storry.tv/ipfs/QmaC9xT1AEz5BwRsAvz15ND5vCp6Jz76BJoiKN2o4emQFs)          | x86                  |
-| **[CoreOS](https://coreos.com/)**               | [1.0](https://storry.tv/ipfs/QmZq9a53v9cepjhVsPN6S3sd12tntnxJiECtZFkcH8KBX9)                   | x86                  |
-| **[INSERT](https://www.inside-security.de/insert.html)** | [1.3.9b](https://storry.tv/ipfs/QmVpmV9bSigEbC4MTaw9G7x3USgeCEfPeTtERc3VFYEymx)        | x86                  |
-| **[Kaspersky Rescue Disk](https://support.kaspersky.com/viruses/rescuedisk)** | [10 ... 18](https://storry.tv/ipfs/QmVMeBhS7K3DMXxuF3Q1MbSdANT1b4mkwXCp7nqLV6n4Lt) | x86|
-| **[OpenSolaris](https://www.oracle.com/technetwork/server-storage/solaris/index-135144.html)** | [2009.06](https://storry.tv/ipfs/QmdRpuTZTyKsQSXPt3dyv6WdTY7ZyaRkkU5S3Z9tkPriPv) | x86    |
-| **[Remix OS](http://cn.jide.com/remixos)**      | [2016.11](https://storry.tv/ipfs/QmPhohZB29FNYqjBmxvPeXB1Jbd1anSq9tfXDE2xhZM54u)             | x86                  |
 
 ## Frequently Asked Questions (FAQ)
 
