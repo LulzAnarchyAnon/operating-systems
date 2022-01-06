@@ -1,20 +1,15 @@
-# Mirror & Archive of Operating Systems
+Operating Systems - Mirror & Archive
+====================================
 
-*by Markus Fleschutz* 📅 *updated August 31, 2021*
+**Need to reinstall your operating system (OS)? Or want to try a newer, a former, a historic, or even a different OS? All downloads below are checksum verified and provided through the IPFS gateway. For system requirements and installation instructions visit the OS manufacturers website (🏠), please.** *by Markus Fleschutz* 📅 *updated August 31, 2021*
 
-**Need to reinstall your operating system (OS)? Or want to try a newer, a former, a historic, or even a different OS? All downloads below are checksum verified and provided through the IPFS gateway. For system requirements and installation instructions visit the OS manufacturers website (🏠), please.**
-
-## 👍 Active Operating Systems
-
-| Name                    | Downloads                                                                                      | CPU   | Website                           |
-| ----------------------- | ---------------------------------------------------------------------------------------------- | ----- | --------------------------------- |
-| **Android-x86**         | [5.1 ... 9.0](https://cf-ipfs.com/ipfs/QmdQrao7eUjcZ1GbR8rG21PnAw1vs5VWrvUFCvsDFGaMk8)         | x86   | [🏠](https://www.android-x86.org) |
-| **Arch Linux**          | [2017.09 ... 2021.08](https://cf-ipfs.com/ipfs/QmRQzGHjXxR7ZBGtn95BjiJj5poi9upA83pJAv7qgL73HQ) | x86   | [🏠](https://archlinux.org)       |
-
-
-- **Chromium OS** [80 ... 85 ⬇ downloads](https://cf-ipfs.com/ipfs/QmZF34ExoBB1a5cforj7n1fM9KpryNSvjGdLSFSV6vrzFb ) for amd/x86 [🏠](https://www.chromium.org/chromium-os) 
-- **Debian** [8.11 ... 11.0 ⬇ downloads](https://cf-ipfs.com/ipfs/QmQcR2BKHJ8KhG5UUKWTep9ncQ8fF3fxM5qGW9ZBBoQdXN) for arm/mips/ppc64/s390/x86 [🏠](https://www.debian.org) 
-- **elementary OS** [0.4.1 ... 6.0 ⬇ downloads](https://cf-ipfs.com/ipfs/QmVU3nySUnUaL6Z7EQK6bKv7YxAj6Mksjgr99jBWNKaUhx) for x86 [🏠](https://elementary.io) 
+| Name                  | Downloads                                                                                      | CPU   | Website                           |
+| --------------------- | ---------------------------------------------------------------------------------------------- | ----- | --------------------------------- |
+| **Android-x86**       | [5.1 ... 9.0](https://cf-ipfs.com/ipfs/QmdQrao7eUjcZ1GbR8rG21PnAw1vs5VWrvUFCvsDFGaMk8)         | x86   | [🏠](https://www.android-x86.org) |
+| **Arch Linux**        | [2017.09 ... 2021.08](https://cf-ipfs.com/ipfs/QmRQzGHjXxR7ZBGtn95BjiJj5poi9upA83pJAv7qgL73HQ) | x86   | [🏠](https://archlinux.org)       |
+| **Chromium OS**       | [80 ... 85](https://cf-ipfs.com/ipfs/QmZF34ExoBB1a5cforj7n1fM9KpryNSvjGdLSFSV6vrzFb)           | arm/x86 | [🏠](https://www.chromium.org/chromium-os) |
+| **Debian**            | [8.11 ... 11.0](https://cf-ipfs.com/ipfs/QmQcR2BKHJ8KhG5UUKWTep9ncQ8fF3fxM5qGW9ZBBoQdXN)       | arm/mips/ppc64/s390/x86 | [🏠](https://www.debian.org) | 
+| **elementary OS**     | [0.4.1 ... 6.0](https://cf-ipfs.com/ipfs/QmVU3nySUnUaL6Z7EQK6bKv7YxAj6Mksjgr99jBWNKaUhx)       | x86   | [🏠](https://elementary.io) |
 - **Fedora** [26 ... 34 ⬇ downloads](https://cf-ipfs.com/ipfs/QmaGVcmqcwBrHPkR7CWeWhf7jesyCSKSYf5sspHj4YXgpe ) for aarch64/x86 [🏠](https://getfedora.org) 
 - **FreeBSD** [11.4 ... 13.0 ⬇ downloads](https://cf-ipfs.com/ipfs/QmRt7gh2qxFyMLZjUtK1D6eN2pdtMPeiPitNZY4ckAhMGd ) for arm64/powerpc/sparc64/x86 [🏠](https://www.freebsd.org)
 - **HypriotOS** [1.0 ... 1.12.3 ⬇ downloads](https://cf-ipfs.com/ipfs/QmVaauqYstcdrtz4XhmYAtBamyQKCjTZyH6NViQHXiV1r9 ) for pi3 [🏠](https://blog.hypriot.com)
