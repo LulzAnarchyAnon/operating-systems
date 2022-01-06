@@ -5,8 +5,8 @@ Mirror & Archive of Operating Systems
 
 | Name & Link                                      | Available Downloads                                                                            | Supported Processors |
 | :----------------------------------------------- | :--------------------------------------------------------------------------------------------- | :------------------- |
-| **[Android-x86](https://www.android-x86.org)**   | [5.1 ... 9.0](https://cf-ipfs.com/ipfs/QmdQrao7eUjcZ1GbR8rG21PnAw1vs5VWrvUFCvsDFGaMk8)         | x86                  |
-| **[Arch Linux](https://archlinux.org)**          | [2017.09 ... 2021.12](https://cf-ipfs.com/ipfs/QmerGm4cXRKLD68huovhn1MDLtzdAEAVQnZcn1xWQMtFAy) | x86                  |
+| **[Android-x86](https://www.android-x86.org)**   | [5.1 ... 9.0](https://cloudflare-ipfs.com/ipfs/QmdQrao7eUjcZ1GbR8rG21PnAw1vs5VWrvUFCvsDFGaMk8)         | x86                  |
+| **[Arch Linux](https://archlinux.org)**          | [2017.09 ... 2021.12](https://cloudflare-ipfs.com/ipfs/QmerGm4cXRKLD68huovhn1MDLtzdAEAVQnZcn1xWQMtFAy) | x86                  |
 | **[Chromium OS](https://www.chromium.org/chromium-os)** | [80 ... 85](https://cf-ipfs.com/ipfs/QmZF34ExoBB1a5cforj7n1fM9KpryNSvjGdLSFSV6vrzFb)    | arm,x86              |
 | **[Debian](https://www.debian.org)**             | [8.11 ... 11.2](https://cf-ipfs.com/ipfs/Qmd3Ae2keQ5ER2UAVYCaG6TriS8YjDHycs5XXcbjhR78Zc)       | arm,mips,ppc64,s390,x86 | 
 | **[elementary OS](https://elementary.io)**       | [0.4.1 ... 6.1](https://cf-ipfs.com/ipfs/QmSCM4gJE11P1eYi5J2CihkZJ3q3tcgx4DiKXAhw9ULcfQ)       | x86                  |
