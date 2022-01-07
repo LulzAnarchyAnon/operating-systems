@@ -16,7 +16,7 @@ Mirror & Archive of Operating Systems
 | **[FreeBSD](https://www.freebsd.org)**          | [11.4 ... 13.0](https://storry.tv/ipfs/QmSqaz3ctfHx24NREV8M6ogZrj4XCKnwa78xUD1vmof14Z)         | arm64,powerpc,sparc64,x86 |
 | **[HypriotOS](https://blog.hypriot.com)**       | [1.0 ... 1.12.3](https://storry.tv/ipfs/QmVaauqYstcdrtz4XhmYAtBamyQKCjTZyH6NViQHXiV1r9)        | pi3                  |
 | **[INSERT](https://www.inside-security.de/insert.html)** | [1.3.9b](https://storry.tv/ipfs/QmVpmV9bSigEbC4MTaw9G7x3USgeCEfPeTtERc3VFYEymx)       | x86 (discontinued)   |
-| **[Kali Linux](https://www.kali.org)**          | [2020.1 ... 2021.4](https://storry.tv/ipfs/QmQYEfKPWNXjCB2XWUTbqJ1i8oBuQ3fHEtY6NbtTbUXN3F)     | armel,armhf,x86      |
+| **[Kali Linux](https://www.kali.org)**          | [2020.1 ... 2021.4](https://storry.tv/ipfs/QmQYEfKPWNXjCB2XWUTbqJ1i8oBuQ3fHEtY6NbtTbUXN3F)     | arm,x86              |
 | **[Kaspersky Rescue Disk](https://support.kaspersky.com/viruses/rescuedisk)** | [10 ... 18](https://storry.tv/ipfs/QmVMeBhS7K3DMXxuF3Q1MbSdANT1b4mkwXCp7nqLV6n4Lt) | x86 (discontinued) |
 | **[Knoppix](http://www.knoppix.org/)**          | [6.0 ... 9.1](https://storry.tv/ipfs/QmS9ZHoBcM6Q98UUiqhhvUAi7hbj39Yuy2bRNxhhVpr3QN)           | x86                  |
 | **[LibreELEC](https://libreelec.tv)**           | [7 ... 10](https://storry.tv/ipfs/QmNizFB7pAcs84kAcWyew4p31bJv6KMxUeD15YxLnsGMQ7)              | arm,x86              |
