@@ -85,7 +85,7 @@ Donate to [PayPal.me](https://www.paypal.me/Fleschutz) 👏 or install IPFS and 
 See also
 -----
 
-* [The complete OSMA archive](https://storry.tv/ipns/k51qzi5uqu5dj55giu6gxr1zr53f63ola5owh8g5wf7hlcx90em0gpg9c553r3) - all OSMA downloads available through the IPFS gateway 
+* [The complete archive](https://storry.tv/ipns/k51qzi5uqu5dj55giu6gxr1zr53f63ola5owh8g5wf7hlcx90em0gpg9c553r3) - all operating systems with all releases  
 * [ipfs.io](https://ipfs.io) - IPFS explained, docs, blog and more
 * [docs.ipfs.io/install/ipfs-desktop](https://docs.ipfs.io/install/ipfs-desktop/) - installation instructions for IPFS
 * [ipfs.github.io/public-gateway-checker](https://ipfs.github.io/public-gateway-checker/) - list of public gateways to IPFS
