@@ -34,7 +34,7 @@ Mirror & Archive of 30 Operating Systems
 | **[Ubuntu](https://www.ubuntu.com/)**           | [4.10 ... 21.10](https://storry.tv/ipfs/QmNemDv4GfWqazDMhyYiofGGkaAZnd4nmYQ7vM8mQ6EjZ7)        | arm64,pi2,pi3,pi4,ppc64,s390,x86 |
 | **[Ubuntu Core](https://www.ubuntu.com/core)**  | [16 ... 20](https://storry.tv/ipfs/QmdZRfLgQrh71X3ng1avdrbVyrLz2tECEY3AAaT3bRZ5wE)             | pi2,pi3,pi4          |
 | **[Windows](https://www.microsoft.com)**        | [95 ... 11](https://storry.tv/ipfs/QmcLU6YPRes87qzZHcVjKbh9jZrCwJvBjXz9Y1dqVcytAf)             | x86                  |
-| **[Xubuntu](https://www.xubuntu.org)**          | [10.04 ... 21.10](https://dweb.eu.org/ipfs/QmXrc8bCtFtcr31iskFe2ayRyMs5vxY4es3bSAftR9M6tg)     | x86                  |
+| **[Xubuntu](https://www.xubuntu.org)**          | [10.04 ... 21.10](https://ipfs.2read.net/ipfs/QmXrc8bCtFtcr31iskFe2ayRyMs5vxY4es3bSAftR9M6tg)  | x86                  |
 
 
 Frequently Asked Questions (FAQ)
