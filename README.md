@@ -1,5 +1,5 @@
-Mirror & Archive of Operating Systems
-=====================================
+Mirror & Archive of 30 Operating Systems
+========================================
 
 **Need to reinstall your operating system (OS)? Or want to try a newer, a former, a historic, or even a different OS? All downloads below are checksum verified and provided through the IPFS gateway. For system requirements and installation instructions visit the OS manufacturers website, please.** 📅 *updated December 27, 2021*
 
@@ -37,7 +37,8 @@ Mirror & Archive of Operating Systems
 | **[Xubuntu](https://www.xubuntu.org)**          | [10.04 ... 21.10](https://storry.tv/ipfs/QmXrc8bCtFtcr31iskFe2ayRyMs5vxY4es3bSAftR9M6tg)       | x86                  |
 
 
-## Frequently Asked Questions (FAQ)
+Frequently Asked Questions (FAQ)
+--------------------------------
 
 **What do the various abbreviations stand for?**
 
@@ -75,7 +76,8 @@ Install IPFS, select the .ISO or .IMG file in the [IPFS hash list](data/IPFS_has
 
 Donate to [PayPal.me](https://www.paypal.me/Fleschutz) 👏 or install IPFS and pin the full archive or any part of it. This will improve download speeds and reliability for all of us.
 
-##  🔎 Statistics
+🔎 Statistics
+--------------
 
 - **Archived** 30 operating systems with 220 releases
 - **Hosting** 870 GB with 751 files in 454 folders by using go-ipfs 0.11.0
@@ -83,7 +85,7 @@ Donate to [PayPal.me](https://www.paypal.me/Fleschutz) 👏 or install IPFS and 
 - **Seeding** 24/7 since January 7, 2017
 
 See also
------
+--------
 
 * [The complete archive](https://storry.tv/ipns/k51qzi5uqu5dj55giu6gxr1zr53f63ola5owh8g5wf7hlcx90em0gpg9c553r3) - all operating systems with all releases  
 * [ipfs.io](https://ipfs.io) - IPFS explained, docs, blog and more
@@ -96,6 +98,6 @@ See also
 * [distroWatch.com](https://distrowatch.com) - get the latest OS news
 * [archiveOS.org](https://www.archiveos.org) - archive of 500+ distros (mostly inactive)
 
-## ® Trademarks
-
+® Trademarks
+------------
 All trademarks are the property of their respective owners.
