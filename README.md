@@ -21,7 +21,7 @@ Mirror & Archive of Operating Systems
 | **[Knoppix](http://www.knoppix.org/)**          | [6.0 ... 9.1](https://storry.tv/ipfs/QmS9ZHoBcM6Q98UUiqhhvUAi7hbj39Yuy2bRNxhhVpr3QN)           | x86                  |
 | **[LibreELEC](https://libreelec.tv)**           | [7 ... 10](https://storry.tv/ipfs/QmNizFB7pAcs84kAcWyew4p31bJv6KMxUeD15YxLnsGMQ7)              | arm,x86              |
 | **[Linux Mint](https://linuxmint.com)**         | [18.2 ... 20.2](https://storry.tv/ipfs/Qmf7r8dCUsh5iB1ca3eRxkkcQyaR8WjJpHZsx7eQP4eiQv)         | x86                  |
-| **[OpenBSD](http://www.openbsd.org)**           | [6.2 ... 7.0](https://storry.tv/ipfs/Qmb46A7rddwpdb2399uxU4h1d7mNwBxZYwmFioNCz7WXRC)           | alpha,amd64,arm64,armv7,i386,octeon,powerpc64,sparc64 |
+| **[OpenBSD](http://www.openbsd.org)**           | [6.2 ... 7.0](https://storry.tv/ipfs/Qmb46A7rddwpdb2399uxU4h1d7mNwBxZYwmFioNCz7WXRC)           | alpha,arm64,armv7,octeon,powerpc64,sparc64,x86 |
 | **[OpenSolaris](https://www.oracle.com/technetwork/server-storage/solaris/index-135144.html)** | [2009.06](https://storry.tv/ipfs/QmdRpuTZTyKsQSXPt3dyv6WdTY7ZyaRkkU5S3Z9tkPriPv) | x86 (discontinued) |
 | **[openSUSE](https://www.opensuse.org)**        | [15.0 ... 15.3](https://storry.tv/ipfs/QmNcvhQWgzv946PAT1dBEN5FHJphB6W9kyEcZeDECNYMGM)         | x86                  | 
 | **[Qubes OS](https://www.qubes-os.org/)**       | [1.0 ... 4.0.4](https://storry.tv/ipfs/QmR433KbGHuXSZvukNNahyy61QFw4zD8e1nRuGzgtzbFYk)         | x86                  |
