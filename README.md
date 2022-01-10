@@ -1,12 +1,12 @@
 Mirror & Archive of 30 Operating Systems
 ========================================
 
-**Need to reinstall your operating system (OS)? Or want to try a newer, a former, a historic, or even a different OS? All downloads below are checksum verified and provided through the IPFS gateway. For system requirements and installation instructions visit the OS manufacturers website, please.** 📅 *updated December 27, 2021*
+**Need to reinstall your operating system (OS)? Or want to try a newer, a former, a historic, or even a different OS? All downloads below are checksum verified and provided through the IPFS gateway. For system requirements and installation instructions visit the OS manufacturers website, please.** 📅 *updated January 10, 2022*
 
 | Name & Link                                     | Available Downloads                                                                            | Supported Processors & Comment |
 | :---------------------------------------------- | :--------------------------------------------------------------------------------------------- | :------------------- |
 | **[Android-x86](https://www.android-x86.org)**  | [5.1 ... 9.0](https://storry.tv/ipfs/QmdQrao7eUjcZ1GbR8rG21PnAw1vs5VWrvUFCvsDFGaMk8)           | x86                  |
-| **[Arch Linux](https://archlinux.org)**         | [2017.09 ... 2021.12](https://storry.tv/ipfs/QmerGm4cXRKLD68huovhn1MDLtzdAEAVQnZcn1xWQMtFAy)   | x86                  |
+| **[Arch Linux](https://archlinux.org)**         | [2017.09 ... 2022.01](https://storry.tv/ipfs/QmRqaZ7Ur6GzwPru1TyJ97q6vJ8tuZQeZAX4pKX8Gsuf2o)   | x86                  |
 | **[CentOS](https://www.centos.org)**            | [6.10 ... 8.5](https://storry.tv/ipfs/QmaC9xT1AEz5BwRsAvz15ND5vCp6Jz76BJoiKN2o4emQFs)          | x86 (discontinued)   |
 | **[Chromium OS](https://www.chromium.org/chromium-os)** | [80 ... 85](https://storry.tv/ipfs/QmZF34ExoBB1a5cforj7n1fM9KpryNSvjGdLSFSV6vrzFb)     | arm,x86              |
 | **[CoreOS](https://coreos.com/)**               | [1.0](https://storry.tv/ipfs/QmZq9a53v9cepjhVsPN6S3sd12tntnxJiECtZFkcH8KBX9)                   | x86 (discontinued)   |
@@ -20,7 +20,7 @@ Mirror & Archive of 30 Operating Systems
 | **[Kaspersky Rescue Disk](https://support.kaspersky.com/viruses/rescuedisk)** | [10 ... 18](https://storry.tv/ipfs/QmVMeBhS7K3DMXxuF3Q1MbSdANT1b4mkwXCp7nqLV6n4Lt) | x86 (discontinued) |
 | **[Knoppix](http://www.knoppix.org/)**          | [6.0 ... 9.1](https://storry.tv/ipfs/QmS9ZHoBcM6Q98UUiqhhvUAi7hbj39Yuy2bRNxhhVpr3QN)           | x86                  |
 | **[LibreELEC](https://libreelec.tv)**           | [7 ... 10](https://storry.tv/ipfs/QmNizFB7pAcs84kAcWyew4p31bJv6KMxUeD15YxLnsGMQ7)              | arm,x86              |
-| **[Linux Mint](https://linuxmint.com)**         | [18.2 ... 20.2](https://storry.tv/ipfs/Qmf7r8dCUsh5iB1ca3eRxkkcQyaR8WjJpHZsx7eQP4eiQv)         | x86                  |
+| **[Linux Mint](https://linuxmint.com)**         | [18.2 ... 20.3](https://storry.tv/ipfs/QmbvpqF6GnCiRuYQBxgmhFb12qoeQu1Dt9pKN7z3rUVupb)         | x86                  |
 | **[OpenBSD](http://www.openbsd.org)**           | [6.2 ... 7.0](https://storry.tv/ipfs/Qmb46A7rddwpdb2399uxU4h1d7mNwBxZYwmFioNCz7WXRC)           | alpha,arm64,armv7,octeon,powerpc64,sparc64,x86 |
 | **[OpenSolaris](https://www.oracle.com/technetwork/server-storage/solaris/index-135144.html)** | [2009.06](https://storry.tv/ipfs/QmdRpuTZTyKsQSXPt3dyv6WdTY7ZyaRkkU5S3Z9tkPriPv) | x86 (discontinued) |
 | **[openSUSE](https://www.opensuse.org)**        | [15.0 ... 15.3](https://storry.tv/ipfs/QmNcvhQWgzv946PAT1dBEN5FHJphB6W9kyEcZeDECNYMGM)         | x86                  | 
@@ -80,7 +80,7 @@ Donate to [PayPal.me](https://www.paypal.me/Fleschutz) 👏 or install IPFS and 
 --------------
 
 - **Archived** 30 operating systems with 220 releases
-- **Hosting** 870 GB with 751 files in 454 folders by using go-ipfs 0.11.0
+- **Hosting** 877 GB with 756 files in 458 folders by using go-ipfs 0.11.0
 - **Backed up** multiple times and distributed world-wide
 - **Seeding** 24/7 since January 7, 2017
 
