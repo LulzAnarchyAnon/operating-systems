@@ -572,6 +572,8 @@ added QmU3MShzyYRqee27eFAW8VgGzbj1sDbMH4e1Juoo7Gmkim OS/Tails/Release 4.23 (Oct 
 added QmNbqcGzo74U39tf2priHRAeGQNRYA8NsPW2pQDfBkah7i OS/Tails/Release 4.23 (Oct 2021)/tails-amd64-4.23.iso
 added QmVAyzAEgGW9ueUdq7iHEJkaTULMvnbYPYQ26CQfepk7Fo OS/Tails/Release 4.25 (Dec 2021)/tails-amd64-4.25.img
 added QmX7HPgPvUDKqFMvDJn4zxuLugWwRa5ree26oft9wyFJPS OS/Tails/Release 4.25 (Dec 2021)/tails-amd64-4.25.iso
+added QmVSvYkw6D6rn6xa8yxWL8vnQyZMmQAUqitonFC8Qeb4ko OS/Tails/Release 4.26 (Jan 2022)/tails-amd64-4.26.img
+added QmXk5jhDtn42bqYYXweCmA275NikdGcS1UdFQtYadsPp2G OS/Tails/Release 4.26 (Jan 2022)/tails-amd64-4.26.iso
 added QmRu13wcZmdF9rqZcduNdyaDfECGim9ezjCT3GGFTrJBPA OS/TrueNAS/Release 11.0 (Jun 2017)/FreeNAS-11.0-RELEASE.iso
 added QmabouAJBcT3pLP45AY9coiridj8wkGA5fcbHswnWsSYyP OS/TrueNAS/Release 11.0 (Jun 2017)/FreeNAS-11.0-U3.iso
 added QmVshtWxJEXowC9AbABdqrgPKBtZ3r6BPMfePTwEJJzRgH OS/TrueNAS/Release 11.1 (Dec 2017)/FreeNAS-11.1-U7.iso
@@ -1079,7 +1081,9 @@ added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Tails/Release 4.23 (Oct 
 added Qma9NuJa9jM4TpP2uuU1Qax4QFC3wRJMY4kRajtyyUZgCR OS/Tails/Release 4.23 (Oct 2021)
 added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Tails/Release 4.25 (Dec 2021)/++ TAILS 4.25 ++
 added QmWCVdcp6wgzJzu2U2VgVitqK2jv6a7DZKxzauwFBxxMDJ OS/Tails/Release 4.25 (Dec 2021)
-added QmUNtXtHq5M47kySzx3DkJU1ktF2kZDNVs8HL3NMRvbbbV OS/Tails
+added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Tails/Release 4.26 (Jan 2022)/++ TAILS 4.26 ++
+added QmeMbGzA5DsVMdams62FPR8sZJwSNg8nLWFGm7k6e38kGE OS/Tails/Release 4.26 (Jan 2022)
+added QmPW56SpZVdntQ952oLKcQHVzoe49jy1zsnUmgn7VHk4Gg OS/Tails
 added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/TrueNAS/++ TRUENAS ++
 added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/TrueNAS/Release 11.0 (Jun 2017)/++ TRUENAS 11.0 ++
 added QmdkmTYzGZtaydJ1thBFiriGHxkN143GruPzQ4knMvKAvL OS/TrueNAS/Release 11.0 (Jun 2017)
@@ -1212,4 +1216,4 @@ added QmULiSgw6RhYfrErrpdGvLBLQvEZ2j5UxEUEeWPQWR5Eaz OS/openSUSE/Leap 15.3 (Jun 
 added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/openSUSE/Leap 42.3 (Jul 2017)/++ OPENSUSE 42.3 ++
 added QmZfiv5mWpnzmcFPo1TzRQerkZXgJaeFyuyRgu5ZKTtjjx OS/openSUSE/Leap 42.3 (Jul 2017)
 added QmNcvhQWgzv946PAT1dBEN5FHJphB6W9kyEcZeDECNYMGM OS/openSUSE
-added QmUwoJKmtEtMAYfANAVS2fVmpeQyEb4yPMesqsTELztNTb OS
+added QmW7u1kQ9AjiWAWFnEc98EmUMZQnSteNdBcXaGQV3cgret OS
