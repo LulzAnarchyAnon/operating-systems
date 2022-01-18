@@ -544,17 +544,9 @@ added QmeExJuqiMEszHu1zfTctJdM19Afa25BcpFhb3UK69G1JB OS/SystemRescue/Release 6.1
 added Qmf8nrkUQF4EbTiaqgxpzfjc6CRBBrpuz4iEDmUsaqEapy OS/SystemRescue/Release 6.1.8 (Sep 2020)/systemrescuecd-i686-6.1.8.iso
 added QmNnW3W8G9uHGt8yEaNfhWTffwRubZatxpv9ZQZJqkgoV6 OS/SystemRescue/Release 7.01 (Nov 2020)/systemrescue-7.01-amd64.iso
 added Qme1nGaWHaLAsbN9qJQqPPu5GEEvbMRBDCsSyDNiEKR6Gj OS/SystemRescue/Release 7.01 (Nov 2020)/systemrescue-7.01-i686.iso
-added QmSDa9gL6q9byWeaC76qzcRn3cpkMV1qhd8VRCPzec4AVe OS/SystemRescue/Release 8.01 (Mar 2021)/systemrescue-8.01-amd64.iso
-added QmZabqGmRvKCjKRB7CB9upYZg1bqn4icvbvGHqMcYyTfp4 OS/SystemRescue/Release 8.01 (Mar 2021)/systemrescue-8.01-i686.iso
-added QmX1eYiJVkxmdpHtQC7AeLp8mFiWBV9QEWnSkH5tA9Bjqz OS/SystemRescue/Release 8.02 (Apr 2021)/systemrescue-8.02-amd64.iso
-added QmeJeHrN8W2TNQ3cAbCaNMcMBhexgn8agE1PdCcLRCG7m7 OS/SystemRescue/Release 8.02 (Apr 2021)/systemrescue-8.02-i686.iso
-added QmQyPqcf848k1jKxHBmDh9haUaNBMVPXWNdCcByzju25Sn OS/SystemRescue/Release 8.03 (May 2021)/systemrescue-8.03-amd64.iso
-added QmRj6AoPg57aE2fAUsTUqJLXUbwkJVtjsQMAZzexJagypn OS/SystemRescue/Release 8.03 (May 2021)/systemrescue-8.03-i686.iso
-added QmQcefJV1NjpTc8vyHXPNnm92thoMPhRB5Pgo5PDBAiQNA OS/SystemRescue/Release 8.04 (Jul 2021)/systemrescue-8.04-amd64.iso
-added QmbEnWSjBABW9mWmcKxpVGW1LoXDkgkATvbgHt58Pe59Q3 OS/SystemRescue/Release 8.04 (Jul 2021)/systemrescue-8.04-i686.iso
-added Qmc3jS5nK1rJPNECn2kPLSgM8WS6VUmtGayTHgmW3tW6SL OS/SystemRescue/Release 8.05 (Oct 2021)/systemrescue-8.05-amd64.iso
-added QmWQ4t74hK7ML8YWseGQnZCdW7WcRRxDubX4k7fdtsbbQU OS/SystemRescue/Release 8.06 (Nov 2021)/systemrescue-8.06-amd64.iso
 added QmbEQBRHXcygvC5iakZA8FFfvhv4FxJ7fp3NgnNxCs9Jdz OS/SystemRescue/Release 8.07 (Dec 2021)/systemrescue-8.07-amd64.iso
+added QmSoyDuunw7gz6ggexEZ6pNAvGD2jtTrN3jP1pfuWKEGY9 OS/SystemRescue/Release 9.00 (Jan 2022)/systemrescue-9.00-amd64.iso
+added QmcPAauMUSUHwAzXiqzVjTsoVLyVRUJLUwZnYQDku5tM2z OS/SystemRescue/Release 9.00 (Jan 2022)/systemrescue-9.00-i686.iso
 added Qma38dK8BrXH4bZXa6xW3YJpeRuch76W2piebmzrtF8HtR OS/Tails/Release 3.16 (Sep 2019)/tails-amd64-3.16.iso
 added QmcKDvzYzM9uuagSPd4Gh3469tXJVTTP7pyptjyCAkmp95 OS/Tails/Release 4.17 (Mar 2021)/tails-amd64-4.17.img
 added QmQJsW6D72FcTYZYtE1txHrfJPCg2EKsFAFZyzRGiXpRqE OS/Tails/Release 4.17 (Mar 2021)/tails-amd64-4.17.iso
@@ -1047,21 +1039,11 @@ added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/SystemRescue/Release 6.1
 added QmNufeWGo78BXVW2BjzmfZ8Y7Ruv5tW8j7cxaTxpGJb7Wf OS/SystemRescue/Release 6.1.8 (Sep 2020)
 added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/SystemRescue/Release 7.01 (Nov 2020)/++ SYSTEMRESCUE 7.01 ++
 added QmRVFuusRKR6SEwR19eTNhcTGsedrY4mr6k3V5v7QhnWiY OS/SystemRescue/Release 7.01 (Nov 2020)
-added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/SystemRescue/Release 8.01 (Mar 2021)/++ SYSTEMRESCUE 8.01 ++
-added QmewqonZoMCpkPVH4BS1xbuV2kJzT1aw8XacfA87Ts6GtM OS/SystemRescue/Release 8.01 (Mar 2021)
-added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/SystemRescue/Release 8.02 (Apr 2021)/++ SYSTEMRESCUE 8.02 ++
-added QmeZyRxE4SX3Gm4xsXojpL5n2ULSa3Aa18ehyPpaC2xwRd OS/SystemRescue/Release 8.02 (Apr 2021)
-added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/SystemRescue/Release 8.03 (May 2021)/++ SYSTEMRESCUE 8.03 ++
-added QmU3ETiPKM5hva7697o9wiTquVWDyLUnULY5DszFXZvNEk OS/SystemRescue/Release 8.03 (May 2021)
-added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/SystemRescue/Release 8.04 (Jul 2021)/++ SYSTEMRESCUE 8.04 ++
-added QmeiXMZpVnDFi428zpfNr5DCrv3kChfhXJrCKc6NuKjykQ OS/SystemRescue/Release 8.04 (Jul 2021)
-added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/SystemRescue/Release 8.05 (Oct 2021)/++ SYSTEMRESCUE 8.05 ++
-added QmR5CfBkzSWk2xk1QdU84pPcKUfpStzymy377SHAhjLFEF OS/SystemRescue/Release 8.05 (Oct 2021)
-added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/SystemRescue/Release 8.06 (Nov 2021)/++ SYSTEMRESCUE 8.06 ++
-added QmdWEcgGWQKpdeq21eQcgMLyZdh2qRPLKACMFuSxhcmq41 OS/SystemRescue/Release 8.06 (Nov 2021)
 added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/SystemRescue/Release 8.07 (Dec 2021)/++ SYSTEMRESCUE 8.07 ++
 added QmQVoMtztBbtUMaXwMdDCrNmvwdA8G86Di8TdRQcGPasAn OS/SystemRescue/Release 8.07 (Dec 2021)
-added QmWDfkmHLsdDeZg2WRmu1JGctHrtCDxuThXpYHp9FqbepZ OS/SystemRescue
+added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/SystemRescue/Release 9.00 (Jan 2022)/++ SYSTEMRESCUE 9.00 ++
+added QmZaJCoRErdLwsBbRMXK8gmekQaS5JasD7QRj6yFWTNG3u OS/SystemRescue/Release 9.00 (Jan 2022)
+added QmUs3oEJU6qf4oHetnCzPgSaGWvGSkXxyKZRKCWwysc78v OS/SystemRescue
 added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Tails/++ TAILS ++
 added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Tails/Release 3.16 (Sep 2019)/++ TAILS 3.16 ++
 added QmbF5p2v9swNcDJAWTnZ8DwWpMwUoBSEQ3Fk3kgquwNYaX OS/Tails/Release 3.16 (Sep 2019)
@@ -1216,4 +1198,4 @@ added QmULiSgw6RhYfrErrpdGvLBLQvEZ2j5UxEUEeWPQWR5Eaz OS/openSUSE/Leap 15.3 (Jun 
 added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/openSUSE/Leap 42.3 (Jul 2017)/++ OPENSUSE 42.3 ++
 added QmZfiv5mWpnzmcFPo1TzRQerkZXgJaeFyuyRgu5ZKTtjjx OS/openSUSE/Leap 42.3 (Jul 2017)
 added QmNcvhQWgzv946PAT1dBEN5FHJphB6W9kyEcZeDECNYMGM OS/openSUSE
-added QmW7u1kQ9AjiWAWFnEc98EmUMZQnSteNdBcXaGQV3cgret OS
+added QmaUwhughMcoxvqMJA8LbeZJoeaoVc3WcXYCJB1VdeDHLs OS

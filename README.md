@@ -28,7 +28,7 @@ Mirror & Archive of 30 Operating Systems
 | **[RancherOS](http://rancher.com/rancher-os/)** | [1.0.3 ... 1.5.6](https://storry.tv/ipfs/QmT4NQYJU6mMmpJ9moooPgJpJDVoNP9rL7H3yumqpUqgb4)       | hyperV,VMware,x86    |
 | **[ReactOS](https://www.reactos.org)**          | [0.4.7 ... 0.4.14](https://storry.tv/ipfs/QmeLeyuUsFJJx96HvEAsneJpG6PsZZLupkbLms8AvzHUY1 )     | x86                  |
 | **[Remix OS](http://cn.jide.com/remixos)**      | [2016.11](https://storry.tv/ipfs/QmPhohZB29FNYqjBmxvPeXB1Jbd1anSq9tfXDE2xhZM54u)               | x86 (discontinued)   |
-| **[SystemRescue](http://www.system-rescue-cd.org/)**| [6.1.8 ... 8.07](https://storry.tv/ipfs/QmWDfkmHLsdDeZg2WRmu1JGctHrtCDxuThXpYHp9FqbepZ)    | x86                  |
+| **[SystemRescue](http://www.system-rescue-cd.org/)**| [6.1.8 ... 9.00](https://storry.tv/ipfs/QmUs3oEJU6qf4oHetnCzPgSaGWvGSkXxyKZRKCWwysc78v)    | x86                  |
 | **[Tails](https://tails.boum.org/)**            | [3.16 ... 4.26](https://storry.tv/ipfs/QmPW56SpZVdntQ952oLKcQHVzoe49jy1zsnUmgn7VHk4Gg)         | x86                  |
 | **[TrueNAS](https://www.truenas.org)**          | [11.0 ... 12.0](https://storry.tv/ipfs/Qma3n1u5J3hmiTGu3nz3u5Ln7BQh9Eyodwd1sfV2mJoynW)         | x86                  |
 | **[Ubuntu](https://www.ubuntu.com/)**           | [4.10 ... 21.10](https://storry.tv/ipfs/QmNemDv4GfWqazDMhyYiofGGkaAZnd4nmYQ7vM8mQ6EjZ7)        | arm64,pi2,pi3,pi4,ppc64,s390,x86 |
