@@ -1,16 +1,16 @@
 Mirror & Archive of 30 Operating Systems
 ========================================
 
-**Need to reinstall your operating system (OS)? Or want to try a newer, a former, a historic, or even a different OS? All downloads below are checksum verified and provided through the IPFS gateway. For system requirements and installation instructions visit the OS manufacturers website, please.** 📅 *updated January 10, 2022*
+**Need to reinstall your operating system (OS)? Or want to try a newer, a former, a historic, or even a different OS? All downloads below are checksum verified and provided through the IPFS gateway. For system requirements and installation instructions visit the OS manufacturers website, please.** 📅 *last update: 09 FEB 2022*
 
 | Name & Website                                  | Downloads                                                                                      | Supported Processors | State |
 | :---------------------------------------------- | :--------------------------------------------------------------------------------------------- | :------------------- | ----- |
 | **[Android-x86](https://www.android-x86.org)**  | [5.1 ... 9.0](https://storry.tv/ipfs/QmdQrao7eUjcZ1GbR8rG21PnAw1vs5VWrvUFCvsDFGaMk8)           | x86                  | active |
-| **[Arch Linux](https://archlinux.org)**         | [2017.09 ... 2022.01](https://storry.tv/ipfs/QmRqaZ7Ur6GzwPru1TyJ97q6vJ8tuZQeZAX4pKX8Gsuf2o)   | x86                  | active |
+| **[Arch Linux](https://archlinux.org)**         | [2017.09 ... 2022.02](https://storry.tv/ipfs/QmTfVw24hY9B2zrV9xB9c6SxhWxJTRxGvc5HFDgSsEeBs5) | x86                  | active |
 | **[CentOS](https://www.centos.org)**            | [6.10 ... 8.5](https://storry.tv/ipfs/QmaC9xT1AEz5BwRsAvz15ND5vCp6Jz76BJoiKN2o4emQFs)          | x86                  | DISCONTINUED |
 | **[Chromium OS](https://www.chromium.org/chromium-os)** | [80 ... 85](https://storry.tv/ipfs/QmZF34ExoBB1a5cforj7n1fM9KpryNSvjGdLSFSV6vrzFb)     | arm,x86              | active |
 | **[CoreOS](https://coreos.com/)**               | [1.0](https://storry.tv/ipfs/QmZq9a53v9cepjhVsPN6S3sd12tntnxJiECtZFkcH8KBX9)                   | x86                  | DISCONTINUED |
-| **[Debian](https://www.debian.org)**            | [8.11 ... 11.2](https://storry.tv/ipfs/Qmd3Ae2keQ5ER2UAVYCaG6TriS8YjDHycs5XXcbjhR78Zc)         | arm,mips,ppc64,s390,x86 | active | 
+| **[Debian](https://www.debian.org)**            | [8.11 ... 11.2](https://storry.tv/ipfs/Qmd3Ae2keQ5ER2UAVYCaG6TriS8YjDHycs5XXcbjhR78Zc)         | arm,mips,ppc64,s390,x86 | active |
 | **[elementary OS](https://elementary.io)**      | [0.4.1 ... 6.1](https://storry.tv/ipfs/QmSCM4gJE11P1eYi5J2CihkZJ3q3tcgx4DiKXAhw9ULcfQ)         | x86                  | active |
 | **[Fedora](https://getfedora.org)**             | [26 ... 35](https://storry.tv/ipfs/QmXJnxmSoFKbkpjBnd3DPKMeKjFzGGjuU4rrkTVZxwayYb)             | aarch64,x86          | active |
 | **[FreeBSD](https://www.freebsd.org)**          | [11.4 ... 13.0](https://storry.tv/ipfs/QmSqaz3ctfHx24NREV8M6ogZrj4XCKnwa78xUD1vmof14Z)         | arm64,powerpc,sparc64,x86 | active |
@@ -29,7 +29,7 @@ Mirror & Archive of 30 Operating Systems
 | **[ReactOS](https://www.reactos.org)**          | [0.4.7 ... 0.4.14](https://storry.tv/ipfs/QmeLeyuUsFJJx96HvEAsneJpG6PsZZLupkbLms8AvzHUY1 )     | x86                  | active |
 | **[Remix OS](http://cn.jide.com/remixos)**      | [2016.11](https://storry.tv/ipfs/QmPhohZB29FNYqjBmxvPeXB1Jbd1anSq9tfXDE2xhZM54u)               | x86                  | DISCONTINUED |
 | **[SystemRescue](http://www.system-rescue-cd.org/)**| [6.1.8 ... 9.00](https://storry.tv/ipfs/QmUs3oEJU6qf4oHetnCzPgSaGWvGSkXxyKZRKCWwysc78v)    | x86                  | active |
-| **[Tails](https://tails.boum.org/)**            | [3.16 ... 4.26](https://storry.tv/ipfs/QmPW56SpZVdntQ952oLKcQHVzoe49jy1zsnUmgn7VHk4Gg)         | x86                  | active |
+| **[Tails](https://tails.boum.org/)**            | [3.16 ... 4.27](https://storry.tv/ipfs/QmWc4cDAiaa1Anfrh1DqKdrXrURUPRhS9JM4VE3ajRG3we) | x86                  | active |
 | **[TrueNAS](https://www.truenas.org)**          | [11.0 ... 12.0](https://storry.tv/ipfs/Qma3n1u5J3hmiTGu3nz3u5Ln7BQh9Eyodwd1sfV2mJoynW)         | x86                  | active |
 | **[Ubuntu](https://www.ubuntu.com/)**           | [4.10 ... 21.10](https://storry.tv/ipfs/QmNemDv4GfWqazDMhyYiofGGkaAZnd4nmYQ7vM8mQ6EjZ7)        | arm64,pi2,pi3,pi4,ppc64,s390,x86 | active |
 | **[Ubuntu Core](https://www.ubuntu.com/core)**  | [16 ... 20](https://storry.tv/ipfs/QmdZRfLgQrh71X3ng1avdrbVyrLz2tECEY3AAaT3bRZ5wE)             | pi2,pi3,pi4          | active |
