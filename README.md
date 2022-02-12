@@ -1,7 +1,7 @@
 Mirror & Archive of 30 Operating Systems
 ========================================
 
-**Need to reinstall your operating system (OS)? Or want to try a newer, a former, a historic, or even a different OS? All downloads below are checksum verified and provided through the IPFS gateway. For system requirements and installation instructions visit the OS manufacturers website, please.** 📅 *last update: 09 FEB 2022*
+**Need to reinstall your operating system (OS)? Or want to try a newer, a former, a historic, or even a different OS? All downloads below are checksum verified and provided through the IPFS gateway. For system requirements and installation instructions visit the OS manufacturers website, please.** 📅 *last update: 12 FEB 2022*
 
 | Name & Website                                  | Downloads                                                                                      | Supported Processors | State |
 | :---------------------------------------------- | :--------------------------------------------------------------------------------------------- | :------------------- | ----- |
@@ -28,7 +28,7 @@ Mirror & Archive of 30 Operating Systems
 | **[RancherOS](http://rancher.com/rancher-os/)** | [1.0.3 ... 1.5.6](https://storry.tv/ipfs/QmT4NQYJU6mMmpJ9moooPgJpJDVoNP9rL7H3yumqpUqgb4)       | hyperV,VMware,x86    | active |
 | **[ReactOS](https://www.reactos.org)**          | [0.4.7 ... 0.4.14](https://storry.tv/ipfs/QmeLeyuUsFJJx96HvEAsneJpG6PsZZLupkbLms8AvzHUY1 )     | x86                  | active |
 | **[Remix OS](http://cn.jide.com/remixos)**      | [2016.11](https://storry.tv/ipfs/QmPhohZB29FNYqjBmxvPeXB1Jbd1anSq9tfXDE2xhZM54u)               | x86                  | DISCONTINUED |
-| **[SystemRescue](http://www.system-rescue-cd.org/)**| [6.1.8 ... 9.00](https://storry.tv/ipfs/QmUs3oEJU6qf4oHetnCzPgSaGWvGSkXxyKZRKCWwysc78v)    | x86                  | active |
+| **[SystemRescue](http://www.system-rescue-cd.org/)**| [6.1.8 ... 9.01](https://storry.tv/ipfs/QmdBkd7G4LfFrvmfS6oqJ3rZEr7qZzqBi9JSYCrgwAPjgG) | x86                  | active |
 | **[Tails](https://tails.boum.org/)**            | [3.16 ... 4.27](https://storry.tv/ipfs/QmWc4cDAiaa1Anfrh1DqKdrXrURUPRhS9JM4VE3ajRG3we) | x86                  | active |
 | **[TrueNAS](https://www.truenas.org)**          | [11.0 ... 12.0](https://storry.tv/ipfs/Qma3n1u5J3hmiTGu3nz3u5Ln7BQh9Eyodwd1sfV2mJoynW)         | x86                  | active |
 | **[Ubuntu](https://www.ubuntu.com/)**           | [4.10 ... 21.10](https://storry.tv/ipfs/QmNemDv4GfWqazDMhyYiofGGkaAZnd4nmYQ7vM8mQ6EjZ7)        | arm64,pi2,pi3,pi4,ppc64,s390,x86 | active |
