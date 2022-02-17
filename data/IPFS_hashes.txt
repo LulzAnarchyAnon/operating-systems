@@ -371,6 +371,9 @@ added QmVcym5b2UHLiTc7Awqwbhz5oHdi7iACgjWG1KoVARZvxn OS/Kali Linux/Release 2021.
 added QmYLqDysjoncaoFEi3FUfi5PvW7nLbcwCCHn7eVUAdk1Ju OS/Kali Linux/Release 2021.4/kali-linux-2021.4-installer-amd64.iso
 added Qmd21yVUCgprjQ717omyEeSntHPyzUvsUxDPoNQKqPGHsF OS/Kali Linux/Release 2021.4/kali-linux-2021.4-installer-arm64.iso
 added QmPDdFFL26DsAysgnRMV63H9vduHEkCFuRqwgbMuUuafjS OS/Kali Linux/Release 2021.4/kali-linux-2021.4-installer-i386.iso
+added Qmf2nQhvctKA6bduwYTcs7wA72PpB73z1emN5CiHsHjg1J OS/Kali Linux/Release 2022.1/kali-linux-2022.1-installer-amd64.iso
+added QmP46e9z7h6YX3h49vUjdSbPHUrLdaFGfJyMVM2AJUVTJH OS/Kali Linux/Release 2022.1/kali-linux-2022.1-installer-arm64.iso
+added QmS4bTxGapyPtNutX3UuKmUyZ9tAs3AnUjFvcnXHTBHkhp OS/Kali Linux/Release 2022.1/kali-linux-2022.1-installer-i386.iso
 added Qmb4GV9kQqeTdvrSbuz3qHcEXhzNG6vRmVjLrA2uxfXy3b OS/Kaspersky Rescue Disk/Release 10/kav_rescue_10.iso
 added QmRVurs359y5sVkXR4DwHHCdouvTeNzuq1WRTU7bVtr9x5 OS/Kaspersky Rescue Disk/Release 18 (Mar 2018)/krd.iso
 added Qmf9FXCGY92WPVEH3s8i7dj8DQxL8wUGprxdTEtkz7f6ye OS/LibreELEC/Release 10 (Nov 2021)/LibreELEC-Generic.x86_64-10.0.1.img.gz
@@ -940,7 +943,9 @@ added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Kali Linux/Release 2021.
 added QmeoXawcNCNM18uRxy2jYG2D53C3aFmHkdoLcBkSbn37PR OS/Kali Linux/Release 2021.3
 added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Kali Linux/Release 2021.4/++ KALI 2021.4 ++
 added Qmf9VT1wRPrPdwotnB3aEiYvrdB1XyuXKQccfVyUgaMi2f OS/Kali Linux/Release 2021.4
-added QmQYEfKPWNXjCB2XWUTbqJ1i8oBuQ3fHEtY6NbtTbUXN3F OS/Kali Linux
+added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Kali Linux/Release 2022.1/++ KALI 2022.1 ++
+added QmVvziNge28rMqxPHaLLc4HFhpBhhJDkcKsvH4KS31a4PV OS/Kali Linux/Release 2022.1
+added QmVP4t9bWQi4PA7pYF1aafLeRhHAHn6uCN2GM3w2oamcgZ OS/Kali Linux
 added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Kaspersky Rescue Disk/++ KASPERSKY RESCUE DISK ++
 added QmcT8tHNjCvrP7gARRnqmrgYGvFWtuMdg6W9EUzrXjd3cZ OS/Kaspersky Rescue Disk/Release 10
 added QmY7XWRAVCCbMouMBQeSAvpce5q1evgVKXE6vbA3QuRRA7 OS/Kaspersky Rescue Disk/Release 18 (Mar 2018)
@@ -1208,4 +1213,4 @@ added QmULiSgw6RhYfrErrpdGvLBLQvEZ2j5UxEUEeWPQWR5Eaz OS/openSUSE/Leap 15.3 (Jun 
 added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/openSUSE/Leap 42.3 (Jul 2017)/++ OPENSUSE 42.3 ++
 added QmZfiv5mWpnzmcFPo1TzRQerkZXgJaeFyuyRgu5ZKTtjjx OS/openSUSE/Leap 42.3 (Jul 2017)
 added QmNcvhQWgzv946PAT1dBEN5FHJphB6W9kyEcZeDECNYMGM OS/openSUSE
-added QmVg4jYWS66FyppfiMroCk3uMnq463Th734V35k142TocM OS
+added QmfUq472JdHnSvgksBS24crHfQ9UZYLrqCXHt4RcJpr9iR OS
