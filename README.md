@@ -1,7 +1,7 @@
 Mirror & Archive of 30 Operating Systems
 ========================================
 
-**Need to reinstall your operating system (OS)? Or want to try a newer, a former, a historic, or even a different OS? All downloads below are checksum verified and provided through the IPFS gateway. For system requirements and installation instructions visit the OS manufacturers website, please.** 📅 *last update: 17 FEB 2022*
+**Need to reinstall your operating system (OS)? Or want to try a newer, a former, a historic, or even a different OS? All downloads below are checksum verified and provided through the IPFS gateway. For system requirements and installation instructions visit the OS manufacturers website, please.** 📅 *last update: 26 FEB 2022*
 
 | Name & Website                                  | Downloads                                                                                      | Supported Processors | Active? |
 | :---------------------------------------------- | :--------------------------------------------------------------------------------------------- | :------------------- | ----- |
@@ -31,10 +31,10 @@ Mirror & Archive of 30 Operating Systems
 | **[SystemRescue](http://www.system-rescue-cd.org/)**| [6.1.8 ... 9.01](https://storry.tv/ipfs/QmdBkd7G4LfFrvmfS6oqJ3rZEr7qZzqBi9JSYCrgwAPjgG) | x86                     | ✔️ |
 | **[Tails](https://tails.boum.org/)**            | [3.16 ... 4.27](https://storry.tv/ipfs/QmWc4cDAiaa1Anfrh1DqKdrXrURUPRhS9JM4VE3ajRG3we) | x86                          | ✔️ |
 | **[TrueNAS](https://www.truenas.org)**          | [11.0 ... 12.0](https://storry.tv/ipfs/Qma3n1u5J3hmiTGu3nz3u5Ln7BQh9Eyodwd1sfV2mJoynW)         | x86                  | ✔️ |
-| **[Ubuntu](https://www.ubuntu.com/)**           | [4.10 ... 21.10](https://storry.tv/ipfs/QmNemDv4GfWqazDMhyYiofGGkaAZnd4nmYQ7vM8mQ6EjZ7)        | arm64, pi2, pi3, pi4, ppc64, s390, x86 | ✔️ |
+| **[Ubuntu](https://www.ubuntu.com/)**           | [4.10 ... 21.10](https://storry.tv/ipfs/QmV34LTSKMKF28PTGcxCx35a2SymDngFV53ZCm7DNvVFFc) | arm64, pi2, pi3, pi4, ppc64, s390, x86 | ✔️ |
 | **[Ubuntu Core](https://www.ubuntu.com/core)**  | [16 ... 20](https://storry.tv/ipfs/QmdZRfLgQrh71X3ng1avdrbVyrLz2tECEY3AAaT3bRZ5wE)             | pi2, pi3, pi4        | ✔️ |
 | **[Windows](https://www.microsoft.com)**        | [95 ... 11](https://storry.tv/ipfs/QmcLU6YPRes87qzZHcVjKbh9jZrCwJvBjXz9Y1dqVcytAf)             | x86                  | ✔️ |
-| **[Xubuntu](https://www.xubuntu.org)**          | [10.04 ... 21.10](https://storry.tv/ipfs/QmXrc8bCtFtcr31iskFe2ayRyMs5vxY4es3bSAftR9M6tg)       | x86                  | ✔️ |
+| **[Xubuntu](https://www.xubuntu.org)**          | [10.04 ... 21.10](https://storry.tv/ipfs/QmdqYAuB3ME4mEYGYczTeYS2fH8koXFbQHjMcdDSjrK4ft) | x86                  | ✔️ |
 
 
 Frequently Asked Questions (FAQ)
@@ -80,7 +80,7 @@ Donate to [PayPal.me](https://www.paypal.me/Fleschutz) 👏 or install IPFS and 
 --------------
 
 - **Archived** 30 operating systems with 223 releases
-- **Hosting** 886 GB with 759 files in 456 folders by using go-ipfs 0.11.0
+- **Hosting** 887 GB with 759 files in 456 folders (using go-ipfs v0.12.0)
 - **Backed up** multiple times and distributed world-wide
 - **Seeding** 24/7 since January 7, 2017
 
