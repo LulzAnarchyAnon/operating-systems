@@ -374,8 +374,6 @@ added QmPDdFFL26DsAysgnRMV63H9vduHEkCFuRqwgbMuUuafjS OS/Kali Linux/Release 2021.
 added Qmf2nQhvctKA6bduwYTcs7wA72PpB73z1emN5CiHsHjg1J OS/Kali Linux/Release 2022.1/kali-linux-2022.1-installer-amd64.iso
 added QmP46e9z7h6YX3h49vUjdSbPHUrLdaFGfJyMVM2AJUVTJH OS/Kali Linux/Release 2022.1/kali-linux-2022.1-installer-arm64.iso
 added QmS4bTxGapyPtNutX3UuKmUyZ9tAs3AnUjFvcnXHTBHkhp OS/Kali Linux/Release 2022.1/kali-linux-2022.1-installer-i386.iso
-added Qmb4GV9kQqeTdvrSbuz3qHcEXhzNG6vRmVjLrA2uxfXy3b OS/Kaspersky Rescue Disk/Release 10/kav_rescue_10.iso
-added QmRVurs359y5sVkXR4DwHHCdouvTeNzuq1WRTU7bVtr9x5 OS/Kaspersky Rescue Disk/Release 18 (Mar 2018)/krd.iso
 added Qmf9FXCGY92WPVEH3s8i7dj8DQxL8wUGprxdTEtkz7f6ye OS/LibreELEC/Release 10 (Nov 2021)/LibreELEC-Generic.x86_64-10.0.1.img.gz
 added QmR11hVtRoqSEw5xzLgSPS9U4qwbu6Nsu1NVdDyjXQYQEE OS/LibreELEC/Release 10 (Nov 2021)/LibreELEC-RPi4.arm-10.0.1.img.gz
 added QmdG7pcKFZaiyUedF8b3WoNZTZAPrLuqKm5KHMsqYSw3rs OS/LibreELEC/Release 7 (Jan 2017)/OpenELEC-Generic.x86_64-7.0.1.img.gz
@@ -855,9 +853,9 @@ added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Debian/Release 11.0 (Aug
 added QmNnDAkL1MpPRkAG3tGZfZJQSsLrkTwpkG4RKZVfKjXAUh OS/Debian/Release 11.0 (Aug 2021)
 added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Debian/Release 11.1 (Oct 2021)/++ DEBIAN 11.1 ++
 added QmWHH3aNzUsU3yNRJTgbKE9NT5igwfVDGRsG3QSu42VYrz OS/Debian/Release 11.1 (Oct 2021)
-added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Debian/Release 11.2 (Dec 2021)/++ DEBIAN 11.1 ++
-added QmdW3EHaL85j5dc9jixGD4sqzePKhDZECceBkswLN9ytBi OS/Debian/Release 11.2 (Dec 2021)
-added Qmd3Ae2keQ5ER2UAVYCaG6TriS8YjDHycs5XXcbjhR78Zc OS/Debian
+added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Debian/Release 11.2 (Dec 2021)/++ DEBIAN 11.2 ++
+added QmcNasbMa9BS8WG1wV5aAK6izvSuACjyAFNsZmZ9DUoBH9 OS/Debian/Release 11.2 (Dec 2021)
+added QmRsDTDoYWUzt71Nb7msPYjQtFmPxd31ZzqzDJazngo7B2 OS/Debian
 added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Fedora/++ FEDORA ++
 added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Fedora/Release 26 (Jul 2017)/++ FEDORA 26 ++
 added QmRkM3seBA1nXTMGhQ1YVf4yLsbvetQGGtx2UZhVVEMwEG OS/Fedora/Release 26 (Jul 2017)
@@ -946,10 +944,6 @@ added Qmf9VT1wRPrPdwotnB3aEiYvrdB1XyuXKQccfVyUgaMi2f OS/Kali Linux/Release 2021.
 added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Kali Linux/Release 2022.1/++ KALI 2022.1 ++
 added QmVvziNge28rMqxPHaLLc4HFhpBhhJDkcKsvH4KS31a4PV OS/Kali Linux/Release 2022.1
 added QmVP4t9bWQi4PA7pYF1aafLeRhHAHn6uCN2GM3w2oamcgZ OS/Kali Linux
-added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Kaspersky Rescue Disk/++ KASPERSKY RESCUE DISK ++
-added QmcT8tHNjCvrP7gARRnqmrgYGvFWtuMdg6W9EUzrXjd3cZ OS/Kaspersky Rescue Disk/Release 10
-added QmY7XWRAVCCbMouMBQeSAvpce5q1evgVKXE6vbA3QuRRA7 OS/Kaspersky Rescue Disk/Release 18 (Mar 2018)
-added QmVMeBhS7K3DMXxuF3Q1MbSdANT1b4mkwXCp7nqLV6n4Lt OS/Kaspersky Rescue Disk
 added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/LibreELEC/++ LIBREELEC ++
 added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/LibreELEC/Release 10 (Nov 2021)/++ LIBREELEC 10 ++
 added QmWhkidmJ2S3M6ciF2VThr6uJsGry84gPGnnWs4mLAzwxC OS/LibreELEC/Release 10 (Nov 2021)
@@ -1079,8 +1073,9 @@ added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Tails/Release 4.25 (DEC 
 added QmWCVdcp6wgzJzu2U2VgVitqK2jv6a7DZKxzauwFBxxMDJ OS/Tails/Release 4.25 (DEC 2021)
 added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Tails/Release 4.26 (JAN 2022)/++ TAILS 4.26 ++
 added QmeMbGzA5DsVMdams62FPR8sZJwSNg8nLWFGm7k6e38kGE OS/Tails/Release 4.26 (JAN 2022)
-added QmUjin4S7iqRm1tdtGsZmKTraAomJpajrzC8cSRtm6uFEE OS/Tails/Release 4.27 (FEB 2022)
-added QmWc4cDAiaa1Anfrh1DqKdrXrURUPRhS9JM4VE3ajRG3we OS/Tails
+added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Tails/Release 4.27 (FEB 2022)/++ TAILS 4.27 ++
+added QmPZbExiyUEwG71EQpksRCgYbJwLCW5uqTQRT2fSauCqte OS/Tails/Release 4.27 (FEB 2022)
+added QmQ4CpP6cN2d9QCDKVDhxG829JPFz6yUaCriRNWQNmWGpL OS/Tails
 added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/TrueNAS/++ TRUENAS ++
 added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/TrueNAS/Release 11.0 (Jun 2017)/++ TRUENAS 11.0 ++
 added QmdkmTYzGZtaydJ1thBFiriGHxkN143GruPzQ4knMvKAvL OS/TrueNAS/Release 11.0 (Jun 2017)
@@ -1213,4 +1208,4 @@ added QmULiSgw6RhYfrErrpdGvLBLQvEZ2j5UxEUEeWPQWR5Eaz OS/openSUSE/Leap 15.3 (Jun 
 added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/openSUSE/Leap 42.3 (Jul 2017)/++ OPENSUSE 42.3 ++
 added QmZfiv5mWpnzmcFPo1TzRQerkZXgJaeFyuyRgu5ZKTtjjx OS/openSUSE/Leap 42.3 (Jul 2017)
 added QmNcvhQWgzv946PAT1dBEN5FHJphB6W9kyEcZeDECNYMGM OS/openSUSE
-added QmXJjZc8G8PnDrqkkgtCtgmmwKjddLhgSjnGCEV2v2z15Q OS
+added QmcL3x8VffN5nLQd4t85bv7fumdWcpZqEFBJwzk2yjhUGw OS
