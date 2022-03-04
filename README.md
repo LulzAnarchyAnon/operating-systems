@@ -1,12 +1,12 @@
 Mirror & Archive of 29 Operating Systems
 ========================================
 
-**Need to reinstall your operating system (OS)? Or want to try a newer, a former, a historic, or even a different OS? All downloads below are checksum verified and provided through the IPFS gateway. For system requirements and installation instructions visit the OS manufacturers website, please.** 📅 *last update: 02 MAR 2022*
+**Need to reinstall your operating system (OS)? Or want to try a newer, a former, a historic, or even a different OS? All downloads below are checksum verified and provided through the IPFS gateway. For system requirements and installation instructions visit the OS manufacturers website, please.** 📅 *last update: 04 MAR 2022*
 
 | Name & Website                                  | Downloads                                                                                      | Supported Processors | Active? |
 | :---------------------------------------------- | :--------------------------------------------------------------------------------------------- | :------------------- | ----- |
 | **[Android-x86](https://www.android-x86.org)**  | [5.1 ... 9.0](https://storry.tv/ipfs/QmdQrao7eUjcZ1GbR8rG21PnAw1vs5VWrvUFCvsDFGaMk8)           | x86                  | ✔️ |
-| **[Arch Linux](https://archlinux.org)**         | [2017.09 ... 2022.02](https://storry.tv/ipfs/QmTfVw24hY9B2zrV9xB9c6SxhWxJTRxGvc5HFDgSsEeBs5) | x86                    | ✔️ |
+| **[Arch Linux](https://archlinux.org)**         | [2016.01.01 ... 2022.03.01](https://storry.tv/ipfs/QmWQpDcXwBZroWuLLNBQJNFDnD8bdJ9YWWiQUF8LDPHKL1) | x86                    | ✔️ |
 | **[CentOS](https://www.centos.org)**            | [6.10 ... 8.5](https://storry.tv/ipfs/QmaC9xT1AEz5BwRsAvz15ND5vCp6Jz76BJoiKN2o4emQFs)          | x86                  | ❌ |
 | **[Chromium OS](https://www.chromium.org/chromium-os)** | [80 ... 85](https://storry.tv/ipfs/QmZF34ExoBB1a5cforj7n1fM9KpryNSvjGdLSFSV6vrzFb)     | arm, x86             | ✔️ |
 | **[CoreOS](https://coreos.com/)**               | [1.0](https://storry.tv/ipfs/QmZq9a53v9cepjhVsPN6S3sd12tntnxJiECtZFkcH8KBX9)                   | x86                  | ❌ |
