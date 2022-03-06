@@ -96,6 +96,6 @@ See also
 * [ipfs.github.io/public-gateway-checker](https://ipfs.github.io/public-gateway-checker/) - list of public gateways to IPFS
 * [unetbootin.github.io](https://unetbootin.github.io) - UNetbootin software to create a bootable USB stick
 
-® Trademarks
-------------
-All trademarks are the property of their respective owners.
+® Registered Trademarks
+-----------------------
+All registered trademarks are the property of their respective owners.
