@@ -365,19 +365,21 @@ added QmPDdFFL26DsAysgnRMV63H9vduHEkCFuRqwgbMuUuafjS OS/Kali Linux/Release 2021.
 added Qmf2nQhvctKA6bduwYTcs7wA72PpB73z1emN5CiHsHjg1J OS/Kali Linux/Release 2022.1/kali-linux-2022.1-installer-amd64.iso
 added QmP46e9z7h6YX3h49vUjdSbPHUrLdaFGfJyMVM2AJUVTJH OS/Kali Linux/Release 2022.1/kali-linux-2022.1-installer-arm64.iso
 added QmS4bTxGapyPtNutX3UuKmUyZ9tAs3AnUjFvcnXHTBHkhp OS/Kali Linux/Release 2022.1/kali-linux-2022.1-installer-i386.iso
-added Qmf9FXCGY92WPVEH3s8i7dj8DQxL8wUGprxdTEtkz7f6ye OS/LibreELEC/Release 10 (Nov 2021)/LibreELEC-Generic.x86_64-10.0.1.img.gz
-added QmR11hVtRoqSEw5xzLgSPS9U4qwbu6Nsu1NVdDyjXQYQEE OS/LibreELEC/Release 10 (Nov 2021)/LibreELEC-RPi4.arm-10.0.1.img.gz
-added QmdG7pcKFZaiyUedF8b3WoNZTZAPrLuqKm5KHMsqYSw3rs OS/LibreELEC/Release 7 (Jan 2017)/OpenELEC-Generic.x86_64-7.0.1.img.gz
-added QmPp6Xy9Y6w35hYFoUPh8wwxZe4VJvkczMYaAk1krVX3R7 OS/LibreELEC/Release 8 (Apr 2018)/OpenELEC-Generic.x86_64-8.0.4.img.gz
-added QmNygnX8phhqbxXAc52pNMbggG25Af6mBTW4DZadc8vMfM OS/LibreELEC/Release 9 (Nov 2020)/LibreELEC-Generic.x86_64-9.2.6.img.gz
-added QmXXogdxQfVwTRewDiWi9dQ6JgL1gGnyy4uJH8dkuKfTTK OS/LibreELEC/Release 9 (Nov 2020)/LibreELEC-KVIM.arm-9.0.2.img.gz
-added QmRF1mnQSwXoUNv4TtJsGn1GSLTxuiTGVDi7r73Q1bzBqA OS/LibreELEC/Release 9 (Nov 2020)/LibreELEC-LePotato.arm-9.0.2.img.gz
-added QmZFh6UYUhvunzPXRtNaGG3R84j5LdtwQjrsqsY9TnY279 OS/LibreELEC/Release 9 (Nov 2020)/LibreELEC-Odroid_C2.arm-9.0.2.img.gz
-added QmevdvD6dV2eXSRvFnfpNFmaGZEndFvCPwA5YjHxCLoCDn OS/LibreELEC/Release 9 (Nov 2020)/LibreELEC-RPi2.arm-9.2.6.img.gz
-added QmdpWL5fmyHm34uAjPwHDfTde1MLkNYTjFs8VyyDcTFSJN OS/LibreELEC/Release 9 (Nov 2020)/LibreELEC-RPi4.arm-9.2.6.img.gz
-added Qmeo9Jx9V4oNj22hh9m8qWHVzBhXEXFLpzovYVJzQjfN3t OS/LibreELEC/Release 9 (Nov 2020)/LibreELEC-Slice.arm-9.2.6.img.gz
-added QmYojj8ceoKEVpYziTNZCMjPi9eCc72mqycsc15sUu9NkM OS/LibreELEC/Release 9 (Nov 2020)/LibreELEC-TinkerBoard.arm-9.2.4-rk3288.img.gz
-added QmS7GmgSxRuRhJ1DBgQ4cLje4rdwHcSjZWh33p4VT8EyFq OS/LibreELEC/Release 9 (Nov 2020)/LibreELEC-WeTek_Core.arm-9.0.2.img.gz
+added QmPtWi1Lt4PEugVXBy4DgnokVWQhzKtYK95YEFhTRjkfis OS/LibreELEC/Release 10 (MAR 2022)/LibreELEC-Generic.x86_64-10.0.2.img.gz
+added QmZqxLFhpQPySgJAaYoPFTfDJzsT5U6tkcvL8XvDHCwPv6 OS/LibreELEC/Release 10 (MAR 2022)/LibreELEC-Generic.x86_64-10.0.2.ova
+added QmeecCjMLxzAGEP9escKn5yKWdGCCkazaasvUM7zzxXUVB OS/LibreELEC/Release 10 (MAR 2022)/LibreELEC-RPi2.arm-10.0.2.img.gz
+added QmRNhmRP7uoHb2RxyZ9TDE9Sf6Td86jZCjwK4yKwgi6K2r OS/LibreELEC/Release 10 (MAR 2022)/LibreELEC-RPi4.arm-10.0.2.img.gz
+added QmdG7pcKFZaiyUedF8b3WoNZTZAPrLuqKm5KHMsqYSw3rs OS/LibreELEC/Release 7 (JAN 2017)/OpenELEC-Generic.x86_64-7.0.1.img.gz
+added QmPp6Xy9Y6w35hYFoUPh8wwxZe4VJvkczMYaAk1krVX3R7 OS/LibreELEC/Release 8 (APR 2018)/OpenELEC-Generic.x86_64-8.0.4.img.gz
+added QmNygnX8phhqbxXAc52pNMbggG25Af6mBTW4DZadc8vMfM OS/LibreELEC/Release 9 (NOV 2020)/LibreELEC-Generic.x86_64-9.2.6.img.gz
+added QmXXogdxQfVwTRewDiWi9dQ6JgL1gGnyy4uJH8dkuKfTTK OS/LibreELEC/Release 9 (NOV 2020)/LibreELEC-KVIM.arm-9.0.2.img.gz
+added QmRF1mnQSwXoUNv4TtJsGn1GSLTxuiTGVDi7r73Q1bzBqA OS/LibreELEC/Release 9 (NOV 2020)/LibreELEC-LePotato.arm-9.0.2.img.gz
+added QmZFh6UYUhvunzPXRtNaGG3R84j5LdtwQjrsqsY9TnY279 OS/LibreELEC/Release 9 (NOV 2020)/LibreELEC-Odroid_C2.arm-9.0.2.img.gz
+added QmevdvD6dV2eXSRvFnfpNFmaGZEndFvCPwA5YjHxCLoCDn OS/LibreELEC/Release 9 (NOV 2020)/LibreELEC-RPi2.arm-9.2.6.img.gz
+added QmdpWL5fmyHm34uAjPwHDfTde1MLkNYTjFs8VyyDcTFSJN OS/LibreELEC/Release 9 (NOV 2020)/LibreELEC-RPi4.arm-9.2.6.img.gz
+added Qmeo9Jx9V4oNj22hh9m8qWHVzBhXEXFLpzovYVJzQjfN3t OS/LibreELEC/Release 9 (NOV 2020)/LibreELEC-Slice.arm-9.2.6.img.gz
+added QmYojj8ceoKEVpYziTNZCMjPi9eCc72mqycsc15sUu9NkM OS/LibreELEC/Release 9 (NOV 2020)/LibreELEC-TinkerBoard.arm-9.2.4-rk3288.img.gz
+added QmS7GmgSxRuRhJ1DBgQ4cLje4rdwHcSjZWh33p4VT8EyFq OS/LibreELEC/Release 9 (NOV 2020)/LibreELEC-WeTek_Core.arm-9.0.2.img.gz
 added QmU5BjB7FUW7VLuvdag3Dns2j6WVWNHzb95VfGVHNCKV1R OS/Linux Mint/Release 18.2 (Jul 2017)/linuxmint-18.2-cinnamon-64bit.iso
 added QmQyEeq9ewvt4SyhUhjmMYZYmFM2gqcSyc4bCke6snACv4 OS/Linux Mint/Release 18.3 (Nov 2017)/linuxmint-18.3-cinnamon-32bit.iso
 added QmZc9DYPYc9fYJL6tCobuAjWzE31rd9XQgjFFNJXX1tvNu OS/Linux Mint/Release 18.3 (Nov 2017)/linuxmint-18.3-cinnamon-64bit.iso
@@ -564,6 +566,8 @@ added QmVSvYkw6D6rn6xa8yxWL8vnQyZMmQAUqitonFC8Qeb4ko OS/Tails/Release 4.26 (JAN 
 added QmXk5jhDtn42bqYYXweCmA275NikdGcS1UdFQtYadsPp2G OS/Tails/Release 4.26 (JAN 2022)/tails-amd64-4.26.iso
 added QmZW8npfWYqnbM6r8ADZdzEfGLp4iiY3yYGP543PRdKedh OS/Tails/Release 4.27 (FEB 2022)/tails-amd64-4.27.img
 added QmXowPqeVTLVBPvram9g3cy2JYLEbp6rYtmDszHM2op9o7 OS/Tails/Release 4.27 (FEB 2022)/tails-amd64-4.27.iso
+added QmPc2BabEsC7j55D4LimarKwRLfbsix1pyS21WBXZQ4vMs OS/Tails/Release 4.28 (MAR 2022)/tails-amd64-4.28.img
+added QmZ9xBHNroLtcFqc5VA5pQapuruzERDFWqg48QnmQXR9sG OS/Tails/Release 4.28 (MAR 2022)/tails-amd64-4.28.iso
 added QmRu13wcZmdF9rqZcduNdyaDfECGim9ezjCT3GGFTrJBPA OS/TrueNAS/Release 11.0 (Jun 2017)/FreeNAS-11.0-RELEASE.iso
 added QmabouAJBcT3pLP45AY9coiridj8wkGA5fcbHswnWsSYyP OS/TrueNAS/Release 11.0 (Jun 2017)/FreeNAS-11.0-U3.iso
 added QmVshtWxJEXowC9AbABdqrgPKBtZ3r6BPMfePTwEJJzRgH OS/TrueNAS/Release 11.1 (Dec 2017)/FreeNAS-11.1-U7.iso
@@ -904,15 +908,15 @@ added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Kali Linux/Release 2022.
 added QmVvziNge28rMqxPHaLLc4HFhpBhhJDkcKsvH4KS31a4PV OS/Kali Linux/Release 2022.1
 added QmVP4t9bWQi4PA7pYF1aafLeRhHAHn6uCN2GM3w2oamcgZ OS/Kali Linux
 added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/LibreELEC/++ LIBREELEC ++
-added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/LibreELEC/Release 10 (Nov 2021)/++ LIBREELEC 10 ++
-added QmWhkidmJ2S3M6ciF2VThr6uJsGry84gPGnnWs4mLAzwxC OS/LibreELEC/Release 10 (Nov 2021)
-added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/LibreELEC/Release 7 (Jan 2017)/++ LIBREELEC 7 ++
-added Qma1i33xCxL8LBuFPoHkgwMEGSqDcr94rLWkFvZuwDic6C OS/LibreELEC/Release 7 (Jan 2017)
-added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/LibreELEC/Release 8 (Apr 2018)/++ LIBREELEC 8 ++
-added QmW8pi19EHPmPARRGPkCfjvKy4a6DsnH6NuNNer4Vrn4Wa OS/LibreELEC/Release 8 (Apr 2018)
-added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/LibreELEC/Release 9 (Nov 2020)/++ LIBREELEC 9 ++
-added QmcXi3vkhAfkp7bp8kEvD9xnMybYZ27tMsFW4CUpUR11rs OS/LibreELEC/Release 9 (Nov 2020)
-added QmNizFB7pAcs84kAcWyew4p31bJv6KMxUeD15YxLnsGMQ7 OS/LibreELEC
+added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/LibreELEC/Release 10 (MAR 2022)/++ LIBREELEC 10 ++
+added QmdscBuJEKxYBCHi56DEwyyxyog73AkBwaZkB5Rufxo3o3 OS/LibreELEC/Release 10 (MAR 2022)
+added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/LibreELEC/Release 7 (JAN 2017)/++ LIBREELEC 7 ++
+added Qma1i33xCxL8LBuFPoHkgwMEGSqDcr94rLWkFvZuwDic6C OS/LibreELEC/Release 7 (JAN 2017)
+added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/LibreELEC/Release 8 (APR 2018)/++ LIBREELEC 8 ++
+added QmW8pi19EHPmPARRGPkCfjvKy4a6DsnH6NuNNer4Vrn4Wa OS/LibreELEC/Release 8 (APR 2018)
+added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/LibreELEC/Release 9 (NOV 2020)/++ LIBREELEC 9 ++
+added QmcXi3vkhAfkp7bp8kEvD9xnMybYZ27tMsFW4CUpUR11rs OS/LibreELEC/Release 9 (NOV 2020)
+added QmXFnHHMD6pBFBgGypMEmoqkepBihCs5MBZevbbaUR5D3x OS/LibreELEC
 added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Linux Mint/++ LINUX MINT ++
 added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Linux Mint/Release 18.2 (Jul 2017)/++ LINUX MINT 18.2 ++
 added QmU6yBDWYyxxpx7MkRmo82Wa1TXT2jjUJKHG8euEQsgBmS OS/Linux Mint/Release 18.2 (Jul 2017)
@@ -1034,7 +1038,9 @@ added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Tails/Release 4.26 (JAN 
 added QmeMbGzA5DsVMdams62FPR8sZJwSNg8nLWFGm7k6e38kGE OS/Tails/Release 4.26 (JAN 2022)
 added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Tails/Release 4.27 (FEB 2022)/++ TAILS 4.27 ++
 added QmPZbExiyUEwG71EQpksRCgYbJwLCW5uqTQRT2fSauCqte OS/Tails/Release 4.27 (FEB 2022)
-added QmQ4CpP6cN2d9QCDKVDhxG829JPFz6yUaCriRNWQNmWGpL OS/Tails
+added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Tails/Release 4.28 (MAR 2022)/++ TAILS 4.28 ++
+added QmUD8qpcQnjTtJtcGGk98WLbnXrcMUzBzKq3RqK1j1BznS OS/Tails/Release 4.28 (MAR 2022)
+added QmSbuaj66jqNNTeZYSDrq1CKowRBbqgAhcTfqFfR4aU7V3 OS/Tails
 added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/TrueNAS/++ TRUENAS ++
 added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/TrueNAS/Release 11.0 (Jun 2017)/++ TRUENAS 11.0 ++
 added QmdkmTYzGZtaydJ1thBFiriGHxkN143GruPzQ4knMvKAvL OS/TrueNAS/Release 11.0 (Jun 2017)
@@ -1167,4 +1173,4 @@ added QmULiSgw6RhYfrErrpdGvLBLQvEZ2j5UxEUEeWPQWR5Eaz OS/openSUSE/Leap 15.3 (Jun 
 added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/openSUSE/Leap 42.3 (Jul 2017)/++ OPENSUSE 42.3 ++
 added QmZfiv5mWpnzmcFPo1TzRQerkZXgJaeFyuyRgu5ZKTtjjx OS/openSUSE/Leap 42.3 (Jul 2017)
 added QmNcvhQWgzv946PAT1dBEN5FHJphB6W9kyEcZeDECNYMGM OS/openSUSE
-added QmcijnADQp6pWFCZbciBUSHoeCNqhvxeVEvUSShX5fkTC1 OS
+added QmXCpc1xbRj8ok3BsZmnMkfBMyj7NQMVkEoJnaC3JhmEM5 OS

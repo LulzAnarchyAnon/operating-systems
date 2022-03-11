@@ -1,7 +1,7 @@
 Mirror & Archive of 29 Operating Systems
 ========================================
 
-**Need to reinstall your operating system (OS)? Or want to try a newer, a former, a historic, or even a different OS? All downloads below are checksum verified and provided through the IPFS gateway. For system requirements and installation instructions visit the OS manufacturers website, please.** 📅 *last update: 04 MAR 2022*
+**Need to reinstall your operating system (OS)? Or want to try a newer, a former, a historic, or even a different OS? All downloads below are checksum verified and provided through the IPFS gateway. For system requirements and installation instructions visit the OS manufacturers website, please.** 📅 *last update: 11 MAR 2022*
 
 | Name & Website                                  | Downloads                                                                                      | Supported Processors | Active? |
 | :---------------------------------------------- | :--------------------------------------------------------------------------------------------- | :------------------- | ----- |
@@ -18,7 +18,7 @@ Mirror & Archive of 29 Operating Systems
 | **[INSERT](https://www.inside-security.de/insert.html)** | [1.3.9b](https://storry.tv/ipfs/QmVpmV9bSigEbC4MTaw9G7x3USgeCEfPeTtERc3VFYEymx)       | x86                  | ❌ |
 | **[Kali Linux](https://www.kali.org)**          | [2020.1 ... 2022.1](https://storry.tv/ipfs/QmVP4t9bWQi4PA7pYF1aafLeRhHAHn6uCN2GM3w2oamcgZ) | arm, x86                 | ✔️ |
 | **[Knoppix](http://www.knoppix.org/)**          | [6.0 ... 9.1](https://storry.tv/ipfs/QmS9ZHoBcM6Q98UUiqhhvUAi7hbj39Yuy2bRNxhhVpr3QN)           | x86                  | ✔️ |
-| **[LibreELEC](https://libreelec.tv)**           | [7 ... 10](https://storry.tv/ipfs/QmNizFB7pAcs84kAcWyew4p31bJv6KMxUeD15YxLnsGMQ7)              | arm, x86             | ✔️ |
+| **[LibreELEC](https://libreelec.tv)**           | [7 ... 10](https://storry.tv/ipfs/QmXFnHHMD6pBFBgGypMEmoqkepBihCs5MBZevbbaUR5D3x) | arm, x86             | ✔️ |
 | **[Linux Mint](https://linuxmint.com)**         | [18.2 ... 20.3](https://storry.tv/ipfs/QmbvpqF6GnCiRuYQBxgmhFb12qoeQu1Dt9pKN7z3rUVupb)         | x86                  | ✔️ |
 | **[OpenBSD](http://www.openbsd.org)**           | [6.2 ... 7.0](https://storry.tv/ipfs/Qmb46A7rddwpdb2399uxU4h1d7mNwBxZYwmFioNCz7WXRC)           | alpha,arm64,armv7,octeon,powerpc64,sparc64,x86 | ✔️ |
 | **[OpenSolaris](https://www.oracle.com/technetwork/server-storage/solaris/index-135144.html)** | [2009.06](https://storry.tv/ipfs/QmdRpuTZTyKsQSXPt3dyv6WdTY7ZyaRkkU5S3Z9tkPriPv) | x86 | ❌ |
@@ -28,7 +28,7 @@ Mirror & Archive of 29 Operating Systems
 | **[ReactOS](https://www.reactos.org)**          | [0.4.7 ... 0.4.14](https://storry.tv/ipfs/QmeLeyuUsFJJx96HvEAsneJpG6PsZZLupkbLms8AvzHUY1 )     | x86                  | ✔️ |
 | **[Remix OS](http://cn.jide.com/remixos)**      | [2016.11](https://storry.tv/ipfs/QmPhohZB29FNYqjBmxvPeXB1Jbd1anSq9tfXDE2xhZM54u)               | x86                  | ❌ |
 | **[SystemRescue](http://www.system-rescue-cd.org/)**| [6.1.8 ... 9.01](https://storry.tv/ipfs/QmdBkd7G4LfFrvmfS6oqJ3rZEr7qZzqBi9JSYCrgwAPjgG) | x86                     | ✔️ |
-| **[Tails](https://tails.boum.org/)**            | [3.16 ... 4.27](https://storry.tv/ipfs/QmQ4CpP6cN2d9QCDKVDhxG829JPFz6yUaCriRNWQNmWGpL) | x86                          | ✔️ |
+| **[Tails](https://tails.boum.org/)**            | [3.16 ... 4.28](https://storry.tv/ipfs/QmSbuaj66jqNNTeZYSDrq1CKowRBbqgAhcTfqFfR4aU7V3) | x86                          | ✔️ |
 | **[TrueNAS](https://www.truenas.org)**          | [11.0 ... 12.0](https://storry.tv/ipfs/Qma3n1u5J3hmiTGu3nz3u5Ln7BQh9Eyodwd1sfV2mJoynW)         | x86                  | ✔️ |
 | **[Ubuntu](https://www.ubuntu.com/)**           | [4.10 ... 21.10](https://storry.tv/ipfs/QmV34LTSKMKF28PTGcxCx35a2SymDngFV53ZCm7DNvVFFc) | arm64, pi2, pi3, pi4, ppc64, s390, x86 | ✔️ |
 | **[Ubuntu Core](https://www.ubuntu.com/core)**  | [16 ... 20](https://storry.tv/ipfs/QmdZRfLgQrh71X3ng1avdrbVyrLz2tECEY3AAaT3bRZ5wE)             | pi2, pi3, pi4        | ✔️ |
