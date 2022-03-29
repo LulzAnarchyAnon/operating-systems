@@ -1,7 +1,7 @@
 Mirror & Archive of 29 Operating Systems
 ========================================
 
-**Need to reinstall your operating system (OS)? Or want to try a newer, a former, a historic, or even a different OS? All downloads below are checksum verified and provided through the IPFS gateway. For system requirements and installation instructions visit the OS manufacturers website, please.** 📅 *last update: 11 MAR 2022*
+**Need to reinstall your operating system (OS)? Or want to try a newer, a former, a historic, or even a different OS? All downloads below are checksum verified and provided through the IPFS gateway. For system requirements and installation instructions visit the OS manufacturers website, please.** 📅 *last update: 29 MAR 2022*
 
 | Name & Website                                  | Downloads                                                                                      | Supported Processors | Active? |
 | :---------------------------------------------- | :--------------------------------------------------------------------------------------------- | :------------------- | ----- |
@@ -10,7 +10,7 @@ Mirror & Archive of 29 Operating Systems
 | **[CentOS](https://www.centos.org)**            | [6.10 ... 8.5](https://storry.tv/ipfs/QmaC9xT1AEz5BwRsAvz15ND5vCp6Jz76BJoiKN2o4emQFs)          | x86                  | ❌ |
 | **[Chromium OS](https://www.chromium.org/chromium-os)** | [80 ... 85](https://storry.tv/ipfs/QmZF34ExoBB1a5cforj7n1fM9KpryNSvjGdLSFSV6vrzFb)     | arm, x86             | ✔️ |
 | **[CoreOS](https://coreos.com/)**               | [1.0](https://storry.tv/ipfs/QmZq9a53v9cepjhVsPN6S3sd12tntnxJiECtZFkcH8KBX9)                   | x86                  | ❌ |
-| **[Debian](https://www.debian.org)**            | [8.11 ... 11.2](https://storry.tv/ipfs/QmRsDTDoYWUzt71Nb7msPYjQtFmPxd31ZzqzDJazngo7B2) | arm, mips, ppc64, s390, x86 | ✔️ |
+| **[Debian](https://www.debian.org)**            | [8.11 ... 11.3](https://storry.tv/ipfs/QmdHLSByAKDspECvUrd4Q2nVGJyfr4HMyRvQPVqce97Y6w) | arm, mips, ppc64, s390, x86 | ✔️ |
 | **[elementary OS](https://elementary.io)**      | [0.4.1 ... 6.1](https://storry.tv/ipfs/QmSCM4gJE11P1eYi5J2CihkZJ3q3tcgx4DiKXAhw9ULcfQ)         | x86                  | ✔️ |
 | **[Fedora](https://getfedora.org)**             | [26 ... 35](https://storry.tv/ipfs/QmXJnxmSoFKbkpjBnd3DPKMeKjFzGGjuU4rrkTVZxwayYb)             | aarch64, x86         | ✔️ |
 | **[FreeBSD](https://www.freebsd.org)**          | [11.4 ... 13.0](https://storry.tv/ipfs/QmSqaz3ctfHx24NREV8M6ogZrj4XCKnwa78xUD1vmof14Z)         | arm64, powerpc, sparc64, x86 | ✔️ |
@@ -79,7 +79,7 @@ Donate to [PayPal.me](https://www.paypal.me/Fleschutz) 👏 or install IPFS and 
 --------------
 
 - **Archived** 29 operating systems with 223 releases
-- **Hosting** 886 GB with 757 files in 453 folders by using go-ipfs v0.12.0
+- **Hosting** 862 GB with 701 files in 413 folders by using go-ipfs v0.12.0
 - **Backed up** multiple times and distributed world-wide
 - **Seeding** 24/7 since January 7, 2017
 
