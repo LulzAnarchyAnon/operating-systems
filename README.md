@@ -1,7 +1,7 @@
 Mirror & Archive of 29 Operating Systems
 ========================================
 
-**Need to reinstall your operating system (OS)? Or want to try a newer, a former, a historic, or even a different OS? All downloads below are checksum verified and provided through the IPFS gateway. For system requirements and installation instructions visit the OS manufacturers website, please.** 🕒 *Updated April 23, 2022*
+**Need to reinstall your operating system (OS)? Or want to try a newer, a former, a historic, or even a different OS? All downloads below are checksum verified and provided through the IPFS gateway. For system requirements and installation instructions visit the OS manufacturers website, please.** 🕒 *Updated April 30, 2022*
 
 | Name & Website                                  | Downloads                                                                                      | Supported Processors | Active? |
 | :---------------------------------------------- | :--------------------------------------------------------------------------------------------- | :------------------- | ----- |
@@ -33,7 +33,7 @@ Mirror & Archive of 29 Operating Systems
 | **[Ubuntu](https://www.ubuntu.com/)**           | [4.10 ... 22.04](https://storry.tv/ipfs/QmXFUkcRbET7EnXgMExaavxWRWKvvr9umzKNXbfPrWe3DA) | arm64, pi2, pi3, pi4, ppc64, s390, x86 | ✔️ |
 | **[Ubuntu Core](https://www.ubuntu.com/core)**  | [16 ... 20](https://storry.tv/ipfs/QmdZRfLgQrh71X3ng1avdrbVyrLz2tECEY3AAaT3bRZ5wE)             | pi2, pi3, pi4        | ✔️ |
 | **[Windows](https://www.microsoft.com)**        | [95 ... 11](https://storry.tv/ipfs/QmcLU6YPRes87qzZHcVjKbh9jZrCwJvBjXz9Y1dqVcytAf)             | x86                  | ✔️ |
-| **[Xubuntu](https://www.xubuntu.org)**          | [10.04 ... 21.10](https://storry.tv/ipfs/QmdqYAuB3ME4mEYGYczTeYS2fH8koXFbQHjMcdDSjrK4ft) | x86                  | ✔️ |
+| **[Xubuntu](https://www.xubuntu.org)**          | [10.04 ... 22.04](https://storry.tv/ipfs/QmfTgCLsKBCNv4T8eb9ovZ5XMybBUVmjEa2kAUJfXdaGzF) | x86                  | ✔️ |
 
 
 Frequently Asked Questions (FAQ)

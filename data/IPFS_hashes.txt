@@ -679,9 +679,7 @@ added QmcD7vRcGcHBgx24fmRNs5zyeBnkkH3QTtLB3GwuLtU4Mb OS/Xubuntu/Release 16.04 LT
 added QmRQkBHL6N2x2GjsnbKWQfCMk3YHddXDxNcpGimWV3ic4r OS/Xubuntu/Release 18.04 LTS/xubuntu-18.04.5-desktop-amd64.iso
 added QmcrMEKd1SZuA2qEZ2Ttcycn9J9N7DZW9tvf3GQ64mfy4y OS/Xubuntu/Release 18.04 LTS/xubuntu-18.04.5-desktop-i386.iso
 added QmTqoJZiUTG53z8rMQvgqUz8wVrnUZYPoEZK44YwBGjX9H OS/Xubuntu/Release 20.04 LTS/xubuntu-20.04.4-desktop-amd64.iso
-added Qmb1ba8njnqAdXqZU1xt7Z9xZ1cCkg9xig6QagTiyb9Waj OS/Xubuntu/Release 20.10/xubuntu-20.10-desktop-amd64.iso
-added QmWX3e2D1CKKTr2WezycaMTTVpSghkCuy1111wphTRVeSH OS/Xubuntu/Release 21.04/xubuntu-21.04-desktop-amd64.iso
-added QmcfH4k91RQpDG5XfFRxTv7vRMDRT3sNM6H88saqnyCcVr OS/Xubuntu/Release 21.10/xubuntu-21.10-desktop-amd64.iso
+added QmRrFc3Zfe46VzheKgs4z5gzpShDWi5ukrcdUKV11a5wmP OS/Xubuntu/Release 22.04 LTS/xubuntu-22.04-desktop-amd64.iso
 added Qmcd6gUKTz4Ugsg658Q2MPSe8WB3Qad3DYcJfon3gYWiSu OS/elementary OS/Release 0.4.1 (May 2017)/elementaryos-0.4.1-stable.20170517.iso
 added QmNQ4ZDt1GDqMHQPJz5FC6U6wigNAh21GLvNYmknypYENx OS/elementary OS/Release 5.0 (Oct 2018)/elementaryos-5.0-stable.20181016.iso
 added QmUUs57z4QyyYx9kwsKMk5yNiV9gC56zTnuAijAF6iR65z OS/elementary OS/Release 5.1 (Aug 2020)/elementaryos-5.1-stable.20200814.iso
@@ -1087,13 +1085,9 @@ added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Xubuntu/Release 18.04 LT
 added QmScjAwYihZvRK34CdrxQHR9QJ1FnDpQEhZWsemTNEzsLc OS/Xubuntu/Release 18.04 LTS
 added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Xubuntu/Release 20.04 LTS/++ XUBUNTU 20.04 LTS ++
 added QmT5bVKmbKSztjRKbyxAWM2rGNduHtWkZScQmhg4ArfruS OS/Xubuntu/Release 20.04 LTS
-added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Xubuntu/Release 20.10/++ XUBUNTU 20.10 ++
-added QmR8HRQkAcWPLnan92QuJFP4o4pSpyB9kRvChbY5P5iegV OS/Xubuntu/Release 20.10
-added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Xubuntu/Release 21.04/++ XUBUNTU 21.04 ++
-added QmeWCYuhkS9ZW8tufmpebUBhiwVN2RBdqy43ZUy9L9Lwsc OS/Xubuntu/Release 21.04
-added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Xubuntu/Release 21.10/++ XUBUNTU 21.10 ++
-added QmUAVV3Liiw93as8YnUgpsq7iEGmyod7RNy8hJEX3eod76 OS/Xubuntu/Release 21.10
-added QmdqYAuB3ME4mEYGYczTeYS2fH8koXFbQHjMcdDSjrK4ft OS/Xubuntu
+added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Xubuntu/Release 22.04 LTS/++ XUBUNTU 22.04 LTS ++
+added QmfNrmMD1EeXdFbakfMso1aLwmnFex5zXEvh6RD14E6XCR OS/Xubuntu/Release 22.04 LTS
+added QmfTgCLsKBCNv4T8eb9ovZ5XMybBUVmjEa2kAUJfXdaGzF OS/Xubuntu
 added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/elementary OS/++ ELEMENTARY OS ++
 added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/elementary OS/Release 0.4.1 (May 2017)/++ ELEMENTARY OS 0.4.1 ++
 added QmSPp1t545zSrporgDND5tuhKjwte8s3etWwmC5zw7h94i OS/elementary OS/Release 0.4.1 (May 2017)
@@ -1118,4 +1112,4 @@ added QmULiSgw6RhYfrErrpdGvLBLQvEZ2j5UxEUEeWPQWR5Eaz OS/openSUSE/Leap 15.3 (Jun 
 added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/openSUSE/Leap 42.3 (Jul 2017)/++ OPENSUSE 42.3 ++
 added QmZfiv5mWpnzmcFPo1TzRQerkZXgJaeFyuyRgu5ZKTtjjx OS/openSUSE/Leap 42.3 (Jul 2017)
 added QmNcvhQWgzv946PAT1dBEN5FHJphB6W9kyEcZeDECNYMGM OS/openSUSE
-added QmRVwf4YeXYURepNp98fL96SqhfBpxrZ6LC48nvx95MXLq OS
+added QmaSSC4NqPGRkCvWY6WUmG4FbGaXQL4QQdWh5Gcb1P9WU5 OS
