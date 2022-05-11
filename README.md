@@ -6,7 +6,7 @@ Mirror & Archive of 29 Operating Systems
 | Name & Website                                  | Downloads                                                                                      | Supported Processors | Active? |
 | :---------------------------------------------- | :--------------------------------------------------------------------------------------------- | :------------------- | ----- |
 | **[Android-x86](https://www.android-x86.org)**  | [5.1 ... 9.0](https://storry.tv/ipfs/QmdQrao7eUjcZ1GbR8rG21PnAw1vs5VWrvUFCvsDFGaMk8)           | x86                  | ✔️ |
-| **[Arch Linux](https://archlinux.org)**         | [2016.01.01 ... 2022.04.01](https://storry.tv/ipfs/Qmf2dGJ2FECtWB8c1Dwka2iHUB34G4UJMuSD9VBRZ5GFaR) | x86                    | ✔️ |
+| **[Arch Linux](https://archlinux.org)**         | [2016.01.01 ... 2022.05.01](https://storry.tv/ipfs/QmeXHRHCCLYqxP5DNaXL7mrfnkALq223HZRKr8aYKESGs9) | x86                    | ✔️ |
 | **[CentOS](https://www.centos.org)**            | [6.10 ... 8.5](https://storry.tv/ipfs/QmaC9xT1AEz5BwRsAvz15ND5vCp6Jz76BJoiKN2o4emQFs)          | x86                  | ❌ |
 | **[Chromium OS](https://www.chromium.org/chromium-os)** | [80 ... 85](https://storry.tv/ipfs/QmZF34ExoBB1a5cforj7n1fM9KpryNSvjGdLSFSV6vrzFb)     | arm, x86             | ✔️ |
 | **[CoreOS](https://coreos.com/)**               | [1.0](https://storry.tv/ipfs/QmZq9a53v9cepjhVsPN6S3sd12tntnxJiECtZFkcH8KBX9)                   | x86                  | ❌ |
@@ -28,7 +28,7 @@ Mirror & Archive of 29 Operating Systems
 | **[ReactOS](https://www.reactos.org)**          | [0.4.7 ... 0.4.14](https://storry.tv/ipfs/QmeLeyuUsFJJx96HvEAsneJpG6PsZZLupkbLms8AvzHUY1 )     | x86                  | ✔️ |
 | **[Remix OS](http://cn.jide.com/remixos)**      | [2016.11](https://storry.tv/ipfs/QmPhohZB29FNYqjBmxvPeXB1Jbd1anSq9tfXDE2xhZM54u)               | x86                  | ❌ |
 | **[SystemRescue](http://www.system-rescue-cd.org/)**| [6.1.8 ... 9.01](https://storry.tv/ipfs/QmdBkd7G4LfFrvmfS6oqJ3rZEr7qZzqBi9JSYCrgwAPjgG) | x86                     | ✔️ |
-| **[Tails](https://tails.boum.org/)**            | [3.16 ... 4.28](https://storry.tv/ipfs/QmSbuaj66jqNNTeZYSDrq1CKowRBbqgAhcTfqFfR4aU7V3) | x86                          | ✔️ |
+| **[Tails](https://tails.boum.org/)**            | [3.16 ... 5.0](https://storry.tv/ipfs/QmVRL81gtq3LZz5MA3WL3mE1z6LnF5LBSpJvc5ohsrmAqR) | x86                          | ✔️ |
 | **[TrueNAS](https://www.truenas.org)**          | [11.0 ... 12.0](https://storry.tv/ipfs/Qma3n1u5J3hmiTGu3nz3u5Ln7BQh9Eyodwd1sfV2mJoynW)         | x86                  | ✔️ |
 | **[Ubuntu](https://www.ubuntu.com/)**           | [4.10 ... 22.04](https://storry.tv/ipfs/QmXFUkcRbET7EnXgMExaavxWRWKvvr9umzKNXbfPrWe3DA) | arm64, pi2, pi3, pi4, ppc64, s390, x86 | ✔️ |
 | **[Ubuntu Core](https://www.ubuntu.com/core)**  | [16 ... 20](https://storry.tv/ipfs/QmdZRfLgQrh71X3ng1avdrbVyrLz2tECEY3AAaT3bRZ5wE)             | pi2, pi3, pi4        | ✔️ |
@@ -78,10 +78,10 @@ Donate to [PayPal.me](https://www.paypal.me/Fleschutz) 👏 or install IPFS and 
 🔎 Statistics
 --------------
 
-- **Archived** 29 operating systems with 223 releases
-- **Hosting** 857 GB with 702 files in 418 folders by using go-ipfs v0.12.2
+- **Archived** 29 operating systems with 225 releases
+- **Hosting** 871 GB with 712 files in 420 folders 
 - **Backed up** multiple times and distributed world-wide
-- **Seeding** 24/7 since January 7, 2017
+- **Seeding** 24/7 since January 7, 2017 (currently using go-ipfs v0.12.2)
 
 See also
 --------
