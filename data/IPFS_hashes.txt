@@ -126,59 +126,67 @@ added QmWvYqCrugQX2pxr1LD8TqZr9Axfo2MwKfHXWunDEFXiJH OS/Debian/Release 11.3 (MAR
 added QmVsoAV1bEsxb55XYKfViscXAhBMMpUXHPPy5j5JoqQLNy OS/Debian/Release 11.3 (MAR 2022)/debian-11.3.0-mips64el-netinst.iso
 added QmXJiWyov139xWXdpd8qngiW8EJZfbtZ2SKazW2Vc2mTah OS/Debian/Release 11.3 (MAR 2022)/debian-11.3.0-mipsel-netinst.iso
 added QmP7KmhVdXGtp1AmGW6SvWPznTAa1dhcmyqqha4MXPQEnG OS/Debian/Release 11.3 (MAR 2022)/debian-11.3.0-ppc64el-netinst.iso
-added QmbSdNPWunzi4P7knQPHGNzYVemEqj5zPh8CbXJSFAAbhG OS/Fedora/Release 26 (Jul 2017)/Fedora-Atomic-ostree-x86_64-26-20170905.0.iso
-added QmV4CbMMyWvK1aLh3aEGMAhkvgSz26Jr2ozxu2aaCkS1wx OS/Fedora/Release 26 (Jul 2017)/Fedora-Server-dvd-x86_64-26-1.5.iso
-added QmWmA4uwgpKdjq9RTJWDhJ2BpLwB5jEd8rGTj7XSAQMAe2 OS/Fedora/Release 26 (Jul 2017)/Fedora-Workstation-Live-x86_64-26-1.5.iso
-added QmYzX4yjAUV7JyKorTW1GWGCq1BKBjZo8RSemg2iABPRbW OS/Fedora/Release 27 (Nov 2017)/Fedora-Atomic-ostree-x86_64-27-20171110.1.iso
-added QmV4CbMMyWvK1aLh3aEGMAhkvgSz26Jr2ozxu2aaCkS1wx OS/Fedora/Release 27 (Nov 2017)/Fedora-Server-dvd-x86_64-26-1.5.iso
-added QmZmtp8iYfJLm5M1pzVADNR3ESz4KqMTbhZH2XHDyRxfm6 OS/Fedora/Release 27 (Nov 2017)/Fedora-Server-netinst-x86_64-26-1.5.iso
-added QmfZpBxGnipp78rNLUdEx5uk2ygj7Gifp6feJ7ob9zc2Bh OS/Fedora/Release 27 (Nov 2017)/Fedora-Workstation-Live-x86_64-27-1.6.iso
-added QmRFBYvzxC5g1sL1pKLRsJSxbMr1NmNff8Xqskvtjoh1j3 OS/Fedora/Release 27 (Nov 2017)/Fedora-Workstation-netinst-i386-27-1.6.iso
-added QmXgekohNXi32Fx3Bk4Vx5s3mH2PJcSpzVEgAPomjeMFtq OS/Fedora/Release 27 (Nov 2017)/Fedora-Workstation-netinst-x86_64-27-1.6.iso
-added QmUodzNADpXqDWuRaioBL6TCdariXEC2chVNsZsFF2zyZD OS/Fedora/Release 28 (May 2018)/Fedora-AtomicHost-ostree-x86_64-28-20180425.0.iso
-added QmZpLoMGHyYVXEAzHystF5s6Q1HAyrxhSmZVj79D1QFg5k OS/Fedora/Release 28 (May 2018)/Fedora-Server-dvd-x86_64-28-1.1.iso
-added QmTwsApsnaNBx74E3TChaRxseYrd7W3t4JKafvn5qTq5z5 OS/Fedora/Release 28 (May 2018)/Fedora-Workstation-Live-x86_64-28-1.1.iso
-added QmZBEuqGoTDsRyCtZC6AZBcehxnMseX2rKiqE1CP1jnuR2 OS/Fedora/Release 29 (Oct 2018)/Fedora-AtomicHost-ostree-x86_64-29-20181025.1.iso
-added QmZSN4AL9yDXydbXDrAeD5aN1dm7jAZH6SYapMe1AAQN6h OS/Fedora/Release 29 (Oct 2018)/Fedora-Server-dvd-x86_64-29-1.2.iso
-added QmPDgbxkQ9hS9VCAhHqrxEWxZnxEAYoq2CPr8Y8bUkE2Ky OS/Fedora/Release 29 (Oct 2018)/Fedora-Workstation-Live-x86_64-29-1.2.iso
-added QmXaHHErFZqju2qw91Tb2hxHyE7fkEj8Ni7EXGPR15sf9Q OS/Fedora/Release 30 (May 2019)/Fedora-Server-dvd-aarch64-30-1.2.iso
-added QmT4mY8EoWvuPzNKvxv9jqVDtPDPus5y66C43o1Nkkq1Zz OS/Fedora/Release 30 (May 2019)/Fedora-Server-dvd-x86_64-30-1.2.iso
-added QmNzKRjaZE8cXEKa9gx2Mvh1kRfqxjhqjHmitZvbztiwbm OS/Fedora/Release 30 (May 2019)/Fedora-Workstation-Live-i386-30-1.2.iso
-added QmVrwWmGtodAFH6mbJ8VSESWGoMzGyRMbPVFbzYWXEwiXV OS/Fedora/Release 30 (May 2019)/Fedora-Workstation-Live-x86_64-30-1.2.iso
-added QmVHwgdy1NcB7aWSKjZsH6B9NWHfrtmWsicCixX6y4yYep OS/Fedora/Release 31 (Oct 2019)/Fedora-Server-31-1.9.aarch64.raw.xz
-added QmcWTjN9xiFHdnhSS4meEKRWTokyNWuVjaxRymZu8YKPBZ OS/Fedora/Release 31 (Oct 2019)/Fedora-Server-dvd-aarch64-31-1.9.iso
-added Qmd6UbF1XMuMhgWuE5ctUrJ3GQvxd69LVFWXfzaxrHzWyX OS/Fedora/Release 31 (Oct 2019)/Fedora-Server-dvd-x86_64-31-1.9.iso
-added QmUbGJZQfCeGZPLD9nWCriBvzzPwj2bCLrEenJsGk3msUS OS/Fedora/Release 31 (Oct 2019)/Fedora-Server-netinst-aarch64-31-1.9.iso
-added QmYoURSAqJd2M8bDnBP2SWWccHsR4SG2q1uzCuV4EfxT6h OS/Fedora/Release 31 (Oct 2019)/Fedora-Server-netinst-x86_64-31-1.9.iso
-added QmSbC29xRAiH8i82uoaPM7B1myVTVkS3hfPdQv53J1qkpy OS/Fedora/Release 31 (Oct 2019)/Fedora-Workstation-Live-x86_64-31-1.9.iso
-added QmUQTQoD9sdukPDxj5TZEwMsn92YGZaTUScJ1ACzv31WVu OS/Fedora/Release 32 (Apr 2020)/Fedora-Server-dvd-x86_64-32-1.6.iso
-added QmSCsvAwiXvHzQh9LScdgkUQ3TpMKtAwyxE7mezkoHzcg1 OS/Fedora/Release 32 (Apr 2020)/Fedora-Workstation-Live-x86_64-32-1.6.iso
-added QmZecTJycsgRQXMj5JNp8ucUDvhiDdcmSzmsFxUvvhhYst OS/Fedora/Release 33 (Oct 2020)/Fedora-IoT-IoT-ostree-aarch64-33-20201020.0.iso
-added QmchjJ22T62fquBNd4Wy5b5HYnBCY19Zc2aNFQ9M2V6WZ7 OS/Fedora/Release 33 (Oct 2020)/Fedora-IoT-IoT-ostree-armhfp-33-20201020.0.iso
-added QmZdcWvZdywFB3vTXpPwcQf8c7ksZsrMKpEsETDw9yWPo2 OS/Fedora/Release 33 (Oct 2020)/Fedora-IoT-IoT-ostree-x86_64-33-20201020.0.iso
-added QmbjxR7VmenQ2MMcq4CpLWJj3VhucPEf1tVBKUqQkJZKRd OS/Fedora/Release 33 (Oct 2020)/Fedora-Server-33-1.3.aarch64.raw.xz
-added QmZbFKjR5zPSzzyJhkCC7Pv6z1FBkSir3h924yEuoC8JZR OS/Fedora/Release 33 (Oct 2020)/Fedora-Server-dvd-aarch64-33-1.2.iso
-added QmWxe95Fh4MnQKBLQg5jd8GRsnnnTnbmDEAVfzKV1Mh7a1 OS/Fedora/Release 33 (Oct 2020)/Fedora-Server-dvd-x86_64-33-1.2.iso
-added QmSbyW83XFXpx3BsajJnQjEQTCiDwX5Hj57Kr6AS4Mv1Ju OS/Fedora/Release 33 (Oct 2020)/Fedora-Server-netinst-aarch64-33-1.2.iso
-added QmPo7s6Pn3YUArsDhpgNKcJGLqgj24BNcg3QD1vFBNGisU OS/Fedora/Release 33 (Oct 2020)/Fedora-Server-netinst-x86_64-33-1.2.iso
-added QmYLLQ9ms2unHYhpmLbvmwmrkFeaJf6B9NUDhwncg4sAyr OS/Fedora/Release 33 (Oct 2020)/Fedora-Workstation-33-1.3.aarch64.raw.xz
-added Qmd4d47Zu8Q84LCsV8P3thHAvsBtdzSdhSxXZ8vXxSEg91 OS/Fedora/Release 33 (Oct 2020)/Fedora-Workstation-Live-x86_64-33-1.2.iso
-added Qmav6G1FZKuPXFqXtyFt8QpcgEEVhVqdrXQYRax8VnkiYZ OS/Fedora/Release 34 (Apr 2021)/Fedora-Server-34-1.2.aarch64.raw.xz
-added QmcE3MJMJG9uEe3ReWqarezhxdE9c91EYRp8fQeZNxYBiP OS/Fedora/Release 34 (Apr 2021)/Fedora-Server-dvd-aarch64-34-1.2.iso
-added QmdpCcLFwF7bw8eSRzYTYZVHoJVdw7tzmE5kMtNdJv9UkB OS/Fedora/Release 34 (Apr 2021)/Fedora-Server-dvd-x86_64-34-1.2.iso
-added QmXNw8q5wtuYRyRSpnGLrhu8nNcceJEbvAUydJPGHked2b OS/Fedora/Release 34 (Apr 2021)/Fedora-Server-netinst-aarch64-34-1.2.iso
-added QmYcsMgTaynpPMgwVauLtTHDvJ4fUhzAGmuPcG92W1UYms OS/Fedora/Release 34 (Apr 2021)/Fedora-Server-netinst-x86_64-34-1.2.iso
-added QmPuXPRkzTqv72Pv54tAGe9mPwBgQASSWwgHEKF6D67J34 OS/Fedora/Release 34 (Apr 2021)/Fedora-Workstation-34-1.2.aarch64.raw.xz
-added QmagUXASPN93HnmXSBCDoCZBQqmh9nBC98XYZ2PChMDyv1 OS/Fedora/Release 34 (Apr 2021)/Fedora-Workstation-Live-aarch64-34-1.2.iso
-added QmRUxSgSZmVyx4WzjCTmfZdQjT6yEq8zXHeo9dD6BPb77v OS/Fedora/Release 34 (Apr 2021)/Fedora-Workstation-Live-x86_64-34-1.2.iso
-added QmaYidSPoZa2wCtZBpXKQWUEsNujApv4jpJrVJwXp5ivr3 OS/Fedora/Release 35 (Nov 2021)/Fedora-Server-35-1.2.aarch64.raw.xz
-added QmaJTYoFCbsXLJWWovPTXRBbsc6hdDTug7kn8NLJzwb9gY OS/Fedora/Release 35 (Nov 2021)/Fedora-Server-dvd-aarch64-35-1.2.iso
-added QmNVjp4qYM89FCzddgetdCnW7tAkWSmP5is8onXDrSQxMJ OS/Fedora/Release 35 (Nov 2021)/Fedora-Server-dvd-x86_64-35-1.2.iso
-added QmZRUqYGqKAysuUxN5awJmVFnS6rscHme2yi4J7t82nPi2 OS/Fedora/Release 35 (Nov 2021)/Fedora-Server-netinst-aarch64-35-1.2.iso
-added QmZYBcmdBt9jScSjRSt9FjVMQLsc1BfYk4GevfPFDgMpNG OS/Fedora/Release 35 (Nov 2021)/Fedora-Server-netinst-x86_64-35-1.2.iso
-added QmVYwLrJ2fZdBgBuf9WUpp2ZNcf124yrQucruFJdJF7UEW OS/Fedora/Release 35 (Nov 2021)/Fedora-Workstation-35-1.2.aarch64.raw.xz
-added QmbbQokmN9x25KYovPTx7nH5LK4MqeFeRQUHHQ1ueDvt3S OS/Fedora/Release 35 (Nov 2021)/Fedora-Workstation-Live-aarch64-35-1.2.iso
-added QmWhnJ8Jkhs1NHoSHYvdXXa1dtFQ6a4D2XFyYMQDzxkWYw OS/Fedora/Release 35 (Nov 2021)/Fedora-Workstation-Live-x86_64-35-1.2.iso
+added QmbSdNPWunzi4P7knQPHGNzYVemEqj5zPh8CbXJSFAAbhG OS/Fedora/Release 26 (JUL 2017)/Fedora-Atomic-ostree-x86_64-26-20170905.0.iso
+added QmV4CbMMyWvK1aLh3aEGMAhkvgSz26Jr2ozxu2aaCkS1wx OS/Fedora/Release 26 (JUL 2017)/Fedora-Server-dvd-x86_64-26-1.5.iso
+added QmWmA4uwgpKdjq9RTJWDhJ2BpLwB5jEd8rGTj7XSAQMAe2 OS/Fedora/Release 26 (JUL 2017)/Fedora-Workstation-Live-x86_64-26-1.5.iso
+added QmYzX4yjAUV7JyKorTW1GWGCq1BKBjZo8RSemg2iABPRbW OS/Fedora/Release 27 (NOV 2017)/Fedora-Atomic-ostree-x86_64-27-20171110.1.iso
+added QmV4CbMMyWvK1aLh3aEGMAhkvgSz26Jr2ozxu2aaCkS1wx OS/Fedora/Release 27 (NOV 2017)/Fedora-Server-dvd-x86_64-26-1.5.iso
+added QmZmtp8iYfJLm5M1pzVADNR3ESz4KqMTbhZH2XHDyRxfm6 OS/Fedora/Release 27 (NOV 2017)/Fedora-Server-netinst-x86_64-26-1.5.iso
+added QmfZpBxGnipp78rNLUdEx5uk2ygj7Gifp6feJ7ob9zc2Bh OS/Fedora/Release 27 (NOV 2017)/Fedora-Workstation-Live-x86_64-27-1.6.iso
+added QmRFBYvzxC5g1sL1pKLRsJSxbMr1NmNff8Xqskvtjoh1j3 OS/Fedora/Release 27 (NOV 2017)/Fedora-Workstation-netinst-i386-27-1.6.iso
+added QmXgekohNXi32Fx3Bk4Vx5s3mH2PJcSpzVEgAPomjeMFtq OS/Fedora/Release 27 (NOV 2017)/Fedora-Workstation-netinst-x86_64-27-1.6.iso
+added QmUodzNADpXqDWuRaioBL6TCdariXEC2chVNsZsFF2zyZD OS/Fedora/Release 28 (MAY 2018)/Fedora-AtomicHost-ostree-x86_64-28-20180425.0.iso
+added QmZpLoMGHyYVXEAzHystF5s6Q1HAyrxhSmZVj79D1QFg5k OS/Fedora/Release 28 (MAY 2018)/Fedora-Server-dvd-x86_64-28-1.1.iso
+added QmTwsApsnaNBx74E3TChaRxseYrd7W3t4JKafvn5qTq5z5 OS/Fedora/Release 28 (MAY 2018)/Fedora-Workstation-Live-x86_64-28-1.1.iso
+added QmZBEuqGoTDsRyCtZC6AZBcehxnMseX2rKiqE1CP1jnuR2 OS/Fedora/Release 29 (OCT 2018)/Fedora-AtomicHost-ostree-x86_64-29-20181025.1.iso
+added QmZSN4AL9yDXydbXDrAeD5aN1dm7jAZH6SYapMe1AAQN6h OS/Fedora/Release 29 (OCT 2018)/Fedora-Server-dvd-x86_64-29-1.2.iso
+added QmPDgbxkQ9hS9VCAhHqrxEWxZnxEAYoq2CPr8Y8bUkE2Ky OS/Fedora/Release 29 (OCT 2018)/Fedora-Workstation-Live-x86_64-29-1.2.iso
+added QmXaHHErFZqju2qw91Tb2hxHyE7fkEj8Ni7EXGPR15sf9Q OS/Fedora/Release 30 (MAY 2019)/Fedora-Server-dvd-aarch64-30-1.2.iso
+added QmT4mY8EoWvuPzNKvxv9jqVDtPDPus5y66C43o1Nkkq1Zz OS/Fedora/Release 30 (MAY 2019)/Fedora-Server-dvd-x86_64-30-1.2.iso
+added QmNzKRjaZE8cXEKa9gx2Mvh1kRfqxjhqjHmitZvbztiwbm OS/Fedora/Release 30 (MAY 2019)/Fedora-Workstation-Live-i386-30-1.2.iso
+added QmVrwWmGtodAFH6mbJ8VSESWGoMzGyRMbPVFbzYWXEwiXV OS/Fedora/Release 30 (MAY 2019)/Fedora-Workstation-Live-x86_64-30-1.2.iso
+added QmVHwgdy1NcB7aWSKjZsH6B9NWHfrtmWsicCixX6y4yYep OS/Fedora/Release 31 (OCT 2019)/Fedora-Server-31-1.9.aarch64.raw.xz
+added QmcWTjN9xiFHdnhSS4meEKRWTokyNWuVjaxRymZu8YKPBZ OS/Fedora/Release 31 (OCT 2019)/Fedora-Server-dvd-aarch64-31-1.9.iso
+added Qmd6UbF1XMuMhgWuE5ctUrJ3GQvxd69LVFWXfzaxrHzWyX OS/Fedora/Release 31 (OCT 2019)/Fedora-Server-dvd-x86_64-31-1.9.iso
+added QmUbGJZQfCeGZPLD9nWCriBvzzPwj2bCLrEenJsGk3msUS OS/Fedora/Release 31 (OCT 2019)/Fedora-Server-netinst-aarch64-31-1.9.iso
+added QmYoURSAqJd2M8bDnBP2SWWccHsR4SG2q1uzCuV4EfxT6h OS/Fedora/Release 31 (OCT 2019)/Fedora-Server-netinst-x86_64-31-1.9.iso
+added QmSbC29xRAiH8i82uoaPM7B1myVTVkS3hfPdQv53J1qkpy OS/Fedora/Release 31 (OCT 2019)/Fedora-Workstation-Live-x86_64-31-1.9.iso
+added QmUQTQoD9sdukPDxj5TZEwMsn92YGZaTUScJ1ACzv31WVu OS/Fedora/Release 32 (APR 2020)/Fedora-Server-dvd-x86_64-32-1.6.iso
+added QmSCsvAwiXvHzQh9LScdgkUQ3TpMKtAwyxE7mezkoHzcg1 OS/Fedora/Release 32 (APR 2020)/Fedora-Workstation-Live-x86_64-32-1.6.iso
+added QmZecTJycsgRQXMj5JNp8ucUDvhiDdcmSzmsFxUvvhhYst OS/Fedora/Release 33 (OCT 2020)/Fedora-IoT-IoT-ostree-aarch64-33-20201020.0.iso
+added QmchjJ22T62fquBNd4Wy5b5HYnBCY19Zc2aNFQ9M2V6WZ7 OS/Fedora/Release 33 (OCT 2020)/Fedora-IoT-IoT-ostree-armhfp-33-20201020.0.iso
+added QmZdcWvZdywFB3vTXpPwcQf8c7ksZsrMKpEsETDw9yWPo2 OS/Fedora/Release 33 (OCT 2020)/Fedora-IoT-IoT-ostree-x86_64-33-20201020.0.iso
+added QmbjxR7VmenQ2MMcq4CpLWJj3VhucPEf1tVBKUqQkJZKRd OS/Fedora/Release 33 (OCT 2020)/Fedora-Server-33-1.3.aarch64.raw.xz
+added QmZbFKjR5zPSzzyJhkCC7Pv6z1FBkSir3h924yEuoC8JZR OS/Fedora/Release 33 (OCT 2020)/Fedora-Server-dvd-aarch64-33-1.2.iso
+added QmWxe95Fh4MnQKBLQg5jd8GRsnnnTnbmDEAVfzKV1Mh7a1 OS/Fedora/Release 33 (OCT 2020)/Fedora-Server-dvd-x86_64-33-1.2.iso
+added QmSbyW83XFXpx3BsajJnQjEQTCiDwX5Hj57Kr6AS4Mv1Ju OS/Fedora/Release 33 (OCT 2020)/Fedora-Server-netinst-aarch64-33-1.2.iso
+added QmPo7s6Pn3YUArsDhpgNKcJGLqgj24BNcg3QD1vFBNGisU OS/Fedora/Release 33 (OCT 2020)/Fedora-Server-netinst-x86_64-33-1.2.iso
+added QmYLLQ9ms2unHYhpmLbvmwmrkFeaJf6B9NUDhwncg4sAyr OS/Fedora/Release 33 (OCT 2020)/Fedora-Workstation-33-1.3.aarch64.raw.xz
+added Qmd4d47Zu8Q84LCsV8P3thHAvsBtdzSdhSxXZ8vXxSEg91 OS/Fedora/Release 33 (OCT 2020)/Fedora-Workstation-Live-x86_64-33-1.2.iso
+added Qmav6G1FZKuPXFqXtyFt8QpcgEEVhVqdrXQYRax8VnkiYZ OS/Fedora/Release 34 (APR 2021)/Fedora-Server-34-1.2.aarch64.raw.xz
+added QmcE3MJMJG9uEe3ReWqarezhxdE9c91EYRp8fQeZNxYBiP OS/Fedora/Release 34 (APR 2021)/Fedora-Server-dvd-aarch64-34-1.2.iso
+added QmdpCcLFwF7bw8eSRzYTYZVHoJVdw7tzmE5kMtNdJv9UkB OS/Fedora/Release 34 (APR 2021)/Fedora-Server-dvd-x86_64-34-1.2.iso
+added QmXNw8q5wtuYRyRSpnGLrhu8nNcceJEbvAUydJPGHked2b OS/Fedora/Release 34 (APR 2021)/Fedora-Server-netinst-aarch64-34-1.2.iso
+added QmYcsMgTaynpPMgwVauLtTHDvJ4fUhzAGmuPcG92W1UYms OS/Fedora/Release 34 (APR 2021)/Fedora-Server-netinst-x86_64-34-1.2.iso
+added QmPuXPRkzTqv72Pv54tAGe9mPwBgQASSWwgHEKF6D67J34 OS/Fedora/Release 34 (APR 2021)/Fedora-Workstation-34-1.2.aarch64.raw.xz
+added QmagUXASPN93HnmXSBCDoCZBQqmh9nBC98XYZ2PChMDyv1 OS/Fedora/Release 34 (APR 2021)/Fedora-Workstation-Live-aarch64-34-1.2.iso
+added QmRUxSgSZmVyx4WzjCTmfZdQjT6yEq8zXHeo9dD6BPb77v OS/Fedora/Release 34 (APR 2021)/Fedora-Workstation-Live-x86_64-34-1.2.iso
+added QmaYidSPoZa2wCtZBpXKQWUEsNujApv4jpJrVJwXp5ivr3 OS/Fedora/Release 35 (NOV 2021)/Fedora-Server-35-1.2.aarch64.raw.xz
+added QmaJTYoFCbsXLJWWovPTXRBbsc6hdDTug7kn8NLJzwb9gY OS/Fedora/Release 35 (NOV 2021)/Fedora-Server-dvd-aarch64-35-1.2.iso
+added QmNVjp4qYM89FCzddgetdCnW7tAkWSmP5is8onXDrSQxMJ OS/Fedora/Release 35 (NOV 2021)/Fedora-Server-dvd-x86_64-35-1.2.iso
+added QmZRUqYGqKAysuUxN5awJmVFnS6rscHme2yi4J7t82nPi2 OS/Fedora/Release 35 (NOV 2021)/Fedora-Server-netinst-aarch64-35-1.2.iso
+added QmZYBcmdBt9jScSjRSt9FjVMQLsc1BfYk4GevfPFDgMpNG OS/Fedora/Release 35 (NOV 2021)/Fedora-Server-netinst-x86_64-35-1.2.iso
+added QmVYwLrJ2fZdBgBuf9WUpp2ZNcf124yrQucruFJdJF7UEW OS/Fedora/Release 35 (NOV 2021)/Fedora-Workstation-35-1.2.aarch64.raw.xz
+added QmbbQokmN9x25KYovPTx7nH5LK4MqeFeRQUHHQ1ueDvt3S OS/Fedora/Release 35 (NOV 2021)/Fedora-Workstation-Live-aarch64-35-1.2.iso
+added QmWhnJ8Jkhs1NHoSHYvdXXa1dtFQ6a4D2XFyYMQDzxkWYw OS/Fedora/Release 35 (NOV 2021)/Fedora-Workstation-Live-x86_64-35-1.2.iso
+added QmUqRnhK9SZWjNcgWNrzBSbBmEZCCdLt2qqZbZzeGm5au5 OS/Fedora/Release 36 (MAY 2022)/Fedora-Server-36-1.5.aarch64.raw.xz
+added QmSsEGRETAznxZKEyVj7SdHg583RRJQDKJ1MwonVyvDuj8 OS/Fedora/Release 36 (MAY 2022)/Fedora-Server-dvd-aarch64-36-1.5.iso
+added QmXAw9Qg6Wwc9n5tCBCZoAL5g8fJ9uX4XYp5fswkbA9yVX OS/Fedora/Release 36 (MAY 2022)/Fedora-Server-dvd-x86_64-36-1.5.iso
+added QmfDLWZWSNhs6Q4rab8GHMNGnUK1CjSMafyYJhVHwAuy92 OS/Fedora/Release 36 (MAY 2022)/Fedora-Server-netinst-aarch64-36-1.5.iso
+added QmUUxCsQBifTVTAQo9wDX53pFWd2BGGcMEGM8opWafxQHQ OS/Fedora/Release 36 (MAY 2022)/Fedora-Server-netinst-x86_64-36-1.5.iso
+added QmcY3GzMU1pDbTryJZx7Qvs6Qc6Lug4wCQte3VeYkewPrz OS/Fedora/Release 36 (MAY 2022)/Fedora-Workstation-36-1.5.aarch64.raw.xz
+added QmYkyGV9igHfC7r4RrygydMF9EwDS5P2S4bMqLvt71mqac OS/Fedora/Release 36 (MAY 2022)/Fedora-Workstation-Live-aarch64-36-1.5.iso
+added QmQfGZt7b876bxZwr9cZNTAhUQ8LPDUgYRqQS2PCsBdKwW OS/Fedora/Release 36 (MAY 2022)/Fedora-Workstation-Live-x86_64-36-1.5.iso
 added QmTRtRq4knbaAf6j5brk7qSHtk7uTt7Fnv8PPfUbBcjp1F OS/FreeBSD/Release 11.4 (Jun 2020)/FreeBSD-11.4-RELEASE-amd64-disc1.iso
 added QmXJnjywVi8YhX3n3qEpd58NBNmfjXsotn98wumQoYfdbN OS/FreeBSD/Release 11.4 (Jun 2020)/FreeBSD-11.4-RELEASE-arm-armv6-BANANAPI.img.xz
 added QmRmkCWMqEmBdrZxd9oVXQVWjv7qUfQwVN5gefBzjkNTag OS/FreeBSD/Release 11.4 (Jun 2020)/FreeBSD-11.4-RELEASE-arm-armv6-BEAGLEBONE.img.xz
@@ -766,27 +774,29 @@ added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Debian/Release 11.3 (MAR
 added QmaeCPRG3ejTrZAqK5e8UCXU17Sjw6TB3mdx8D4YnjV1PM OS/Debian/Release 11.3 (MAR 2022)
 added QmVweDXvviDeuLGhokxzqu8JyKCJKLem9NtCyMhEJVx9Gw OS/Debian
 added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Fedora/++ FEDORA ++
-added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Fedora/Release 26 (Jul 2017)/++ FEDORA 26 ++
-added QmRkM3seBA1nXTMGhQ1YVf4yLsbvetQGGtx2UZhVVEMwEG OS/Fedora/Release 26 (Jul 2017)
-added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Fedora/Release 27 (Nov 2017)/++ FEDORA 27 ++
-added QmbA9mG4tMq1Jg42rQAe4ibxmDG6Yr1596fYsJAuL8NGBf OS/Fedora/Release 27 (Nov 2017)
-added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Fedora/Release 28 (May 2018)/++ FEDORA 28 ++
-added QmV73asEgVStgCVpTyeVGwhVoHMmpS6vGwccARqBh2ATDC OS/Fedora/Release 28 (May 2018)
-added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Fedora/Release 29 (Oct 2018)/++ FEDORA 29 ++
-added QmQLx6tNpJ9Aj5VyPgE9kwMFNVY7TzvKuhx7bgoHPwLj47 OS/Fedora/Release 29 (Oct 2018)
-added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Fedora/Release 30 (May 2019)/++ FEDORA 30 ++
-added QmP1jxus7ebmHxqHHUsw2Sd1y2jcEQMTBgZprjAdnsiCVE OS/Fedora/Release 30 (May 2019)
-added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Fedora/Release 31 (Oct 2019)/++ FEDORA 31 ++
-added QmTsonCsZLLQioRQ1qUiWznYdGGWCTdY9UVdEDjF1gyvy7 OS/Fedora/Release 31 (Oct 2019)
-added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Fedora/Release 32 (Apr 2020)/++ FEDORA 32 ++
-added QmZ9eef1qoaTMbm3Zv4CArVnJ3gGovUcH8MPh2uP59GFJS OS/Fedora/Release 32 (Apr 2020)
-added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Fedora/Release 33 (Oct 2020)/++ FEDORA 33 ++
-added QmWW2F4iQ49J6cQquffcTQqd9PD8gzt6U1HyhVccwEGRJC OS/Fedora/Release 33 (Oct 2020)
-added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Fedora/Release 34 (Apr 2021)/++ FEDORA 34 ++
-added QmcApz1gViX7jkmzSwkJbPxNs4r7n8kZ3U7Bfq9Z9nuseW OS/Fedora/Release 34 (Apr 2021)
-added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Fedora/Release 35 (Nov 2021)/++ FEDORA 35 ++
-added QmNo1p8VBTZkdZHHSS1RNmeKegGBZb5N6thSNHXFAbcynG OS/Fedora/Release 35 (Nov 2021)
-added QmXJnxmSoFKbkpjBnd3DPKMeKjFzGGjuU4rrkTVZxwayYb OS/Fedora
+added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Fedora/Release 26 (JUL 2017)/++ FEDORA 26 ++
+added QmRkM3seBA1nXTMGhQ1YVf4yLsbvetQGGtx2UZhVVEMwEG OS/Fedora/Release 26 (JUL 2017)
+added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Fedora/Release 27 (NOV 2017)/++ FEDORA 27 ++
+added QmbA9mG4tMq1Jg42rQAe4ibxmDG6Yr1596fYsJAuL8NGBf OS/Fedora/Release 27 (NOV 2017)
+added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Fedora/Release 28 (MAY 2018)/++ FEDORA 28 ++
+added QmV73asEgVStgCVpTyeVGwhVoHMmpS6vGwccARqBh2ATDC OS/Fedora/Release 28 (MAY 2018)
+added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Fedora/Release 29 (OCT 2018)/++ FEDORA 29 ++
+added QmQLx6tNpJ9Aj5VyPgE9kwMFNVY7TzvKuhx7bgoHPwLj47 OS/Fedora/Release 29 (OCT 2018)
+added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Fedora/Release 30 (MAY 2019)/++ FEDORA 30 ++
+added QmP1jxus7ebmHxqHHUsw2Sd1y2jcEQMTBgZprjAdnsiCVE OS/Fedora/Release 30 (MAY 2019)
+added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Fedora/Release 31 (OCT 2019)/++ FEDORA 31 ++
+added QmTsonCsZLLQioRQ1qUiWznYdGGWCTdY9UVdEDjF1gyvy7 OS/Fedora/Release 31 (OCT 2019)
+added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Fedora/Release 32 (APR 2020)/++ FEDORA 32 ++
+added QmZ9eef1qoaTMbm3Zv4CArVnJ3gGovUcH8MPh2uP59GFJS OS/Fedora/Release 32 (APR 2020)
+added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Fedora/Release 33 (OCT 2020)/++ FEDORA 33 ++
+added QmWW2F4iQ49J6cQquffcTQqd9PD8gzt6U1HyhVccwEGRJC OS/Fedora/Release 33 (OCT 2020)
+added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Fedora/Release 34 (APR 2021)/++ FEDORA 34 ++
+added QmcApz1gViX7jkmzSwkJbPxNs4r7n8kZ3U7Bfq9Z9nuseW OS/Fedora/Release 34 (APR 2021)
+added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Fedora/Release 35 (NOV 2021)/++ FEDORA 35 ++
+added QmNo1p8VBTZkdZHHSS1RNmeKegGBZb5N6thSNHXFAbcynG OS/Fedora/Release 35 (NOV 2021)
+added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/Fedora/Release 36 (MAY 2022)/++ FEDORA 36 ++
+added QmV7LXXCuXXWUkvKPvKj2FNBrYsMk4LZXivQ9omai1GbLW OS/Fedora/Release 36 (MAY 2022)
+added QmRmq2WFeRA9WXABEoxwuQRkqL1otyNT2MGLjbwAQwrehZ OS/Fedora
 added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/FreeBSD/++ FREEBSD ++
 added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/FreeBSD/Release 11.4 (Jun 2020)/++ FREEBSD 11.4 ++
 added QmWTogtP9ubbzAAJD1bLkM7cqrnHEuFEoX1QLRAbgHUrU4 OS/FreeBSD/Release 11.4 (Jun 2020)
@@ -1120,4 +1130,4 @@ added QmULiSgw6RhYfrErrpdGvLBLQvEZ2j5UxEUEeWPQWR5Eaz OS/openSUSE/Leap 15.3 (Jun 
 added QmUNLLsPACCz1vLxQVkXqqLX5R1X345qqfHbsf67hvA3Nn OS/openSUSE/Leap 42.3 (Jul 2017)/++ OPENSUSE 42.3 ++
 added QmZfiv5mWpnzmcFPo1TzRQerkZXgJaeFyuyRgu5ZKTtjjx OS/openSUSE/Leap 42.3 (Jul 2017)
 added QmNcvhQWgzv946PAT1dBEN5FHJphB6W9kyEcZeDECNYMGM OS/openSUSE
-added QmRBtqChgDKbB1ciMNnvm5iraceYb7WP2LPPtgKYRuBiax OS
+added QmU8btpzQPd4PQYa9ZtDktLdHF898yTswMkadpZkDEjDJ2 OS

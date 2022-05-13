@@ -1,7 +1,7 @@
 Mirror & Archive of 29 Operating Systems
 ========================================
 
-**Need to reinstall your operating system (OS)? Or want to try a newer, a former, a historic, or even a different OS? All downloads below are checksum verified and provided through the IPFS gateway. For system requirements and installation instructions visit the OS manufacturers website, please.** 🕒 *Updated May 11, 2022*
+**Need to reinstall your operating system (OS)? Or want to try a newer, a former, a historic, or even a different OS? All downloads below are checksum verified and provided through the IPFS gateway. For system requirements and installation instructions visit the OS manufacturers website, please.** 🕒 *Updated May 13, 2022*
 
 | Name & Website                                  | Downloads                                                                                      | Supported Processors | Active? |
 | :---------------------------------------------- | :--------------------------------------------------------------------------------------------- | :------------------- | ----- |
@@ -12,7 +12,7 @@ Mirror & Archive of 29 Operating Systems
 | **[CoreOS](https://coreos.com/)**               | [1.0](https://storry.tv/ipfs/QmZq9a53v9cepjhVsPN6S3sd12tntnxJiECtZFkcH8KBX9)                   | x86                  | ❌ |
 | **[Debian](https://www.debian.org)**            | [8.11 ... 11.3](https://storry.tv/ipfs/QmdHLSByAKDspECvUrd4Q2nVGJyfr4HMyRvQPVqce97Y6w) | arm, mips, ppc64, s390, x86 | ✔️ |
 | **[elementary OS](https://elementary.io)**      | [0.4.1 ... 6.1](https://storry.tv/ipfs/QmSCM4gJE11P1eYi5J2CihkZJ3q3tcgx4DiKXAhw9ULcfQ)         | x86                  | ✔️ |
-| **[Fedora](https://getfedora.org)**             | [26 ... 35](https://storry.tv/ipfs/QmXJnxmSoFKbkpjBnd3DPKMeKjFzGGjuU4rrkTVZxwayYb)             | aarch64, x86         | ✔️ |
+| **[Fedora](https://getfedora.org)**             | [26 ... 36 ](https://storry.tv/ipfs/QmRmq2WFeRA9WXABEoxwuQRkqL1otyNT2MGLjbwAQwrehZ) | aarch64, x86         | ✔️ |
 | **[FreeBSD](https://www.freebsd.org)**          | [11.4 ... 13.0](https://storry.tv/ipfs/QmSqaz3ctfHx24NREV8M6ogZrj4XCKnwa78xUD1vmof14Z)         | arm64, powerpc, sparc64, x86 | ✔️ |
 | **[HypriotOS](https://blog.hypriot.com)**       | [1.0 ... 1.12.3](https://storry.tv/ipfs/QmVaauqYstcdrtz4XhmYAtBamyQKCjTZyH6NViQHXiV1r9)        | pi3                  | ✔️ |
 | **[INSERT](https://www.inside-security.de/insert.html)** | [1.3.9b](https://storry.tv/ipfs/QmVpmV9bSigEbC4MTaw9G7x3USgeCEfPeTtERc3VFYEymx)       | x86                  | ❌ |
