@@ -41,7 +41,7 @@ Frequently Asked Questions (FAQ)
 
 **What do the various abbreviations stand for?**
 
-**amd64** = **x64** = **x86-64** = AMD/Intel x86 64-bit processor · **i386** = **x32** = **x86-32** = AMD/Intel x86 32-bit processor  ·  **arm64** = **aarch64** = ARM 64-bit processor · **armel** = older ARM 32-bit processor · **armv7** = **armhf** = newer ARM 32-bit processor · **hyperV** = Microsoft Windows VM · **pi2/pi3/pi4** = Raspberry Pi 2/3/4 · **ppc64** = **macppc** = **powerpc** = PowerPC 64-bit processor · **s390** = IBM System/390 · **sparc64** = Oracle SPARC 64-bit processor · **LTS** = long-term support · **VM** = virtual machine
+**amd64** = **x64** = **x86-64** = AMD/Intel x86 64-bit processor · **i386** = **x32** = **x86-32** = AMD/Intel x86 32-bit processor  ·  **arm64** = **aarch64** = ARM 64-bit processor · **armel** = older ARM 32-bit processor · **armv7** = **armhf** = newer ARM 32-bit processor · **hyperV** = Microsoft Windows VM · **pi2/pi3/pi4** = Raspberry Pi 2, 3, or 4 · **ppc64** = **macppc** = **powerpc** = PowerPC 64-bit processor · **s390** = IBM System/390 · **sparc64** = Oracle SPARC 64-bit processor · **LTS** = long-term support · **VM** = virtual machine
 
 **What's the differences between: Live? Installer? NetInstaller?**
 
