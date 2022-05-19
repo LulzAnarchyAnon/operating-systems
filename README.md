@@ -1,7 +1,7 @@
 Mirror & Archive of 29 Operating Systems
 ========================================
 
-**Need to reinstall your operating system (OS)? Or want to try a newer, a former, a historic, or even a different OS? All downloads below are checksum verified and provided through the IPFS gateway. For system requirements and installation instructions visit the OS manufacturers website, please.** 🕒 *Updated May 13, 2022*
+**Need to reinstall your operating system (OS)? Or want to try a newer, a former, a historic, or even a different OS? All downloads below are checksum verified and provided through the IPFS gateway. For system requirements and installation instructions visit the OS manufacturers website, please.** 🕒 *Updated May 19, 2022*
 
 | Name & Website                                  | Available Downloads                                                                            | Supported Processors | Active? |
 | :---------------------------------------------- | :--------------------------------------------------------------------------------------------- | :------------------- | ----- |
@@ -13,23 +13,23 @@ Mirror & Archive of 29 Operating Systems
 | **[Debian](https://www.debian.org)**            | [8.11 ... 11.3](https://storry.tv/ipfs/QmdHLSByAKDspECvUrd4Q2nVGJyfr4HMyRvQPVqce97Y6w) | arm, mips, ppc64, s390, x86 | ✔️ |
 | **[elementary OS](https://elementary.io)**      | [0.4.1 ... 6.1](https://storry.tv/ipfs/QmSCM4gJE11P1eYi5J2CihkZJ3q3tcgx4DiKXAhw9ULcfQ)         | x86                  | ✔️ |
 | **[Fedora](https://getfedora.org)**             | [26 ... 36 ](https://storry.tv/ipfs/QmRmq2WFeRA9WXABEoxwuQRkqL1otyNT2MGLjbwAQwrehZ) | aarch64, x86         | ✔️ |
-| **[FreeBSD](https://www.freebsd.org)**          | [11.4 ... 13.0](https://storry.tv/ipfs/QmSqaz3ctfHx24NREV8M6ogZrj4XCKnwa78xUD1vmof14Z)         | arm64, powerpc, sparc64, x86 | ✔️ |
+| **[FreeBSD](https://www.freebsd.org)**          | [11.4 ... 13.1](https://storry.tv/ipfs/QmbveZstcws7hmZDc9hh75v7TFt8ehddAQwcwwmVFhdDsr) | arm64, powerpc, sparc64, x86 | ✔️ |
 | **[HypriotOS](https://blog.hypriot.com)**       | [1.0 ... 1.12.3](https://storry.tv/ipfs/QmVaauqYstcdrtz4XhmYAtBamyQKCjTZyH6NViQHXiV1r9)        | pi3                  | ✔️ |
 | **[INSERT](https://www.inside-security.de/insert.html)** | [1.3.9b](https://storry.tv/ipfs/QmVpmV9bSigEbC4MTaw9G7x3USgeCEfPeTtERc3VFYEymx)       | x86                  | ❌ |
-| **[Kali Linux](https://www.kali.org)**          | [2020.1 ... 2022.1](https://storry.tv/ipfs/QmVP4t9bWQi4PA7pYF1aafLeRhHAHn6uCN2GM3w2oamcgZ) | arm, x86                 | ✔️ |
+| **[Kali Linux](https://www.kali.org)**          | [2020.1 ... 2022.2](https://storry.tv/ipfs/QmPAxC6UfvcmVNwYunDRx4f27WJWqEgqFZgi9qT1GExpHn) | arm, x86                 | ✔️ |
 | **[Knoppix](http://www.knoppix.org/)**          | [6.0 ... 9.1](https://storry.tv/ipfs/QmS9ZHoBcM6Q98UUiqhhvUAi7hbj39Yuy2bRNxhhVpr3QN)           | x86                  | ✔️ |
 | **[LibreELEC](https://libreelec.tv)**           | [7 ... 10](https://storry.tv/ipfs/QmXFnHHMD6pBFBgGypMEmoqkepBihCs5MBZevbbaUR5D3x) | arm, x86             | ✔️ |
 | **[Linux Mint](https://linuxmint.com)**         | [18.2 ... 20.3](https://storry.tv/ipfs/QmbvpqF6GnCiRuYQBxgmhFb12qoeQu1Dt9pKN7z3rUVupb)         | x86                  | ✔️ |
 | **[OpenBSD](http://www.openbsd.org)**           | [6.2 ... 7.1](https://storry.tv/ipfs/QmPv2tEZTcJcgTCG8edUfAJaygj8toFbMkiq81BC9VC3Kd) | alpha,arm64,armv7,octeon,powerpc64,sparc64,x86 | ✔️ |
 | **[OpenSolaris](https://www.oracle.com/technetwork/server-storage/solaris/index-135144.html)** | [2009.06](https://storry.tv/ipfs/QmdRpuTZTyKsQSXPt3dyv6WdTY7ZyaRkkU5S3Z9tkPriPv) | x86 | ❌ |
 | **[openSUSE](https://www.opensuse.org)**        | [15.0 ... 15.3](https://storry.tv/ipfs/QmNcvhQWgzv946PAT1dBEN5FHJphB6W9kyEcZeDECNYMGM)         | x86                  | ✔️ |
-| **[Qubes OS](https://www.qubes-os.org/)**       | [1.0 ... 4.0.4](https://storry.tv/ipfs/QmR433KbGHuXSZvukNNahyy61QFw4zD8e1nRuGzgtzbFYk)         | x86                  | ✔️ |
+| **[Qubes OS](https://www.qubes-os.org/)**       | [1.0 ... 4.1.0](https://storry.tv/ipfs/Qmb817JnkgPdcDQ44L27WyquHkhZmxgExaRbYfBrwXq4nY) | x86                  | ✔️ |
 | **[RancherOS](http://rancher.com/rancher-os/)** | [1.0.3 ... 1.5.6](https://storry.tv/ipfs/QmT4NQYJU6mMmpJ9moooPgJpJDVoNP9rL7H3yumqpUqgb4)       | hyperV,VMware, x86   | ✔️ |
 | **[ReactOS](https://www.reactos.org)**          | [0.4.7 ... 0.4.14](https://storry.tv/ipfs/QmeLeyuUsFJJx96HvEAsneJpG6PsZZLupkbLms8AvzHUY1 )     | x86                  | ✔️ |
 | **[Remix OS](http://cn.jide.com/remixos)**      | [2016.11](https://storry.tv/ipfs/QmPhohZB29FNYqjBmxvPeXB1Jbd1anSq9tfXDE2xhZM54u)               | x86                  | ❌ |
 | **[SystemRescue](http://www.system-rescue-cd.org/)**| [6.1.8 ... 9.01](https://storry.tv/ipfs/QmdBkd7G4LfFrvmfS6oqJ3rZEr7qZzqBi9JSYCrgwAPjgG) | x86                     | ✔️ |
 | **[Tails](https://tails.boum.org/)**            | [3.16 ... 5.0](https://storry.tv/ipfs/QmVRL81gtq3LZz5MA3WL3mE1z6LnF5LBSpJvc5ohsrmAqR) | x86                          | ✔️ |
-| **[TrueNAS](https://www.truenas.org)**          | [11.0 ... 12.0](https://storry.tv/ipfs/Qma3n1u5J3hmiTGu3nz3u5Ln7BQh9Eyodwd1sfV2mJoynW)         | x86                  | ✔️ |
+| **[TrueNAS](https://www.truenas.org)**          | [11.0 ... 13.0](https://storry.tv/ipfs/QmQEzuvZxpZo2mDMSuFpTzMFsLQJMrfg4hWeDm5r6zd6WE) | x86                  | ✔️ |
 | **[Ubuntu](https://www.ubuntu.com/)**           | [4.10 ... 22.04](https://storry.tv/ipfs/QmXFUkcRbET7EnXgMExaavxWRWKvvr9umzKNXbfPrWe3DA) | arm64, pi2, pi3, pi4, ppc64, s390, x86 | ✔️ |
 | **[Ubuntu Core](https://www.ubuntu.com/core)**  | [16 ... 20](https://storry.tv/ipfs/QmdZRfLgQrh71X3ng1avdrbVyrLz2tECEY3AAaT3bRZ5wE)             | pi2, pi3, pi4        | ✔️ |
 | **[Windows](https://www.microsoft.com)**        | [95 ... 11](https://storry.tv/ipfs/QmcLU6YPRes87qzZHcVjKbh9jZrCwJvBjXz9Y1dqVcytAf)             | x86                  | ✔️ |
@@ -78,8 +78,8 @@ Donate to [PayPal.me](https://www.paypal.me/Fleschutz) 👏 or install IPFS and 
 🔎 Statistics
 --------------
 
-- **Archived** 29 operating systems with 225 releases
-- **Hosting** 871 GB with 712 files in 420 folders 
+- **Archived** 29 operating systems with 227 releases
+- **Hosting** 896 GB with 741 files in 436 folders 
 - **Backed up** multiple times and distributed world-wide
 - **Seeding** 24/7 since January 7, 2017 (currently using go-ipfs v0.12.2)
 
