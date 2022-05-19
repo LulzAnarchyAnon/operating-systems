@@ -3,7 +3,7 @@ Mirror & Archive of 29 Operating Systems
 
 **Need to reinstall your operating system (OS)? Or want to try a newer, a former, a historic, or even a different OS? All downloads below are checksum verified and provided through the IPFS gateway. For system requirements and installation instructions visit the OS manufacturers website, please.** 🕒 *Updated May 19, 2022*
 
-| Name & Website                                  | Available Downloads                                                                            | Supported Processors | Active? |
+| Name & Website                                  | Downloads                                                                                      | Supported Processors | Active? |
 | :---------------------------------------------- | :--------------------------------------------------------------------------------------------- | :------------------- | ----- |
 | **[Android-x86](https://www.android-x86.org)**  | [🡇 5.1 ... 9.0](https://storry.tv/ipfs/QmdQrao7eUjcZ1GbR8rG21PnAw1vs5VWrvUFCvsDFGaMk8)        | x86                  | ✔️ |
 | **[Arch Linux](https://archlinux.org)**         | [🡇 2016.01.01 ... 2022.05.01](https://storry.tv/ipfs/QmeXHRHCCLYqxP5DNaXL7mrfnkALq223HZRKr8aYKESGs9) | x86                    | ✔️ |
