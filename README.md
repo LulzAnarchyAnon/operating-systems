@@ -47,9 +47,9 @@ Frequently Asked Questions (FAQ)
 
 *Live* is for running the OS without installing it first. *Installer* or *Offline Image* is to install the OS without the need of a network connection. *NetInstaller* or *Network Image* is a very small image and the rest is downloaded during installation.
 
-**How can I verify my downloaded file?**
+**How can I verify my downloads?**
 
-Compare the checksum of your file against our [file checksums (MD5+SHA1+SHA256 in XML format)](data/file_checksums.xml) and/or against the OS manufacturers checksum.
+Compare the checksum of your downloaded file (MD5, SHA1, or SHA256) against our [file checksums (XML format)](data/file_checksums.xml) and/or against the OS manufacturers checksum.
 
 **How do I copy the downloaded .ISO or .IMG file to my USB stick or SD card?**
 
