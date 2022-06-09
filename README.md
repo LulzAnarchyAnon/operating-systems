@@ -22,7 +22,7 @@ Mirror & Archive of 29 Operating Systems
 | **[Linux Mint](https://linuxmint.com)**         | [🡇 18.2 ... 20.3](https://storry.tv/ipfs/QmWqch5ZWthZayTo9ehz95tZ2j99LA2y7Wd15v32qP4jV4) | x86                  | ✔️ |
 | **[OpenBSD](http://www.openbsd.org)**           | [🡇 6.2 ... 7.1](https://storry.tv/ipfs/QmPv2tEZTcJcgTCG8edUfAJaygj8toFbMkiq81BC9VC3Kd) | alpha,arm64,armv7,octeon,powerpc64,sparc64,x86 | ✔️ |
 | **[OpenSolaris](https://www.oracle.com/technetwork/server-storage/solaris/index-135144.html)** | [🡇 2009.06](https://storry.tv/ipfs/QmdRpuTZTyKsQSXPt3dyv6WdTY7ZyaRkkU5S3Z9tkPriPv) | x86 | ❌ |
-| **[openSUSE](https://www.opensuse.org)**        | [🡇 15.0 ... 15.3](https://storry.tv/ipfs/Qmahgi48KgPmZVAdzb9ZwpzuBYF7TRzj74WLSYJ8goGbmM) | x86                  | ✔️ |
+| **[openSUSE](https://www.opensuse.org)**        | [🡇 15.0 ... 15.3](https://storry.tv/ipfs/Qmahgi48KgPmZVAdzb9ZwpzuBYF7TRzj74WLSYJ8goGbmM) | aarch64, ppc64le, s390, x86                  | ✔️ |
 | **[Qubes OS](https://www.qubes-os.org/)**       | [🡇 1.0 ... 4.1.0](https://storry.tv/ipfs/Qmb817JnkgPdcDQ44L27WyquHkhZmxgExaRbYfBrwXq4nY) | x86                  | ✔️ |
 | **[RancherOS](http://rancher.com/rancher-os/)** | [🡇 1.0.3 ... 1.5.6](https://storry.tv/ipfs/QmT4NQYJU6mMmpJ9moooPgJpJDVoNP9rL7H3yumqpUqgb4)    | hyperV,VMware, x86   | ✔️ |
 | **[ReactOS](https://www.reactos.org)**          | [🡇 0.4.7 ... 0.4.14](https://storry.tv/ipfs/QmRGQzZoQksJCjdtULnxuYp4HuD187LbN81YSTPYMsNtrA) | x86                  | ✔️ |
