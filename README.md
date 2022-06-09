@@ -45,7 +45,7 @@ Frequently Asked Questions (FAQ)
 
 **What's the differences between: Live? Installer? NetInstaller?**
 
-*Live* is for running the OS without installing it first. *Installer* is to install the OS without the need of a network connection. *NetInstaller* is a very small image and the rest is downloaded during installation.
+*Live* is for running the OS without installing it first. *Installer* or *Offline Image* is to install the OS without the need of a network connection. *NetInstaller* or *Network Image* is a very small image and the rest is downloaded during installation.
 
 **How can I verify my downloaded file?**
 
